@@ -1,482 +1,482 @@
 ,venue_id,venue_name,venue_categories,venue_hasPerk,venue_lat,venue_lng,neighborhood,verified,likes_count,rating,neighborhood_lat_lng,label
-0,58709bd92520ae35b5fe1dd3,السرير الي اكل فيه,Afghan Restaurant,False,24.590693,46.638974, Zahrat al Badiah District ظهرة البديعة,False,0,7.8,"24.59795765,46.64831865202828",1
-1,50b11bdae4b0f66121ca1294,غدير الشام,Middle Eastern Restaurant,False,24.600447996435896,46.649279605225, Zahrat al Badiah District ظهرة البديعة,False,5,6.6,"24.59795765,46.64831865202828",1
-2,5749fefc498e87674ec37615,ارض الحمام,African Restaurant,False,24.596567,46.63737800000001, Zahrat al Badiah District ظهرة البديعة,False,9,6.9,"24.59795765,46.64831865202828",1
-3,582a1bf87448d2404b5c72b1,منؤشة,Belgian Restaurant,False,24.584936,46.617817, Zahrat al Badiah District ظهرة البديعة,False,5,6.2,"24.59795765,46.64831865202828",1
-4,5e0281907223790008d529d7,FitHouse,Comfort Food Restaurant,False,24.581755,46.63215200000001, Zahrat al Badiah District ظهرة البديعة,False,2,7.8,"24.59795765,46.64831865202828",1
-5,4fcddfdbe4b032142f70f9f4,مطاعم مشخول,Seafood Restaurant,False,24.587567559502286,46.622777821296395, Zahrat al Badiah District ظهرة البديعة,False,30,7.0,"24.59795765,46.64831865202828",1
-6,5da7714b374b2700074f8e77,BONNE SANTE CAFA,Dutch Restaurant,False,24.588242,46.636933, Zahrat al Badiah District ظهرة البديعة,False,2,7.8,"24.59795765,46.64831865202828",1
-7,5e347d4b0a924d0008d30741,حديقة أمي هيا,Dutch Restaurant,False,24.595576,46.6311, Zahrat al Badiah District ظهرة البديعة,False,2,7.8,"24.59795765,46.64831865202828",1
-8,5d4fab8fd16e2000086ea76b,ملحمه,Halal Restaurant,False,24.579882,46.60982, Zahrat al Badiah District ظهرة البديعة,False,0,7.8,"24.59795765,46.64831865202828",1
-9,5925caa31ffed711df142865,Feresca Pasta (باستا فيريسكا),Italian Restaurant,False,24.59825099030512,46.645782193458366, Zahrat al Badiah District ظهرة البديعة,False,60,8.2,"24.59795765,46.64831865202828",1
-10,5900b6afdb1d813ad8c1b5ac,بخاري نورة,Kebab Restaurant,False,24.604783,46.656033, Zahrat al Badiah District ظهرة البديعة,False,0,7.8,"24.59795765,46.64831865202828",1
-11,4ee669680aaf893951ae8067,بيت الفطيرة الدمشقية,Arepa Restaurant,False,24.593106197747932,46.631792118863856, Zahrat al Badiah District ظهرة البديعة,False,18,7.3,"24.59795765,46.64831865202828",1
-12,53c5a8b1498e6403bd3faffe,مطاعم اماسي الديوان,Mediterranean Restaurant,False,24.578226,46.60793, Zahrat al Badiah District ظهرة البديعة,False,5,7.8,"24.59795765,46.64831865202828",1
-13,50338ca2e4b0412b1014a962,شواية الخليج,Middle Eastern Restaurant,False,24.59617201717113,46.636471476795435, Zahrat al Badiah District ظهرة البديعة,False,97,9.0,"24.59795765,46.64831865202828",1
-14,56338190498e966fc2990860,الخليج ستور,Swiss Restaurant,False,24.592512,46.653775, Zahrat al Badiah District ظهرة البديعة,False,1,7.8,"24.59795765,46.64831865202828",1
-15,524dadd4498e4919c03dfadf,مطعم غصن الرمان,Middle Eastern Restaurant,False,24.579276882256163,46.78279204476034, Al Aziziyah District حي العزيزية,False,3,7.8,"24.58942265,46.77363440285736",1
-16,5161b716e4b053ab7ec9fe0c,مطعم شروق المدينه البخاري,Afghan Restaurant,False,24.584983,46.779254, Al Aziziyah District حي العزيزية,False,5,7.8,"24.58942265,46.77363440285736",1
-17,57759dcd498e3c4f7263f3a5,بادية الزمرد للبخاري,Afghan Restaurant,False,24.588336,46.764393, Al Aziziyah District حي العزيزية,False,5,7.8,"24.58942265,46.77363440285736",1
-18,5965bad62bf9a95ff7f9888c,الفوال اللي جنب المكتب,African Restaurant,False,24.594137,46.746727, Al Aziziyah District حي العزيزية,False,0,7.8,"24.58942265,46.77363440285736",1
-19,520e02b211d2a24192b3e027,مطاعم ومطابخ ديرتي,Caribbean Restaurant,False,24.59556203661309,46.775665929069525, Al Aziziyah District حي العزيزية,False,0,7.8,"24.58942265,46.77363440285736",1
-20,51b3f593498e028dc793d4a4,فلافل الحارة,Falafel Restaurant,False,24.5804094285637,46.78181281508839, Al Aziziyah District حي العزيزية,False,13,8.4,"24.58942265,46.77363440285736",1
-21,4ef3e3c29adf60f83a1add44,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.585803448889266,46.77857408372506, Al Aziziyah District حي العزيزية,True,94,7.5,"24.58942265,46.77363440285736",1
-22,5e382fa03fdab20008109e58,تسالي علي,Halal Restaurant,False,24.587898000000006,46.782222, Al Aziziyah District حي العزيزية,False,0,7.8,"24.58942265,46.77363440285736",1
-23,57b4c29dcd107b8bb2c352a6,مطعم ومشاوي الرافدين,Kebab Restaurant,False,24.586833,46.777958, Al Aziziyah District حي العزيزية,False,0,7.8,"24.58942265,46.77363440285736",1
-24,5d30c4b71938c700083bcb06,مطاعم حديقة لبنان للمشاوي الطازجة,Kebab Restaurant,False,24.602044,46.761932, Al Aziziyah District حي العزيزية,False,3,7.8,"24.58942265,46.77363440285736",1
-25,5867c1184988da05ede19442,مطاعم روافد بغداد,Kebab Restaurant,False,24.569924,46.770544, Al Aziziyah District حي العزيزية,False,13,8.0,"24.58942265,46.77363440285736",1
-26,5776ef03498e9b4c2da8a7e4,مطعم فروج العافية,Kebab Restaurant,False,24.585191,46.771771, Al Aziziyah District حي العزيزية,False,11,8.0,"24.58942265,46.77363440285736",1
-27,50885641e4b05e0a946f4423,الفطيرة الدمشقية,Arepa Restaurant,False,24.59056483259285,46.776143177134045, Al Aziziyah District حي العزيزية,False,4,7.8,"24.58942265,46.77363440285736",1
-28,57f2b7d8498e96a429ceff0f,مطبق تلال غوار,Theme Restaurant,False,24.586772,46.78035, Al Aziziyah District حي العزيزية,False,0,7.8,"24.58942265,46.77363440285736",1
-29,50e31ba4e4b01580b75bf071,مطعم خندلة,Turkish Restaurant,False,24.586298056381803,46.78189886215309, Al Aziziyah District حي العزيزية,False,13,8.4,"24.58942265,46.77363440285736",1
-30,568fb7ea498e7bcf9edae514,Marmara Istanbul Restaurant,Turkish Restaurant,False,24.569081305040026,46.753872969574566, Al Aziziyah District حي العزيزية,False,3,7.8,"24.58942265,46.77363440285736",1
-31,520bd7fa11d2caaabfcd265e,بوفية الإطلال | تشباتي ومطبق,Afghan Restaurant,False,24.766670738617943,46.8065757428205, Al Nahdhah District حي النهضة,False,8,7.5,"24.75879795,46.81326803253911",1
-32,531cd656498ed5c01f22a76a,فوال مدري شسمه,Afghan Restaurant,False,24.776664,46.823397, Al Nahdhah District حي النهضة,False,1,7.8,"24.75879795,46.81326803253911",1
-33,4f355790e4b0aa70b34f62d3,Al-Tazaj (الطازج),Fast Food Restaurant,False,24.749733271515,46.817535820498584, Al Nahdhah District حي النهضة,False,91,7.7,"24.75879795,46.81326803253911",1
-34,507e4b94e4b0fd19feb96e5f,صب واي,Cuban Restaurant,False,24.768348577387428,46.83151577860029, Al Nahdhah District حي النهضة,False,3,7.8,"24.75879795,46.81326803253911",1
-35,5ae3605e89ad46002495ddc0,لقيمات اجدادنا,Dumpling Restaurant,False,24.761486,46.798218, Al Nahdhah District حي النهضة,False,2,7.8,"24.75879795,46.81326803253911",1
-36,5ac5a757ca18ea0e44897ef5,فلافل ثمار,Falafel Restaurant,False,24.754182,46.816788, Al Nahdhah District حي النهضة,False,9,8.0,"24.75879795,46.81326803253911",1
-37,4fc51c65e4b0093f0b50b624,فلافل ابو عدنان,Falafel Restaurant,False,24.771088847118893,46.813388628761814, Al Nahdhah District حي النهضة,False,97,8.5,"24.75879795,46.81326803253911",1
-38,56ba30cd498e8546c990cc05,Falafel Pie (فطيرة الفلافل),Falafel Restaurant,False,24.75253242004043,46.78373252615914, Al Nahdhah District حي النهضة,False,26,8.1,"24.75879795,46.81326803253911",1
-39,4eadb128b634339687da55a0,McDonald's ماكدونالدز,Fast Food Restaurant,False,24.76177608636694,46.79905009810307, Al Nahdhah District حي النهضة,True,159,7.6,"24.75879795,46.81326803253911",1
-40,53e07080498e04277b6fe845,Galaxy restaurant,Indian Restaurant,False,24.77148824267859,46.81487679468279, Al Nahdhah District حي النهضة,False,3,7.8,"24.75879795,46.81326803253911",1
-41,535a6ba4498e7c5784655477,spice (سبايس),Indian Restaurant,False,24.762562967486648,46.799916020624856, Al Nahdhah District حي النهضة,True,23,6.3,"24.75879795,46.81326803253911",1
-42,57f13f49498e15fd39adb6fd,La Casa Pasta,Italian Restaurant,False,24.753953020630533,46.82410984377756, Al Nahdhah District حي النهضة,False,12,8.0,"24.75879795,46.81326803253911",1
-43,5e23606f378da20008e0cd5a,Ennabi Grill (المشوي العنابي),Kebab Restaurant,False,24.762666,46.810154, Al Nahdhah District حي النهضة,False,5,6.7,"24.75879795,46.81326803253911",1
-44,5cdc8b2e75eee4002c98d1d2,حاشي باشا,Kebab Restaurant,False,24.769183,46.81055300000001, Al Nahdhah District حي النهضة,False,0,7.8,"24.75879795,46.81326803253911",1
-45,58adcbb9e7f1cf56f9adb5e2,GRILLY (جريلي),Kebab Restaurant,False,24.764339,46.802556, Al Nahdhah District حي النهضة,False,2,7.8,"24.75879795,46.81326803253911",1
-46,4f4d2842e4b052b87a7865e4,مطعم الصياد,Mediterranean Restaurant,False,24.76486884699543,46.80927809977523, Al Nahdhah District حي النهضة,False,3,7.8,"24.75879795,46.81326803253911",1
-47,521e331311d2d794fd53f24e,Diet Center (دايت سنتر),Vegetarian / Vegan Restaurant,False,24.75147,46.820052, Al Nahdhah District حي النهضة,False,2,7.8,"24.75879795,46.81326803253911",1
-48,55eabec9498e451003e3e7fb,بخاري بركة الشباب,Afghan Restaurant,False,24.6584594,46.7444229, Al Malaz District حي الملز,False,2,7.8,"24.6641208,46.73369757161316",1
-49,4f9d1786e4b044503b610d12,مطعم الركن البخاري,Asian Restaurant,False,24.660218231825148,46.735757197080325, Al Malaz District حي الملز,False,31,8.0,"24.6641208,46.73369757161316",1
-50,5d216a63ac5dfc002fa4e29c,فلافل نقاء,Dutch Restaurant,False,24.669754,46.73842, Al Malaz District حي الملز,False,0,7.8,"24.6641208,46.73369757161316",1
-51,5d56a50313ed880008129e91,مكان ألماس RESTAURANT ALMAS,Dutch Restaurant,False,24.678145,46.727766, Al Malaz District حي الملز,False,1,7.8,"24.6641208,46.73369757161316",1
-52,4bb05bd4f964a5206b423ce3,فلافل عرفه,Falafel Restaurant,False,24.655357058365997,46.74416437472593, Al Malaz District حي الملز,False,318,8.4,"24.6641208,46.73369757161316",1
-53,5c1725e54c9be6002cb36b6a,فووول تاااااوه,Halal Restaurant,False,24.666731,46.721022, Al Malaz District حي الملز,False,1,7.8,"24.6641208,46.73369757161316",1
-54,4f060350e5facc333eab5596,Indian Corner (الركن الهندي),Indian Restaurant,False,24.67135575187931,46.73421885041415, Al Malaz District حي الملز,True,154,7.9,"24.6641208,46.73369757161316",1
-55,5df72ddeecb0ba000855f8b5,مطعم المصباح الدمشقي,Kebab Restaurant,False,24.66054,46.738115, Al Malaz District حي الملز,False,0,7.8,"24.6641208,46.73369757161316",1
-56,5144a8cae4b0a40e3cc36e61,الأحمدي للحوم,Mediterranean Restaurant,False,24.668824977268386,46.73249138722346, Al Malaz District حي الملز,False,1,7.8,"24.6641208,46.73369757161316",1
-57,57c95e97498e1f8717fa7462,Alahmadi Grilles (الأحمدي للمشويات والمعجنات),Mediterranean Restaurant,False,24.668625,46.732353, Al Malaz District حي الملز,False,5,7.8,"24.6641208,46.73369757161316",1
-58,50c8542ae4b0d1a95fe77ac3,Tako Hut,Mexican Restaurant,False,24.65997993015801,46.71824500077418, Al Malaz District حي الملز,False,0,7.8,"24.6641208,46.73369757161316",1
-59,5e5ea37103634e00088efa4f,Fast Food Restraunt,Pakistani Restaurant,False,24.671774,46.730238, Al Malaz District حي الملز,False,0,7.8,"24.6641208,46.73369757161316",1
-60,4fbe0b7be4b0c7c8fc1a03cb,المطاعم البحرية,Seafood Restaurant,False,24.67255068575951,46.740521227731286, Al Malaz District حي الملز,False,29,7.6,"24.6641208,46.73369757161316",1
-61,57041063498e7bb04d1b54ad,The Diner,Sri Lankan Restaurant,False,24.671151119608044,46.73068794283913, Al Malaz District حي الملز,False,8,7.7,"24.6641208,46.73369757161316",1
-62,57063273cd103cd2d28c138d,The Diner Restaurant,Sri Lankan Restaurant,False,24.671387,46.730675, Al Malaz District حي الملز,False,1,7.8,"24.6641208,46.73369757161316",1
-63,54bff62f498e78d9c54c6394,الخضرجي يلي بيوصل عالبيت 😁,Vegetarian / Vegan Restaurant,False,24.66999435424805,46.73151397705078, Al Malaz District حي الملز,False,1,7.8,"24.6641208,46.73369757161316",1
-64,5be25c18135b39002cce7e7a,بوفيه ركن صبري,Afghan Restaurant,False,24.782916,46.625836, Al Aqeeq District حي العقيق,False,0,7.8,"24.7798792,46.6268087019194",0
-65,5cf54cb7b9b37b002c190987,The Cheesecake Factory,American Restaurant,False,24.755442,46.629806, Al Aqeeq District حي العقيق,False,586,9.3,"24.7798792,46.6268087019194",0
-66,5a4015c5a4b51b6378b0b9ab,P.F. Chang's (بي إف تشانغز),Chinese Restaurant,False,24.755442,46.629806, Al Aqeeq District حي العقيق,False,363,8.7,"24.7798792,46.6268087019194",0
-67,5cf1ee0ae65d0c002cd0753c,Chunk Social,Restaurant,False,24.75616528569097,46.6288948059082, Al Aqeeq District حي العقيق,True,70,8.7,"24.7798792,46.6268087019194",0
-68,590f5b7fc824ae79c8fc8363,Operation Falafel (أوبريشن فلافل),Falafel Restaurant,False,24.75224864719993,46.62495821564122, Al Aqeeq District حي العقيق,False,1668,8.9,"24.7798792,46.6268087019194",0
-69,560ec9a4498e239b1a73573f,ملحمة البحر المتوسط,Halal Restaurant,False,24.778942108154297,46.62887573242188, Al Aqeeq District حي العقيق,False,0,7.8,"24.7798792,46.6268087019194",0
-70,5e52176b0932670007b34a59,بوفية الدوام,Halal Restaurant,False,24.79147,46.631349, Al Aqeeq District حي العقيق,False,0,7.8,"24.7798792,46.6268087019194",0
-71,5dae183be55508000813c19e,End,Indian Restaurant,False,24.78585,46.633173, Al Aqeeq District حي العقيق,False,3,7.8,"24.7798792,46.6268087019194",0
-72,58823f6351d19e79a10cf2ae,فلفل أخضر,Indian Restaurant,False,24.782,46.628567, Al Aqeeq District حي العقيق,False,6,7.8,"24.7798792,46.6268087019194",0
-73,5c31d5b11f8ed6002c2b8ecb,Kumar (كومار),Indian Restaurant,False,24.755912,46.629303, Al Aqeeq District حي العقيق,True,1927,8.7,"24.7798792,46.6268087019194",0
-74,56cba5abcd10270c6ba9768f,Zafran Indian Bistro (زافران),Indian Restaurant,False,24.75281249633192,46.625240897318534, Al Aqeeq District حي العقيق,True,552,7.0,"24.7798792,46.6268087019194",0
-75,5debb5bc4341c6000854200a,Pasta & Risotto,Italian Restaurant,False,24.785375,46.634356, Al Aqeeq District حي العقيق,False,2,8.4,"24.7798792,46.6268087019194",0
-76,5c33632d8ad62e002cd6c989,MELENZANÉ (ملنزاني),Italian Restaurant,False,24.75623356556251,46.62920100855281, Al Aqeeq District حي العقيق,False,816,8.3,"24.7798792,46.6268087019194",0
-77,58bf10da7d0f6d4037cd097d,Pastaria,Italian Restaurant,False,24.78962341187078,46.62097001788729, Al Aqeeq District حي العقيق,False,508,9.0,"24.7798792,46.6268087019194",0
-78,58da9b57a37d723799393f91,Texas De Brazil (تكساس دي برازيل),Brazilian Restaurant,False,24.752640859164014,46.62536444498024, Al Aqeeq District حي العقيق,True,602,7.2,"24.7798792,46.6268087019194",0
-79,4fe0a7c9e4b02144342f6617,مطعم ماما ريمان,Mediterranean Restaurant,False,24.778258,46.628867, Al Aqeeq District حي العقيق,False,6,5.9,"24.7798792,46.6268087019194",0
-80,5cd0add481a0ea002cb25b34,Ritage Garden (ريتاج قاردين),Mediterranean Restaurant,False,24.755716550710112,46.630979802033615, Al Aqeeq District حي العقيق,False,109,6.2,"24.7798792,46.6268087019194",0
-81,59d7be345d891b5884122c13,Tortilla,Mexican Restaurant,False,24.75435,46.629935, Al Aqeeq District حي العقيق,False,1,7.8,"24.7798792,46.6268087019194",0
-82,5b53975993bd63002c1d8906,‪Tortilla‬ (تورتيا),Mexican Restaurant,False,24.75696537032033,46.63031970921004, Al Aqeeq District حي العقيق,False,20,6.1,"24.7798792,46.6268087019194",0
-83,584184f9de0cbc1db7790111,Fire Grill (فاير جريل),Mexican Restaurant,False,24.79635245236998,46.62898315216257, Al Aqeeq District حي العقيق,True,176,8.8,"24.7798792,46.6268087019194",0
-84,5ab18be0d552c73bc456a6c4,Fire Grill (فاير جريل),Mexican Restaurant,False,24.757251459935127,46.62918345862564, Al Aqeeq District حي العقيق,True,29,8.4,"24.7798792,46.6268087019194",0
-85,507c645ce4b0697bf5706cf4,مطعم الحمراء البخاري,Middle Eastern Restaurant,False,24.78082115213011,46.636772627187284, Al Aqeeq District حي العقيق,True,1088,9.2,"24.7798792,46.6268087019194",0
-86,56b0f8a5498e22d232fcdeba,Nando's (ناندوز),Portuguese Restaurant,False,24.75290331038598,46.625450413332395, Al Aqeeq District حي العقيق,True,1063,7.2,"24.7798792,46.6268087019194",0
-87,4da158b09aa4721e9071f919,Kudu (كودو),Fast Food Restaurant,False,24.78684212673268,46.63405539383268, Al Aqeeq District حي العقيق,False,128,6.5,"24.7798792,46.6268087019194",0
-88,5d56ea503a559e0007bf64e5,Catch Of The Day,Seafood Restaurant,False,24.764101,46.624141, Al Aqeeq District حي العقيق,False,211,7.1,"24.7798792,46.6268087019194",0
-89,5a6a23f61499466d519b0825,Ghadwa Ashwa EXPRESS (غدوة عشوة اكسبريس),Theme Restaurant,False,24.76197180240489,46.625661909170866, Al Aqeeq District حي العقيق,True,114,8.6,"24.7798792,46.6268087019194",0
-90,5cc3137d286fda0039b43bad,بر,Theme Restaurant,False,24.755953,46.629914, Al Aqeeq District حي العقيق,False,5,6.4,"24.7798792,46.6268087019194",0
-91,539cac73498ef2194142e51f,استراحة تركي بن محمد,Theme Restaurant,False,24.781893277781915,46.61653764737605, Al Aqeeq District حي العقيق,False,0,7.8,"24.7798792,46.6268087019194",0
-92,5bd897d5acb00b00394610d8,Big Chefs,Turkish Restaurant,False,24.75559960346732,46.6305651778601, Al Aqeeq District حي العقيق,True,526,6.3,"24.7798792,46.6268087019194",0
-93,572370e4498e113c95a00ae3,Döner House (دونر هاوس),Doner Restaurant,False,24.795824233869066,46.629354800628136, Al Aqeeq District حي العقيق,False,217,6.6,"24.7798792,46.6268087019194",0
-94,5d67bcdead15640008f1b0de,Buffalo,American Restaurant,False,24.755666,46.631598, Al Aqeeq District حي العقيق,False,0,7.9,"24.7798792,46.6268087019194",0
-95,58a02c82288b6a52f5dda1b1,نور الرياض البخاري,Afghan Restaurant,False,24.739399652464204,46.644038693579596, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-96,5dc93e61d7386c0007ab53be,Ovvi Lounge & Restaurant,American Restaurant,False,24.726594,46.644039, Al Muhammadiyah District حي المحمدية,True,477,8.3,"24.731797649999997,46.64991017633719",0
-97,510a60b4e4b0fb795389ce90,One O One (ون اوْ ون),Fast Food Restaurant,False,24.723195804047283,46.65222649099481, Al Muhammadiyah District حي المحمدية,False,739,8.6,"24.731797649999997,46.64991017633719",0
-98,5b716f0e95a722002c9af8af,Masami Sushi (مسامي سوشي),Sushi Restaurant,False,24.723247,46.645712, Al Muhammadiyah District حي المحمدية,False,453,8.1,"24.731797649999997,46.64991017633719",0
-99,520a84ca498ef0f4696218f5,Le Chateau (لو شاتّو),Chinese Restaurant,False,24.72639161774031,46.65246697629049, Al Muhammadiyah District حي المحمدية,False,3382,8.2,"24.731797649999997,46.64991017633719",0
-100,530a3dd311d2ee2f042c73f3,Rosters,Austrian Restaurant,False,24.73767471313477,46.65851211547852, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-101,56ec0cfe498e73779bbb7f10,PAUL (پول),French Restaurant,False,24.73598583490297,46.64728136284227, Al Muhammadiyah District حي المحمدية,False,1039,8.5,"24.731797649999997,46.64991017633719",0
-102,5dd175309688f200082619ee,Black Spoon,Restaurant,False,24.731699,46.649523, Al Muhammadiyah District حي المحمدية,False,111,6.4,"24.731797649999997,46.64991017633719",0
-103,526e246511d2fa12163d97fd,Diet Center (دايت سنتر),Restaurant,False,24.72938339421411,46.635052265952865, Al Muhammadiyah District حي المحمدية,True,5,5.9,"24.731797649999997,46.64991017633719",0
-104,517119f2e4b0e7bbf562f1fd,SMKTNA (سمكتنا),Seafood Restaurant,False,24.721837388840733,46.64925132544811, Al Muhammadiyah District حي المحمدية,False,29,7.4,"24.731797649999997,46.64991017633719",0
-105,5ae7cf7e89ad460024edf6a0,Gontran Cherrier,French Restaurant,False,24.73172785125989,46.64794921875, Al Muhammadiyah District حي المحمدية,False,187,6.7,"24.731797649999997,46.64991017633719",0
-106,58419abc528930609d2efcfc,Ôplaisir (أوبليزير),French Restaurant,False,24.73936693748291,46.64650541819064, Al Muhammadiyah District حي المحمدية,True,1382,8.8,"24.731797649999997,46.64991017633719",0
-107,5cfdba7279f6c7002cd1ba70,OKTO,Greek Restaurant,False,24.731871,46.648323, Al Muhammadiyah District حي المحمدية,False,180,7.7,"24.731797649999997,46.64991017633719",0
-108,5e3ac2e0ba5bc40008be8fe1,شباك بيروت,Halal Restaurant,False,24.743339,46.658358, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-109,54fd801c498eb43825b55f3a,New York Fries,American Restaurant,False,24.743190750657767,46.65865811108611, Al Muhammadiyah District حي المحمدية,False,15,5.9,"24.731797649999997,46.64991017633719",0
-110,5c05745735d3fc002ca427fd,RUHI Indian Restaurant,Indian Restaurant,False,24.731588,46.649379, Al Muhammadiyah District حي المحمدية,True,225,7.6,"24.731797649999997,46.64991017633719",0
-111,59a2864f1108ba0bf279b245,Asha's (آشاز),Indian Restaurant,False,24.743762,46.658268, Al Muhammadiyah District حي المحمدية,False,31,6.8,"24.731797649999997,46.64991017633719",0
-112,53caf27c498e5a7d7af8c239,Armin (آرمين),Mediterranean Restaurant,False,24.738258802136418,46.642634298167714, Al Muhammadiyah District حي المحمدية,True,2366,8.3,"24.731797649999997,46.64991017633719",0
-113,5d336ffe898bc70008b4a987,Em Sherif Café (أم شريف),Lebanese Restaurant,False,24.731416018830966,46.649343967437744, Al Muhammadiyah District حي المحمدية,False,752,8.6,"24.731797649999997,46.64991017633719",0
-114,5825dc90e9e6fe0327ba5620,Famille Mary فاميلي ماري,Molecular Gastronomy Restaurant,False,24.736002,46.647298, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-115,5ae7d0e8d4cc98002cdfdf05,Catch 22,Restaurant,False,24.731407,46.64855, Al Muhammadiyah District حي المحمدية,False,1176,7.4,"24.731797649999997,46.64991017633719",0
-116,5d03edf1f05ca8002dcc5010,Le Vert,Restaurant,False,24.73216,46.648319, Al Muhammadiyah District حي المحمدية,True,526,8.2,"24.731797649999997,46.64991017633719",0
-117,5159d577e889ef4d69e3fa30,From Nature,Restaurant,False,24.74422973863232,46.65800213813782, Al Muhammadiyah District حي المحمدية,True,3,7.8,"24.731797649999997,46.64991017633719",0
-118,5d381529c46dcb0008343fc5,Riyad Mall,Sri Lankan Restaurant,False,24.74273,46.657989, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-119,5ae9fdd5ca18ea002cd6d06f,Antica Armany,Theme Restaurant,False,24.73786,46.65836, Al Muhammadiyah District حي المحمدية,False,0,7.8,"24.731797649999997,46.64991017633719",0
-120,537dcacc498edfe993fe84d9,Lamat Remas Bukarari (مطعم لمعة ريماس البخاري),Afghan Restaurant,False,24.786429892615715,46.74755409672179, Ghirnatah District حي غرناطة,False,10,7.3,"24.7919157,46.74432949210845",0
-121,5ac680a14a1cc011c912469b,بيت الحمام,African Restaurant,False,24.744898000000006,46.775761, Ghirnatah District حي غرناطة,False,1,7.8,"24.7919157,46.74432949210845",0
-122,506ee4ffe4b0dd0f47acd139,بخاري ومضغوط الخيام,Middle Eastern Restaurant,False,24.795938,46.74276, Ghirnatah District حي غرناطة,False,6,6.5,"24.7919157,46.74432949210845",0
-123,57fc1c19498e064f77f60978,Texas Roadhouse (تكساس رودهاوس),American Restaurant,False,24.77875881440021,46.73424983573365, Ghirnatah District حي غرناطة,False,509,8.4,"24.7919157,46.74432949210845",0
-124,57fad9fc498e90a7831c4525,The Cheesecake Factory (ذي تشيزكيك فاكتوري),American Restaurant,False,24.778321909340573,46.73438228062045, Ghirnatah District حي غرناطة,False,3099,9.1,"24.7919157,46.74432949210845",0
-125,4d98c87b744f3704d7dff757,Steak House (ستيك هاوس),American Restaurant,False,24.780583821666042,46.73059579536338, Ghirnatah District حي غرناطة,True,383,7.9,"24.7919157,46.74432949210845",0
-126,57fadac2498eb0c4e8552c33,P. F. Chang's,Chinese Restaurant,False,24.77862656269991,46.73441773031028, Ghirnatah District حي غرناطة,False,1192,8.8,"24.7919157,46.74432949210845",0
-127,50a53cb0e4b0c2165f43aaf8,Almajles Alkhaliji (المجلس الخليجي),Middle Eastern Restaurant,False,24.783285,46.746542, Ghirnatah District حي غرناطة,True,1256,7.7,"24.7919157,46.74432949210845",0
-128,4f6cd94fe4b03b3f38c9e98e,مأكولات رام | Ram,Cajun / Creole Restaurant,False,24.797113757103357,46.74195817345576, Ghirnatah District حي غرناطة,False,15,7.2,"24.7919157,46.74432949210845",0
-129,516538d2e4b038351341f64d,Les Bernaches,Eastern European Restaurant,False,24.78654208991981,46.73093343407197, Ghirnatah District حي غرناطة,False,2,7.8,"24.7919157,46.74432949210845",0
-130,58a44d479c954835cced139e,Hawa beirut,Eastern European Restaurant,False,24.788833,46.754266, Ghirnatah District حي غرناطة,False,2,7.8,"24.7919157,46.74432949210845",0
-131,4e9fd83582310652a7fb4181,HASHEM (هاشم),Falafel Restaurant,False,24.766164010247607,46.76023951675303, Ghirnatah District حي غرناطة,False,232,7.6,"24.7919157,46.74432949210845",0
-132,506a9744e4b05499f5d3309d,Falafel Themar (فلافل ثمار),Falafel Restaurant,False,24.798641988331383,46.741193694843425, Ghirnatah District حي غرناطة,False,186,8.5,"24.7919157,46.74432949210845",0
-133,4e738a8cb993272e5236e274,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75319439514577,46.769590210321205, Ghirnatah District حي غرناطة,True,275,7.6,"24.7919157,46.74432949210845",0
-134,4bbb9ef4e5b0d13ab9496e7c,McDonald's,Fast Food Restaurant,False,24.799803915126272,46.740897204359406, Ghirnatah District حي غرناطة,True,281,7.8,"24.7919157,46.74432949210845",0
-135,5c331ae261f070002cfbb914,PUAL,French Restaurant,False,24.786832,46.727569, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-136,5262ca8711d269bc8b5c07ad,Le Prince لو برانس,French Restaurant,False,24.798012923920993,46.742043170153465, Ghirnatah District حي غرناطة,False,2,7.8,"24.7919157,46.74432949210845",0
-137,505f4d92e4b0afdc79e48cf7,France express,French Restaurant,False,24.78151636304956,46.74022993850414, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-138,562b36a2498e90702bd9ddd0,Eric Kayser (ايريك قيصر),French Restaurant,False,24.782936,46.729797, Ghirnatah District حي غرناطة,False,615,7.8,"24.7919157,46.74432949210845",0
-139,5cb225672be425002c630c24,محاصيل القصيم,Halal Restaurant,False,24.804172,46.75145300000001, Ghirnatah District حي غرناطة,False,1,7.8,"24.7919157,46.74432949210845",0
-140,5b4b58521953f3002cdcaa61,Nani (ناني),Indian Restaurant,False,24.80377965366014,46.749988216076076, Ghirnatah District حي غرناطة,False,156,7.5,"24.7919157,46.74432949210845",0
-141,5d1a625c6d22da002fc39f49,مطاعم فوانيس بغداد,Kebab Restaurant,False,24.812452,46.770449, Ghirnatah District حي غرناطة,False,1,7.8,"24.7919157,46.74432949210845",0
-142,535bfae6498e59e05a904f3d,مشويات نعيم الرافدين || BBQ Naim Al-Rafidain,Middle Eastern Restaurant,False,24.80467421739749,46.75204635693746, Ghirnatah District حي غرناطة,False,33,6.7,"24.7919157,46.74432949210845",0
-143,4ebc0c0877c8d9bd1bcb8c99,اكلات شعبية,Arepa Restaurant,False,24.79486042492348,46.75731185720797, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-144,58dbf2a90319b84bcb52c16b,Alforn Alrifi (الفرن الريفي),Mediterranean Restaurant,False,24.796112,46.742424, Ghirnatah District حي غرناطة,False,9,8.3,"24.7919157,46.74432949210845",0
-145,4fa64462e4b0217538ad0996,Tako Hut (تاكو هت),Mexican Restaurant,False,24.78129791759516,46.73052742999068, Ghirnatah District حي غرناطة,False,5,6.0,"24.7919157,46.74432949210845",0
-146,5819076912d23675fda3791a,Fire Grill (فاير جريل),Mexican Restaurant,False,24.815245142186733,46.77725392378871, Ghirnatah District حي غرناطة,True,106,8.3,"24.7919157,46.74432949210845",0
-147,4e41bd8218a8627fce3e4bb9,Shawaiat Al Khalij (شواية الخليج),Middle Eastern Restaurant,False,24.753585743031543,46.76950831575136, Ghirnatah District حي غرناطة,False,246,8.9,"24.7919157,46.74432949210845",0
-148,54245388498e8e9b84d8f651,مطعم باكستاني,Pakistani Restaurant,False,24.79860100928009,46.741325424788286, Ghirnatah District حي غرناطة,False,1,7.8,"24.7919157,46.74432949210845",0
-149,5dfce194227f9b0008cf0f8c,Nando’s (ناندوز),Portuguese Restaurant,False,24.781576,46.730557, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-150,5e3b0c32ead05300088a489a,Catch Of The Day,Seafood Restaurant,False,24.77775,46.732971, Ghirnatah District حي غرناطة,False,15,7.3,"24.7919157,46.74432949210845",0
-151,4f3d68ace4b02d5ef8aae12a,المطاعم البحرية,Seafood Restaurant,False,24.763014944392616,46.76230482344202, Ghirnatah District حي غرناطة,False,10,6.9,"24.7919157,46.74432949210845",0
-152,5bf2d0752bf29b002d7964ff,taste sugar,Swiss Restaurant,False,24.789334,46.740766, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-153,58053886d67c2c9fa44c8420,جدو علي,Theme Restaurant,False,24.802948,46.760171, Ghirnatah District حي غرناطة,False,1,7.8,"24.7919157,46.74432949210845",0
-154,5bcd7769e65d0c003929f7ef,Rosemary (اكليل الجبل),Theme Restaurant,False,24.78658,46.727051, Ghirnatah District حي غرناطة,False,0,7.8,"24.7919157,46.74432949210845",0
-155,5ed1eff025ffd500081a115b,Mamma Noura (ماما نوره),Middle Eastern Restaurant,False,24.809322,46.76334600000001, Ghirnatah District حي غرناطة,False,2,7.8,"24.7919157,46.74432949210845",0
-156,50ceb03ae4b0bc9a6404c5c2,فوال أبو نعمان,Afghan Restaurant,False,24.738494962311343,46.667527774268805, King Fahd District حي الملك فهد,False,54,7.2,"24.740602850000002,46.67036378467072",1
-157,50597af1e4b05af93ee41710,نعمان للفول,African Restaurant,False,24.738315128621092,46.667518615722656, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-158,5bfb5f0a2b9844002cf54340,فوال سوداني,African Restaurant,False,24.736411,46.675503000000006, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-159,5da4f2a43f963800085bc0c4,فوال النعمان,Cuban Restaurant,False,24.738146,46.680411, King Fahd District حي الملك فهد,False,1,7.8,"24.740602850000002,46.67036378467072",1
-160,5df73a8eee0c6b00086e84da,منارة عدن,Comfort Food Restaurant,False,24.748165,46.678898, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-161,4f3eb3d8e4b05870169889f9,Sinabad,Middle Eastern Restaurant,False,24.74555658986548,46.67880771434887, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-162,5d79e2f6cd95ad000871260f,شباتي مع كرك,Dutch Restaurant,False,24.738587,46.667743, King Fahd District حي الملك فهد,False,9,6.8,"24.740602850000002,46.67036378467072",1
-163,5b65ebc1492814002c2ea8a1,Muunni’s,Dutch Restaurant,False,24.745437,46.660502, King Fahd District حي الملك فهد,False,2,7.8,"24.740602850000002,46.67036378467072",1
-164,51a3b9da498e5f4013fe1060,Themar Falafel (فلافل ثمار),Falafel Restaurant,False,24.740108,46.671284, King Fahd District حي الملك فهد,False,323,7.8,"24.740602850000002,46.67036378467072",1
-165,51656059e4b0bc6385c9f2f6,PAUL (پول),French Restaurant,False,24.74197704179739,46.6806713465145, King Fahd District حي الملك فهد,False,773,8.2,"24.740602850000002,46.67036378467072",1
-166,4e39b2eed4c046ee86bd2b18,KFC,Fast Food Restaurant,False,24.73252751038537,46.673923244816294, King Fahd District حي الملك فهد,False,97,7.1,"24.740602850000002,46.67036378467072",1
-167,590757cff8cbd41891a639d9,Pretzel Maker,German Restaurant,False,24.745389000000007,46.660417, King Fahd District حي الملك فهد,False,9,8.1,"24.740602850000002,46.67036378467072",1
-168,579e5f07498ec9229785288d,Pretzel Maker,German Restaurant,False,24.742463,46.679808, King Fahd District حي الملك فهد,False,10,8.1,"24.740602850000002,46.67036378467072",1
-169,53b146a6498e617c3f251d8b,Diet Center | The Shop,Gluten-free Restaurant,False,24.74518375152596,46.66749039364337, King Fahd District حي الملك فهد,False,1,7.8,"24.740602850000002,46.67036378467072",1
-170,599067afd807ee5ed1d40bd0,Gyro Flame,Greek Restaurant,False,24.739886,46.682205, King Fahd District حي الملك فهد,False,7,7.6,"24.740602850000002,46.67036378467072",1
-171,57b2f677498eaecf68592d0b,مشويات زهور الشام,Kebab Restaurant,False,24.745961586907267,46.67958034440737, King Fahd District حي الملك فهد,False,56,7.8,"24.740602850000002,46.67036378467072",1
-172,55018877498e099604143659,Tanjiah Restaurant (مطعم طنجية),Moroccan Restaurant,False,24.75226925207921,46.67471946505271, King Fahd District حي الملك فهد,True,393,7.1,"24.740602850000002,46.67036378467072",1
-173,5e0ba17212a8d00008194cc7,Mexika (مكسيكا),Mexican Restaurant,False,24.742897,46.679118, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-174,542d8f6f498e2182c16befa1,Marhaba Restaurant,Pakistani Restaurant,False,24.73380851745605,46.678138732910156, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-175,5c1f6ffa41b6c9002509563b,وادي تهامة للأكلات الشعبية,Southern / Soul Food Restaurant,False,24.738693,46.667956, King Fahd District حي الملك فهد,False,0,7.8,"24.740602850000002,46.67036378467072",1
-176,5063f150e4b0eb86c6e365b6,فوال ابونعمان,Afghan Restaurant,False,24.81851735325901,46.64267961505827, Al Yasmin District,False,55,6.8,"24.8227909,46.63976191406831",1
-177,5e19da376a47eb00089010a0,كشري ستيشن Koshari Station,African Restaurant,False,24.822241,46.649669, Al Yasmin District,False,1,7.8,"24.8227909,46.63976191406831",1
-178,563260d1498e40d020b5d872,Steak House (ستيك هاوس),American Restaurant,False,24.824292827342838,46.65724052308649, Al Yasmin District,True,680,8.3,"24.8227909,46.63976191406831",1
-179,5de4bcd2e7d91d00081c580d,FISHFACE,Japanese Restaurant,False,24.82211,46.65000300000001, Al Yasmin District,False,11,8.7,"24.8227909,46.63976191406831",1
-180,590366f2396de02ff8859814,Spectra Restaurant,Comfort Food Restaurant,False,24.820321,46.643283, Al Yasmin District,False,7,5.2,"24.8227909,46.63976191406831",1
-181,5bec4a4bb9ac3816766c1b74,Lugaimat Tuf,Dumpling Restaurant,False,24.824885,46.65662, Al Yasmin District,False,15,8.3,"24.8227909,46.63976191406831",1
-182,5e536de1b03c400008e5ae84,Richoux Restaurant,English Restaurant,False,24.816879,46.665885, Al Yasmin District,False,21,8.8,"24.8227909,46.63976191406831",1
-183,5d66e6e67c763a000863baa3,ماكدونالدز,Fast Food Restaurant,False,24.816014000000006,46.6371, Al Yasmin District,False,41,8.3,"24.8227909,46.63976191406831",1
-184,56d0c5edcd10c28c0eecf8d9,Maharaja Palace (قصر المهراجا),Indian Restaurant,False,24.8138802285388,46.63196480619304, Al Yasmin District,False,212,7.0,"24.8227909,46.63976191406831",1
-185,59c15e420d173f674fb78f3a,لاكارافيلا اكسبرس,Italian Restaurant,False,24.822374,46.650022, Al Yasmin District,False,8,7.9,"24.8227909,46.63976191406831",1
-186,567a7192498e1977069252b3,Piatto (بياتو),Italian Restaurant,False,24.82422243569737,46.657304482765376, Al Yasmin District,True,866,8.4,"24.8227909,46.63976191406831",1
-187,5803c34338fa540b8626b65d,مطعم مبشور الشام للمشويات و الفطائر,Kebab Restaurant,False,24.818721368784193,46.64300675255407, Al Yasmin District,False,6,7.8,"24.8227909,46.63976191406831",1
-188,5bf5b5c0da7080002cf51b4b,Alennabi Grill (المشوي العنابي),Middle Eastern Restaurant,False,24.81499321313744,46.634597892801075, Al Yasmin District,False,419,8.7,"24.8227909,46.63976191406831",1
-189,5aea278c2632ec002c2a3981,مطعم ليمونة,Kebab Restaurant,False,24.84863294123477,46.667250910762995, Al Yasmin District,False,26,7.8,"24.8227909,46.63976191406831",1
-190,570c08b7cd101d6e9be9c53b,On Fire (اون فاير),Kebab Restaurant,False,24.823933513056048,46.656710230736465, Al Yasmin District,True,245,8.4,"24.8227909,46.63976191406831",1
-191,5a8608ee5d891b280b7e89cc,Kebab Time (وقت الكباب),Kebab Restaurant,False,24.82213886179089,46.64991672024493, Al Yasmin District,True,55,8.4,"24.8227909,46.63976191406831",1
-192,52f64bd3498e068492cd921c,مخبز تميس,Arepa Restaurant,False,24.817075281864053,46.63337476096172, Al Yasmin District,False,2,7.8,"24.8227909,46.63976191406831",1
-193,5d99cb1904fb0b0007f30859,كاتم,Mediterranean Restaurant,False,24.825169,46.657088, Al Yasmin District,False,1,7.8,"24.8227909,46.63976191406831",1
-194,5ccd84bbf00a70002cbf06bb,FireGrill,Mexican Restaurant,False,24.817489,46.664774, Al Yasmin District,True,13,8.3,"24.8227909,46.63976191406831",1
-195,567a7250498e37140c462167,Fire Grill (فاير جريل),Mexican Restaurant,False,24.82486249209435,46.65609240531922, Al Yasmin District,True,374,8.7,"24.8227909,46.63976191406831",1
-196,5790a03f498e651432a0e66a,مطعم ضيافة الرياض,Pakistani Restaurant,False,24.834463,46.65505, Al Yasmin District,False,3,7.8,"24.8227909,46.63976191406831",1
-197,5c9e62e595d986002c80ce6a,بسطة الحارة,Pakistani Restaurant,False,24.81858,46.656024, Al Yasmin District,False,1,7.8,"24.8227909,46.63976191406831",1
-198,58bf0109000bef1274a522ba,Zouq Mughal (ذوق مغل) (ذوق مغل),Pakistani Restaurant,False,24.818578220147682,46.643124445318826, Al Yasmin District,False,18,5.7,"24.8227909,46.63976191406831",1
-199,5b6334a046e1b6002cb95fbe,Eat Smart,Restaurant,False,24.830824900086213,46.637839133668066, Al Yasmin District,False,104,8.5,"24.8227909,46.63976191406831",1
-200,5277be2d11d268b840aa729d,oceanx,Seafood Restaurant,False,24.82670285496539,46.660072803497314, Al Yasmin District,False,6,6.9,"24.8227909,46.63976191406831",1
-201,54625938498e09ae246ed7b1,Shrimplus (شريمبلس),Seafood Restaurant,False,24.81818500697403,46.642295207500105, Al Yasmin District,False,1111,8.5,"24.8227909,46.63976191406831",1
-202,5369469e498ee122760361d1,Noor Alhanaa Restaurants (مطاعم نور الهناء),Turkish Restaurant,False,24.803936885119768,46.65179136933445, Al Yasmin District,False,139,7.5,"24.8227909,46.63976191406831",1
-203,5c896e9dd4cc98002ca47cba,الفطيرة الدمشقية,Doner Restaurant,False,24.821883,46.654259, Al Yasmin District,False,14,8.4,"24.8227909,46.63976191406831",1
-204,5dc58fb4ed7e4e0007c09a56,محل ولد عمي,Vegetarian / Vegan Restaurant,False,24.828473,46.651218, Al Yasmin District,False,0,7.8,"24.8227909,46.63976191406831",1
-205,5601b8fe498ec57fdadb9a7b,مطاعم ركن الوليمة,Middle Eastern Restaurant,False,24.792909079394303,46.628336638468674, Al Malga District حي الملقا,False,27,7.2,"24.800734900000002,46.60070282369142",1
-206,5e88d960dadf2500089b94e6,مطبخ بيتنا,Bangladeshi Restaurant,False,24.808273,46.605127, Al Malga District حي الملقا,False,0,7.8,"24.800734900000002,46.60070282369142",1
-207,5361d94b498e40a31baf14ca,فوال الملقا - مقابل موبايلي,Belgian Restaurant,False,24.818364000000006,46.608717, Al Malga District حي الملقا,False,2,7.8,"24.800734900000002,46.60070282369142",1
-208,5ceda08d3731ee002b0ddf00,The Table (ذي تيبل),Comfort Food Restaurant,False,24.805390215595803,46.61041044187161, Al Malga District حي الملقا,False,455,8.7,"24.800734900000002,46.60070282369142",1
-209,5bee3036a4ba7c002c4f72e5,بوفية احمد,Comfort Food Restaurant,False,24.774616,46.618826, Al Malga District حي الملقا,False,0,7.8,"24.800734900000002,46.60070282369142",1
-210,5e830c8934e8520008680568,شركة عبدالله الجربوع وابنائه,Dutch Restaurant,False,24.795251,46.626718, Al Malga District حي الملقا,False,0,7.8,"24.800734900000002,46.60070282369142",1
-211,5e29f54febe2870007ce133e,قف مي فايف,Eastern European Restaurant,False,24.818434,46.595854, Al Malga District حي الملقا,False,0,7.8,"24.800734900000002,46.60070282369142",1
-212,53d6cccc498e02947a2f0c1a,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.801982136636358,46.604291811509704, Al Malga District حي الملقا,False,331,8.1,"24.800734900000002,46.60070282369142",1
-213,5a84241782a7501a94b83551,Lenôtre,French Restaurant,False,24.807778,46.617252, Al Malga District حي الملقا,False,2,7.8,"24.800734900000002,46.60070282369142",1
-214,579d0612498ee0d5784bffcb,La Casa Pasta (كازا باستا),Italian Restaurant,False,24.80193689980104,46.604087330409406, Al Malga District حي الملقا,False,67,8.1,"24.800734900000002,46.60070282369142",1
-215,5a8733d27247501bc12a6cfe,دي لوسو Di Lusso,Italian Restaurant,False,24.807247285968838,46.61465658631525, Al Malga District حي الملقا,False,505,7.8,"24.800734900000002,46.60070282369142",1
-216,5a930880fe3740171f68c404,DDR مطعم لذة المأكل,Middle Eastern Restaurant,False,24.807403579949746,46.616179501988704, Al Malga District حي الملقا,True,198,8.3,"24.800734900000002,46.60070282369142",1
-217,5d571db1c0e1a400080d67e6,Red Box,Restaurant,False,24.771132,46.620619, Al Malga District حي الملقا,False,30,8.0,"24.800734900000002,46.60070282369142",1
-218,5d3dc6be5c2b8900077fc541,Low calories,Restaurant,False,24.771196,46.620693, Al Malga District حي الملقا,False,76,9.1,"24.800734900000002,46.60070282369142",1
-219,57c9e871498ece347babe008,دار الفطيرة,Restaurant,False,24.80741966410946,46.60170337770015, Al Malga District حي الملقا,False,127,8.7,"24.800734900000002,46.60070282369142",1
-220,5c1a6df5ecb3ed0025686dbc,32 Grimp (٣٢ قرمب),Seafood Restaurant,False,24.80449143797443,46.607954569606626, Al Malga District حي الملقا,False,1279,8.6,"24.800734900000002,46.60070282369142",1
-221,5e3994020e15b00007edd32b,Shrimp Anatomy (شرمب اناتومي),Seafood Restaurant,False,24.806135,46.611854, Al Malga District حي الملقا,False,41,8.5,"24.800734900000002,46.60070282369142",1
-222,55377bae498e8bc1e408d3b3,Shake It (شيك ات),Fast Food Restaurant,False,24.80772350732925,46.615936697402184, Al Malga District حي الملقا,False,108,7.9,"24.800734900000002,46.60070282369142",1
-223,5c765e60121384002c923de7,Fitway,Theme Restaurant,False,24.78571205711544,46.61318690152709, Al Malga District حي الملقا,False,104,8.5,"24.800734900000002,46.60070282369142",1
-224,58ad7b964988da4c80579eee,Tent Breeze Restaurant,Turkish Restaurant,False,24.812879161429585,46.5994991893614, Al Malga District حي الملقا,False,16,6.7,"24.800734900000002,46.60070282369142",1
-225,5b40b23e4420d8002c2aa2fe,Beyzade,Turkish Restaurant,False,24.807214291975125,46.614547661070716, Al Malga District حي الملقا,False,215,7.5,"24.800734900000002,46.60070282369142",1
-226,5812ad0938fa8d6824adf962,Vegetarian,Vegetarian / Vegan Restaurant,False,24.799242,46.621365, Al Malga District حي الملقا,False,0,7.8,"24.800734900000002,46.60070282369142",1
-227,506eae40e4b0719dc8f92798,Bokhari Corner Resturant (مطعم الركن البخاري),Afghan Restaurant,False,24.741798,46.751977, King Faisal District حي الملك فيصل,False,116,8.4,"24.76040125,46.77602699636495",1
-228,51900478498e4aa8d9bb0ac2,Ziafa al Riyadh Restaurant | ضيافة الرياض,Asian Restaurant,False,24.765173251639066,46.78636020766571, King Faisal District حي الملك فيصل,False,7,7.2,"24.76040125,46.77602699636495",1
-229,53b85fdb498e531e3fa48c0a,Almento Taste (مذاق المنتو),Dumpling Restaurant,False,24.742129867902584,46.752329533290386, King Faisal District حي الملك فيصل,False,23,6.7,"24.76040125,46.77602699636495",1
-230,5e2c76e6e2a61200080f9a17,بوفيه التسمم,Dutch Restaurant,False,24.768589,46.792409, King Faisal District حي الملك فيصل,False,0,7.8,"24.76040125,46.77602699636495",1
-231,50af5c5fe4b09d9e06d66674,الفخار التركي,Eastern European Restaurant,False,24.75229300941666,46.76866552680777, King Faisal District حي الملك فيصل,False,15,5.2,"24.76040125,46.77602699636495",1
-232,55696857498e26c0489724f2,بوفيه  للأكلات المصرية,Falafel Restaurant,False,24.765016501647228,46.78636812137594, King Faisal District حي الملك فيصل,False,10,5.9,"24.76040125,46.77602699636495",1
-233,5099d973e4b071145aac05ba,فلافل ابو عدنان,Falafel Restaurant,False,24.76800964707109,46.78263437970596, King Faisal District حي الملك فيصل,False,46,8.1,"24.76040125,46.77602699636495",1
-234,55d8fafd498ed9c37d1651a6,مطعم رز بخاري وبرياني,Fondue Restaurant,False,24.76525,46.786456, King Faisal District حي الملك فيصل,False,3,7.8,"24.76040125,46.77602699636495",1
-235,580f8bbf38fa28f22ed9a4f0,PAUL (پول),French Restaurant,False,24.773692980565855,46.77703806207631, King Faisal District حي الملك فيصل,False,408,8.8,"24.76040125,46.77602699636495",1
-236,5c123d89ba57b4002c10382f,مضغوط تهامة,Halal Restaurant,False,24.759025,46.777178, King Faisal District حي الملك فيصل,False,0,7.8,"24.76040125,46.77602699636495",1
-237,51a3b2a0498e3fa35bbd7725,Garden Restaurant (مطعم الحديقة),Indian Chinese Restaurant,False,24.770702000775646,46.76649636894661, King Faisal District حي الملك فيصل,False,56,6.7,"24.76040125,46.77602699636495",1
-238,51df4154498ee64c6453c827,مطاعم اطلالة الشام للمشويات,Kebab Restaurant,False,24.752774363746056,46.769632203371216, King Faisal District حي الملك فيصل,False,6,7.1,"24.76040125,46.77602699636495",1
-239,5417037b498ec442f7c99de9,مطابخ ومطاعم ريدان,Arepa Restaurant,False,24.745948791503906,46.79826736450195, King Faisal District حي الملك فيصل,False,2,7.8,"24.76040125,46.77602699636495",1
-240,4f0c86d2e4b0baf830f4628e,Mama Noura (ماما نورة),Middle Eastern Restaurant,False,24.768504579010735,46.761596162968786, King Faisal District حي الملك فيصل,False,1585,9.2,"24.76040125,46.77602699636495",1
-241,58eb9555e0adac258f576f98,|| منتج الطبيعة || عسل مانوكا | أغذية عضوية,Molecular Gastronomy Restaurant,False,24.766943,46.789692, King Faisal District حي الملك فيصل,False,0,7.8,"24.76040125,46.77602699636495",1
-242,52b47cb7498ec4eced0e4663,فوال بيض لحسة,African Restaurant,False,24.70876121520996,46.67977523803711, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-243,5a7b5cff1987ec57511bd9d3,حمام عبده,Ethiopian Restaurant,False,24.687711,46.681791, Al Olaya District حي العليا,False,5,6.6,"24.69216205,46.686588958007334",2
-244,55af1c4f498e1576ac9784d0,فوال نزومي,African Restaurant,False,24.683920238987465,46.67317231143322, Al Olaya District حي العليا,False,2,7.8,"24.69216205,46.686588958007334",2
-245,4bcc31a7b6c49c74e64b9391,Chili's (تشيليز),Tex-Mex Restaurant,False,24.703645112508315,46.70111487425382, Al Olaya District حي العليا,False,1409,7.6,"24.69216205,46.686588958007334",2
-246,4b8d3a23f964a52088ee32e3,Tokyo (طوكيو),Japanese Restaurant,False,24.718337842604022,46.686787605285645, Al Olaya District حي العليا,True,4747,9.0,"24.69216205,46.686588958007334",2
-247,5c12a1de04d1ae002c5178e7,Baozi (باوزي),Japanese Restaurant,False,24.711443412661282,46.671274045245205, Al Olaya District حي العليا,True,712,8.1,"24.69216205,46.686588958007334",2
-248,5e41997177455a0008d60f91,Nobu,Japanese Restaurant,False,24.706068,46.675534000000006, Al Olaya District حي العليا,False,72,8.1,"24.69216205,46.686588958007334",2
-249,528e563c498ece6d9c13cfb5,Kampai (كمباي),Japanese Restaurant,False,24.70401646814694,46.70218872799922, Al Olaya District حي العليا,False,3160,8.4,"24.69216205,46.686588958007334",2
-250,54ddfd40498ee2dde59dcb94,AGUS (أقوس),Asian Restaurant,False,24.704188516336988,46.70241897549443, Al Olaya District حي العليا,False,911,8.4,"24.69216205,46.686588958007334",2
-251,54b01117498e18b8bcee3f74,Mee SO HUNGRY (مي سو هنجري),Sushi Restaurant,False,24.68956773450216,46.673462759711825, Al Olaya District حي العليا,False,624,8.0,"24.69216205,46.686588958007334",2
-252,5c0d391246e1b6002cc28dfa,JAWICO (جاويكو),Indonesian Restaurant,False,24.716904,46.68323, Al Olaya District حي العليا,False,47,8.0,"24.69216205,46.686588958007334",2
-253,5389bf23498ed108270e7f87,Yokari (يوكاري),Japanese Restaurant,False,24.69766964320837,46.68333748419162, Al Olaya District حي العليا,True,1385,8.7,"24.69216205,46.686588958007334",2
-254,561543d2498ed5eb8ba562d1,HUALAN (هوالان),Chinese Restaurant,False,24.697309,46.683927, Al Olaya District حي العليا,True,900,8.6,"24.69216205,46.686588958007334",2
-255,549bb6ed498ed40946f51ae7,مطعم ماأحد يعرفه الا انا,Australian Restaurant,False,24.706793,46.679399, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-256,530f3ea3498ed31f1688e007,Andy,Belgian Restaurant,False,24.70951271057129,46.67512512207031, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-257,56a05303498e553a5ca1ae48,sayora,Belgian Restaurant,False,24.691444,46.679769, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-258,59746750a92d9809bb7d5220,Al Kofia Restaurant (مطعم الكوفية),Middle Eastern Restaurant,False,24.700520312395643,46.69302985096924, Al Olaya District حي العليا,False,583,7.8,"24.69216205,46.686588958007334",2
-259,5016a895e4b00c72b7dcc429,Nialiyha Nuakemsis,Cajun / Creole Restaurant,False,24.687084,46.683761, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-260,566b57e0498eba26c12c47ec,charlie's,Cuban Restaurant,False,24.691549,46.679743, Al Olaya District حي العليا,False,1,7.8,"24.69216205,46.686588958007334",2
-261,52bf2df0498eb50bbb45809b,Resta Vista,Caribbean Restaurant,False,24.69007682800293,46.69062042236328, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-262,500c8d0ee4b02b2a7fe00cd1,Jamaica Joint,Caribbean Restaurant,False,24.691648,46.679794, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-263,5e4ef18a4d7cf8000814f80d,ريف لبنان,Caucasian Restaurant,False,24.699247,46.690976, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-264,5b3b9b7fca18ea002c3c53ed,Lovers Unite Coffee,Comfort Food Restaurant,False,24.700625,46.678529, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-265,507662c0e4b0d31633065fd4,Yilmaz Restaurant (مطاعم يلمز),Middle Eastern Restaurant,False,24.685262952609328,46.68971248979664, Al Olaya District حي العليا,False,13,5.6,"24.69216205,46.686588958007334",2
-266,5e1cb1064892170009dc6890,مطعم فخار,Dutch Restaurant,False,24.686286,46.68095200000001, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-267,5a150629b546182d6460d399,El Tempo Restaurant,Eastern European Restaurant,False,24.708765,46.678, Al Olaya District حي العليا,False,1,7.8,"24.69216205,46.686588958007334",2
-268,58d9ed9afda3d8151845a414,البوفية الفخمة,Eastern European Restaurant,False,24.704314,46.681576, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-269,4db599fc81543d71da5b8e83,Lusin (لوسين),Eastern European Restaurant,False,24.697488,46.683697, Al Olaya District حي العليا,True,5387,9.2,"24.69216205,46.686588958007334",2
-270,51c796cd498e0ac964e6628e,Cafeteria,Eastern European Restaurant,False,24.71049289618794,46.674398370126845, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-271,5079bcf6e4b0602b62ba45cc,Teatro تياترو,Italian Restaurant,False,24.687322895166393,46.68742362637364, Al Olaya District حي العليا,False,58,5.3,"24.69216205,46.686588958007334",2
-272,582de1771094cb749f6a192d,Cilicia (سيليسيا),Eastern European Restaurant,False,24.702755679593874,46.6771212296387, Al Olaya District حي العليا,True,1167,7.3,"24.69216205,46.686588958007334",2
-273,52f9dbf8498ec1f2b0d17360,Tahil (تاهل),Middle Eastern Restaurant,False,24.70675514224037,46.67704015731115, Al Olaya District حي العليا,False,470,5.8,"24.69216205,46.686588958007334",2
-274,533bb23a498e94f7b2c94f87,مطعم فندق كورال,English Restaurant,False,24.706791,46.68745300000001, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-275,5a95a6cc054e295239d9091d,McDonald's,Fast Food Restaurant,False,24.688525521058025,46.6741029546429, Al Olaya District حي العليا,False,86,8.5,"24.69216205,46.686588958007334",2
-276,50eaae09e4b05e344c66cdde,Al-Qalzam القلزم,Seafood Restaurant,False,24.708009948022085,46.66408927890493, Al Olaya District حي العليا,False,198,6.2,"24.69216205,46.686588958007334",2
-277,535ce8db498edcf9a4e8641d,L'entrecote Café De Paris,French Restaurant,False,24.708094,46.6686, Al Olaya District حي العليا,False,6,7.8,"24.69216205,46.686588958007334",2
-278,597620d835811b1c189f9f01,Lenôtre لينوتر,French Restaurant,False,24.679968,46.687547, Al Olaya District حي العليا,False,14,8.6,"24.69216205,46.686588958007334",2
-279,4de687327d8b53987c634f39,Le Relais de l'Entrecôte (لوروليه دو لانتغيكوت),French Restaurant,False,24.70415176806517,46.702318048952506, Al Olaya District حي العليا,False,3214,8.5,"24.69216205,46.686588958007334",2
-280,4b82e734f964a52022ec30e3,The Globe (البلورة),French Restaurant,False,24.690227584112435,46.685050572807064, Al Olaya District حي العليا,False,481,7.8,"24.69216205,46.686588958007334",2
-281,4cd190ef7b685481edc9c7f8,Lenôtre (لونوتر),French Restaurant,False,24.692998621929828,46.6951345023905, Al Olaya District حي العليا,False,163,8.4,"24.69216205,46.686588958007334",2
-282,5511b13d498e1e2d8edac72a,Auntie Anne's,German Restaurant,False,24.69013,46.686768, Al Olaya District حي العليا,False,2,7.8,"24.69216205,46.686588958007334",2
-283,56c86027498e3d0be65adab9,Kamps (كامبس),German Restaurant,False,24.688303,46.68336400000001, Al Olaya District حي العليا,False,734,7.8,"24.69216205,46.686588958007334",2
-284,5219a68511d22d0e9399807f,بيت الفطيرة الدمشقية,Gluten-free Restaurant,False,24.675081,46.694544, Al Olaya District حي العليا,False,1,7.8,"24.69216205,46.686588958007334",2
-285,58654fb68ee5601f863b8eda,Azure,Greek Restaurant,False,24.698451140312013,46.682398833576784, Al Olaya District حي العليا,False,66,7.3,"24.69216205,46.686588958007334",2
-286,56350d07498e7a764eaa5eda,مطعم روابي الإسكان,Halal Restaurant,False,24.679314,46.690102, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-287,52c8473c11d239e131d74bd4,Makani (مكاني),Indian Restaurant,False,24.68730334872036,46.68132662773132, Al Olaya District حي العليا,True,416,7.9,"24.69216205,46.686588958007334",2
-288,4c13709ca5eb76b0dce6bfb7,Shezan,Indian Restaurant,False,24.68735815429021,46.68608898548521, Al Olaya District حي العليا,False,665,8.0,"24.69216205,46.686588958007334",2
-289,5e60d8472cdec700090c750d,Mamo Michelangelo,Italian Restaurant,False,24.68975,46.684222, Al Olaya District حي العليا,False,11,8.4,"24.69216205,46.686588958007334",2
-290,5681ce8a498e7ab273192ddd,Eataly (إيتالي),Italian Restaurant,False,24.70409492686067,46.702825682942134, Al Olaya District حي العليا,True,2440,8.8,"24.69216205,46.686588958007334",2
-291,4bdc6e743904a593bf254e9e,Roma Restaurant (مطعم روما),Italian Restaurant,False,24.70341380088512,46.68175724705878, Al Olaya District حي العليا,False,1746,8.7,"24.69216205,46.686588958007334",2
-292,4b825ddff964a5208bd030e3,Nino (نينو),Italian Restaurant,False,24.69795625474334,46.686928870511466, Al Olaya District حي العليا,False,2935,8.4,"24.69216205,46.686588958007334",2
-293,566de7a8498eb66b02ba00bc,tawu-h,Kosher Restaurant,False,24.691451,46.679645, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-294,5674964c498e85cb254ed94c,atnak,Jewish Restaurant,False,24.691571,46.679799, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-295,566884b9498e6d8066d028aa,monyeka,Jewish Restaurant,False,24.691469,46.679747, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-296,56688522498e2d042e44f582,dogus an,Kosher Restaurant,False,24.69148,46.679718, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-297,4fc53020e4b02c5563537cf9,يامال الشام الضباب,Arepa Restaurant,False,24.69013967059072,46.69973264019249, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-298,566b5790498ef67909165e40,komas,Arepa Restaurant,False,24.691586,46.679817, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-299,53b08723498eb839def0ed2b,Pampa Grill (بامبا قريل),Argentinian Restaurant,False,24.696019023957966,46.68361236556439, Al Olaya District حي العليا,False,288,7.6,"24.69216205,46.686588958007334",2
-300,566b572d498ef6790915969c,wanat ngal,Latin American Restaurant,False,24.691445,46.679719, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-301,566b584f498e7d638d66f59c,bev fost,Empanada Restaurant,False,24.691478,46.679742, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-302,4cf68ff9dc40a35d67b04854,Il Terrazzo,Brazilian Restaurant,False,24.68988491784798,46.684403268338706, Al Olaya District حي العليا,False,287,7.4,"24.69216205,46.686588958007334",2
-303,4bb324ee42959c74f790212c,Assaraya Turkish Restaurant (مطعم السرايا التركي),Turkish Restaurant,False,24.692935338040005,46.6952105662488, Al Olaya District حي العليا,False,817,7.0,"24.69216205,46.686588958007334",2
-304,50b10a19e4b004e6d2ec4344,Al-Mayas Beirut (المياس بيروت),Middle Eastern Restaurant,False,24.68705767983613,46.68162032995772, Al Olaya District حي العليا,True,2534,7.8,"24.69216205,46.686588958007334",2
-305,56674814498e06cfb4c37800,oyal an,Moroccan Restaurant,False,24.691326,46.679724, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-306,52b21077498e2142de8998e9,RestuRanttii,Mediterranean Restaurant,False,24.69007873535156,46.69061660766602, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-307,57e823bd498e0aaf3aceaca9,tacos mexicanos,Mexican Restaurant,False,24.691467000000006,46.679716, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-308,56674603498e5d488012bab0,gukod lang,Mexican Restaurant,False,24.691424,46.679729, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-309,595a25fc35d3fc2a96333008,FireGrill,Mexican Restaurant,False,24.690013326790663,46.6862028837204, Al Olaya District حي العليا,True,25,8.2,"24.69216205,46.686588958007334",2
-310,58d7d9c092ca4c5b4f843659,Rojina Restaurant & Cafe (روجينا كافيه),Middle Eastern Restaurant,False,24.675439,46.673676, Al Olaya District حي العليا,False,696,8.9,"24.69216205,46.686588958007334",2
-311,5c2079f618d43b002c06e8ba,Goodies,Lebanese Restaurant,False,24.70224902558629,46.698423845345246, Al Olaya District حي العليا,False,811,8.4,"24.69216205,46.686588958007334",2
-312,566743a5498e06aab98f2a61,tege,Modern European Restaurant,False,24.691584,46.679787, Al Olaya District حي العليا,False,1,7.8,"24.69216205,46.686588958007334",2
-313,56674327498e323a856eeb83,palabwanay,Molecular Gastronomy Restaurant,False,24.691475,46.679715, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-314,52fc994f498ec066f9764bfb,إيدبل أرينجمنتس خصم خاص لعملاء البنك السعودي للاستثمار اصيل كافئ نفسك,Molecular Gastronomy Restaurant,False,24.69165562539667,46.692005059040305, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-315,56622102498e7d1d090d1d97,kemvolar,Molecular Gastronomy Restaurant,False,24.691573,46.679733, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-316,56544fdc498ecdb84efc1277,مطعم قرية البهارات ( لاثاني ),Pakistani Restaurant,False,24.701920769440907,46.67828894778403, Al Olaya District حي العليا,False,5,6.3,"24.69216205,46.686588958007334",2
-317,4c87ffd57223b1f792ff27a8,La Sani (لاثاني),Pakistani Restaurant,False,24.70507657104682,46.677717999898825, Al Olaya District حي العليا,False,28,6.6,"24.69216205,46.686588958007334",2
-318,4dac932da86e771ea750f558,Marhaba Restaurant,Pakistani Restaurant,False,24.68268049537012,46.688754268414094, Al Olaya District حي العليا,False,105,7.9,"24.69216205,46.686588958007334",2
-319,5c0a86fd81635b002cf0885a,Nando's Tahlia Street Riyadh,Portuguese Restaurant,False,24.6993842,46.6896181, Al Olaya District حي العليا,True,3,7.8,"24.69216205,46.686588958007334",2
-320,566220b2498e897cbc594d0c,tufakekero,Portuguese Restaurant,False,24.691417,46.679638, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-321,56621d93498ea7ab9bee6484,tsuk-tsak,Russian Restaurant,False,24.691532,46.679676, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-322,56621c58498e2afbda18786d,nagoblatch,Scandinavian Restaurant,False,24.691502,46.679735, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-323,4ce9055ab997548104fdff44,Golden Lobster (مطعم الربيان الذهبي),Seafood Restaurant,False,24.704611789138198,46.67846331045978, Al Olaya District حي العليا,False,239,7.6,"24.69216205,46.686588958007334",2
-324,50919ff9e4b033509df53ce4,Fayroz Gardn,Southern / Soul Food Restaurant,False,24.682494316467608,46.69734064232091, Al Olaya District حي العليا,False,1,7.8,"24.69216205,46.686588958007334",2
-325,56621a73498e7d1d090138d2,julkegsnadash,Southern / Soul Food Restaurant,False,24.691388,46.679607, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-326,53dbc6bc498edd0694c1deaf,le grano,Spanish Restaurant,False,24.705847,46.677517, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-327,509bc48be4b00d566f68b497,مطعم تيتارو,Spanish Restaurant,False,24.687518058135772,46.68742002561135, Al Olaya District حي العليا,False,4,7.8,"24.69216205,46.686588958007334",2
-328,5d0f81dbab763600234d37b2,Mazagan Soft Cafe,Spanish Restaurant,False,24.698262,46.688373, Al Olaya District حي العليا,False,18,7.0,"24.69216205,46.686588958007334",2
-329,56621970498ef0856dc1ec91,anamsna,Sri Lankan Restaurant,False,24.691446900068026,46.67986884454246, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-330,4f12f3d7e4b0865b091d65cd,Dandany دندني,Swiss Restaurant,False,24.69532585144043,46.68068313598633, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-331,56621a09498e79f35c70b4b8,yufaks,Swiss Restaurant,False,24.69151,46.679577, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-332,5661fd23498ec6e76e3ae382,bugnaw,Swiss Restaurant,False,24.691309,46.679706, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-333,5ef20c29631a0a00085e722f,Sushih سوشيه,Theme Restaurant,False,24.69246,46.683881, Al Olaya District حي العليا,False,6,7.8,"24.69216205,46.686588958007334",2
-334,5bf1c3623149b9002c9cf28b,توب كابي,Theme Restaurant,False,24.694518,46.679699, Al Olaya District حي العليا,False,2,7.8,"24.69216205,46.686588958007334",2
-335,52e952ec498e5d6b092d85cb,topkapi (طوب كابي),Turkish Restaurant,False,24.69446321690793,46.67966365814208, Al Olaya District حي العليا,False,1077,7.6,"24.69216205,46.686588958007334",2
-336,4ea55d26dab47252712308f5,Köşebaşı (كوشي باشي),Turkish Restaurant,False,24.701026412199425,46.6942073490178, Al Olaya District حي العليا,False,1028,7.2,"24.69216205,46.686588958007334",2
-337,5661fc0c498e7d4e465cd130,lamoy,Ukrainian Restaurant,False,24.691283,46.679681, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-338,56e9133b498ed7cad75ce093,vr2,Vegetarian / Vegan Restaurant,False,24.70920015690198,46.672714904931276, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-339,5661fce6498e347f6d9f15f8,utan law/oy,Vegetarian / Vegan Restaurant,False,24.691270000000006,46.679685, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-340,5158a0cfe4b0e5f97c3e78d7,Alfkhani,Vegetarian / Vegan Restaurant,False,24.69988822937012,46.68613052368164, Al Olaya District حي العليا,False,0,7.8,"24.69216205,46.686588958007334",2
-341,4f186dece4b01bd097d5f56a,Abou Shakra,African Restaurant,False,24.76233842676888,46.672078315220354, Almuruj District حي المروج,False,1,7.8,"24.758710649999998,46.661198204891505",1
-342,5d51ba41d0288900087c2ea7,Pondo,American Restaurant,False,24.742213,46.649347, Almuruj District حي المروج,False,141,8.1,"24.758710649999998,46.661198204891505",1
-343,5a7d82a0f0ca9538ac850ece,Sushi Centro,Sushi Restaurant,False,24.75606837912307,46.65333902863959, Almuruj District حي المروج,False,24,6.0,"24.758710649999998,46.661198204891505",1
-344,57271153498e7dbf7603502f,OPEN Barista Bistro,Restaurant,False,24.76457057521629,46.65694800679154, Almuruj District حي المروج,False,10,6.5,"24.758710649999998,46.661198204891505",1
-345,5cfe80bf60d11b002c291527,أكلات حارتنا - للمأكولات الأردنية,Comfort Food Restaurant,False,24.757899,46.674013, Almuruj District حي المروج,False,1,7.8,"24.758710649999998,46.661198204891505",1
-346,5a200b0442d8c23429e922f2,Manto & Yaghmesh,Dumpling Restaurant,False,24.756126,46.657192, Almuruj District حي المروج,False,1,7.8,"24.758710649999998,46.661198204891505",1
-347,50a46a83e4b0a46f90fc1e98,Falafel Themar (فلافل ثمار),Falafel Restaurant,False,24.756364973662986,46.65758495003155, Almuruj District حي المروج,False,331,8.9,"24.758710649999998,46.661198204891505",1
-348,4bbc78f3e5b0d13af5406f7c,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75487843833387,46.65487985766761, Almuruj District حي المروج,True,184,7.5,"24.758710649999998,46.661198204891505",1
-349,505d9ba4e4b0084c407a6dff,Zad Al-moheet (زاد المحيط),Seafood Restaurant,False,24.75685883510001,46.66573498997501, Almuruj District حي المروج,False,26,7.7,"24.758710649999998,46.661198204891505",1
-350,4fa989a2e4b04afbc0ecc0f3,Indian Summer (الصيف الهندي),Indian Restaurant,False,24.76370031819529,46.67121821809926, Almuruj District حي المروج,False,253,6.5,"24.758710649999998,46.661198204891505",1
-351,57af466e498e10cab5266062,حديقة المقبلات,Kebab Restaurant,False,24.756403,46.657906, Almuruj District حي المروج,False,0,7.8,"24.758710649999998,46.661198204891505",1
-352,517f7871498e3e6e6d290082,سلة الفطائر,Arepa Restaurant,False,24.757551335749632,46.66208960379139, Almuruj District حي المروج,False,13,6.5,"24.758710649999998,46.661198204891505",1
-353,5cd341b23c858d002caf4277,EAT UP (ايت اب),Restaurant,False,24.74187,46.64850300000001, Almuruj District حي المروج,True,751,8.8,"24.758710649999998,46.661198204891505",1
-354,583c8b29424f937971fe2716,أسماك دلة,Seafood Restaurant,False,24.75710616878128,46.66615299126667, Almuruj District حي المروج,False,108,9.1,"24.758710649999998,46.661198204891505",1
-355,4fbf6232e4b05f6d3632cef5,مركز مزاد الاسماك,Seafood Restaurant,False,24.756114031948552,46.663469279576816, Almuruj District حي المروج,False,65,7.8,"24.758710649999998,46.661198204891505",1
-356,514c290ee4b02dcabcd68023,اصداف الجزر للاسماك,Seafood Restaurant,False,24.756964963652763,46.665907167042, Almuruj District حي المروج,False,211,8.9,"24.758710649999998,46.661198204891505",1
-357,5d98cbfeaa006a0008a885ef,حلويات بلو لاين,Sri Lankan Restaurant,False,24.752627,46.664688, Almuruj District حي المروج,False,0,7.8,"24.758710649999998,46.661198204891505",1
-358,5024310fe4b0953b3d7d8db3,سفرة السلطان,Turkish Restaurant,False,24.75659629948473,46.6584857038844, Almuruj District حي المروج,False,67,7.4,"24.758710649999998,46.661198204891505",1
-359,50d5bf47e4b021b282a64e2c,T.G.I. Friday's,American Restaurant,False,24.807839468620273,46.665737240492994, Al Rabiea District حي الربيع,False,869,7.6,"24.797262699999997,46.66386796457978",0
-360,570a9f57498e2c6e7b0b1e4f,Chili's (تشيليز),American Restaurant,False,24.809332944265194,46.66831501186555, Al Rabiea District حي الربيع,False,395,7.5,"24.797262699999997,46.66386796457978",0
-361,5a5de4130457b76a1a0cb48e,Fuddruckers,American Restaurant,False,24.80565128086669,46.66016355699361, Al Rabiea District حي الربيع,False,256,7.0,"24.797262699999997,46.66386796457978",0
-362,5c41db11b9b37b002c2d4bb3,Maison Global (ميزون جلوبال),Modern European Restaurant,False,24.793559896496202,46.65614228150663, Al Rabiea District حي الربيع,True,783,8.2,"24.797262699999997,46.66386796457978",0
-363,5989f1581543c7318ec78cb3,Bistro Chino,Chinese Restaurant,False,24.79341947136781,46.656221327156544, Al Rabiea District حي الربيع,False,590,7.8,"24.797262699999997,46.66386796457978",0
-364,5b7046e7a423620039de52fc,KIMONO (كيمونو),Japanese Restaurant,False,24.793430262635212,46.65429304799849, Al Rabiea District حي الربيع,True,477,8.7,"24.797262699999997,46.66386796457978",0
-365,58d91d86102f4722b76d822a,Sushi Art (سوشي ارت),Sushi Restaurant,False,24.7929403,46.6561789, Al Rabiea District حي الربيع,True,248,6.7,"24.797262699999997,46.66386796457978",0
-366,5c3f3ed06f0aa2002ce2bb1f,ME SO HUNGRY,Sushi Restaurant,False,24.793547790864988,46.65399491786957, Al Rabiea District حي الربيع,True,106,8.3,"24.797262699999997,46.66386796457978",0
-367,5afebff4d69ed00039a36507,Shrimp Shack,Seafood Restaurant,False,24.79361070289789,46.65519537722229, Al Rabiea District حي الربيع,True,334,8.4,"24.797262699999997,46.66386796457978",0
-368,5cf96a4bbfc6d0002cad6eb3,Momo,Dumpling Restaurant,False,24.793748,46.65473, Al Rabiea District حي الربيع,False,4,7.8,"24.797262699999997,46.66386796457978",0
-369,57107d1f498eac8ccb437d3a,Lavash Corner (لافاش كورنر),Eastern European Restaurant,False,24.78940087063464,46.65888542115858, Al Rabiea District حي الربيع,True,1923,7.9,"24.797262699999997,46.66386796457978",0
-370,5648b2c8498ec6f3a4d62743,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.79422531801133,46.65553808800805, Al Rabiea District حي الربيع,False,391,8.4,"24.797262699999997,46.66386796457978",0
-371,5cd198c38fb09e002cb97796,Biryani Express,Indian Restaurant,False,24.793171,46.653514, Al Rabiea District حي الربيع,True,186,6.9,"24.797262699999997,46.66386796457978",0
-372,59046610a423622127fb1669,Tortilla,Mexican Restaurant,False,24.79338840590104,46.65626436019702, Al Rabiea District حي الربيع,True,81,6.9,"24.797262699999997,46.66386796457978",0
-373,5e08a42479bfb60008b7c62b,32 Grimp (٣٢ قرمب),Seafood Restaurant,False,24.795153,46.6552, Al Rabiea District حي الربيع,False,72,9.2,"24.797262699999997,46.66386796457978",0
-374,5c9d4715c97f28002c15da9a,شرمبشاك,Seafood Restaurant,False,24.793656,46.655151, Al Rabiea District حي الربيع,False,5,7.3,"24.797262699999997,46.66386796457978",0
-375,5c4f462b35d3fc002ca02e50,Fish Pan,Seafood Restaurant,False,24.804875,46.660872, Al Rabiea District حي الربيع,False,12,8.1,"24.797262699999997,46.66386796457978",0
-376,5d63b631a94f4a000712d6aa,كبابجي محمود,Turkish Restaurant,False,24.788526,46.658585, Al Rabiea District حي الربيع,False,48,7.1,"24.797262699999997,46.66386796457978",0
-377,4b865e39f964a520968731e3,T.G.I. Friday's (فرايديز),American Restaurant,False,24.70495866655266,46.66452563441796, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,943,7.7,"24.69216205,46.66616924924594",0
-378,5baf6dfbf2554e0039075183,OKKU,Japanese Restaurant,False,24.69552015820787,46.68187049704994, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,794,7.7,"24.69216205,46.66616924924594",0
-379,5899f189abb86a671b602731,Sushi Counter (سوشي كاونتر),Sushi Restaurant,False,24.69261918526595,46.66942181809683, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,148,6.8,"24.69216205,46.66616924924594",0
-380,4c601b8490b2c9b6d7013c22,Trader Vic's (ترايدر ڤيكس),Caribbean Restaurant,False,24.69228523818889,46.67144976814965, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,617,6.9,"24.69216205,46.66616924924594",0
-381,598772e72ebb34734fa473a0,Lavash (لافاش),Eastern European Restaurant,False,24.69344956838572,46.67726223771469, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,2590,8.9,"24.69216205,46.66616924924594",0
-382,575c8b98498e3d47d4bc73c5,Mayrig (مايريك),Mediterranean Restaurant,False,24.694185174863534,46.67904188786154, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,977,7.6,"24.69216205,46.66616924924594",0
-383,4dc18bcd8877c00d6adb3383,KFC,Fast Food Restaurant,False,24.70457022638839,46.66481644900382, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,47,6.7,"24.69216205,46.66616924924594",0
-384,5229eb2411d2b271a1f9125c,Piatto (بياتو),Italian Restaurant,False,24.69122977367031,46.669610192752465, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,998,8.2,"24.69216205,46.66616924924594",0
-385,558c0226498eaf19f67aeec9,Arepas (أريباس),Arepa Restaurant,False,24.67616965336207,46.67684865292383, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,144,7.7,"24.69216205,46.66616924924594",0
-386,5ca3360bf709c100397964ea,FireGrill,Mexican Restaurant,False,24.692011,46.669938, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,3,7.8,"24.69216205,46.66616924924594",0
-387,4fb53a6be4b0a0f95a2e91ce,Tako Hut (تاكو هت),Mexican Restaurant,False,24.69201937838993,46.67037606700922, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,2,7.8,"24.69216205,46.66616924924594",0
-388,54678216498e2e08a232a6ff,ghanache,Modern European Restaurant,False,24.693025,46.67682, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,0,7.8,"24.69216205,46.66616924924594",0
-389,5c98c0829cadd9002c774081,2 EAT,Restaurant,False,24.691767957422105,46.67367696762085, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,1071,8.5,"24.69216205,46.66616924924594",0
-390,56833693498e1753ae2dfd72,The Mansion Lounge (ذا مانشن),Restaurant,False,24.694107426500192,46.67764663696289, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,True,1838,8.0,"24.69216205,46.66616924924594",0
-391,4f3a6d4fe4b07324284dbf8d,مطعم فروج الكروان,Turkish Restaurant,False,24.69406302044849,46.678437278589975, Al-Ma'athar Al-Shimali District حي المعذر الشمالي,False,434,7.9,"24.69216205,46.66616924924594",0
-392,5144432be4b0b3bb9e7648df,"TSC ""Signature"" (تي أس سي سيجنتشر)",American Restaurant,False,24.70220012738368,46.69202955176285, As Sulaymaniyah District حي السليمانية,True,2615,8.3,"24.6989148,46.708173863609446",1
-393,5c2661761c0b34002c11318c,Nozomi To Go,Japanese Restaurant,False,24.703158,46.714387, As Sulaymaniyah District حي السليمانية,False,8,7.0,"24.6989148,46.708173863609446",1
-394,53f4ac57498e3bd97f602bb3,Nozomi (نوزومي),Japanese Restaurant,False,24.70011099663059,46.70470691010298, As Sulaymaniyah District حي السليمانية,True,6356,9.3,"24.6989148,46.708173863609446",1
-395,4fbf89b6e4b02e98a8f57194,Jollibee,Filipino Restaurant,False,24.69140403620195,46.708574956030866, As Sulaymaniyah District حي السليمانية,False,137,7.9,"24.6989148,46.708173863609446",1
-396,57ac0038498eb0c3629caf26,Sushi Art (سوشي آرت),Sushi Restaurant,False,24.7033096777476,46.69830916823978, As Sulaymaniyah District حي السليمانية,True,334,7.3,"24.6989148,46.708173863609446",1
-397,4bd5c0df637ba5931cedf670,Sushi Yoshi (سوشي يوشي),Sushi Restaurant,False,24.704802262438715,46.70627989986146, As Sulaymaniyah District حي السليمانية,False,1240,8.0,"24.6989148,46.708173863609446",1
-398,513dce36e4b0a2c59edb37c3,@Kitchen ,Eastern European Restaurant,False,24.709966816052447,46.693174970247746, As Sulaymaniyah District حي السليمانية,False,1,7.8,"24.6989148,46.708173863609446",1
-399,4c6efe78b3ce224b3c7a6fc6,Abu Jbara (ابو جبارة),Falafel Restaurant,False,24.708493518346692,46.69852927579393, As Sulaymaniyah District حي السليمانية,False,1017,8.7,"24.6989148,46.708173863609446",1
-400,4c0e96c1c6cf76b028fb8051,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.69677537887368,46.70366529545628, As Sulaymaniyah District حي السليمانية,True,373,8.1,"24.6989148,46.708173863609446",1
-401,4e14f8ac62844b405cacbc16,French Corner (الركن الفرنسي),French Restaurant,False,24.692848757267853,46.70187334726859, As Sulaymaniyah District حي السليمانية,False,104,6.9,"24.6989148,46.708173863609446",1
-402,5463278f498e931a13dc0a2d,Aunti Anne's,German Restaurant,False,24.68931535026465,46.70266735783845, As Sulaymaniyah District حي السليمانية,False,0,7.8,"24.6989148,46.708173863609446",1
-403,4edde40261af8a14ba6d0dfb,Tony Patterson & Hanno's Farewell Lunch,German Restaurant,False,24.680347213584906,46.707060319410466, As Sulaymaniyah District حي السليمانية,False,2,7.8,"24.6989148,46.708173863609446",1
-404,4f855d89e4b0e90cd45e4550,مطعم خان,Gluten-free Restaurant,False,24.706744,46.69061, As Sulaymaniyah District حي السليمانية,False,0,7.8,"24.6989148,46.708173863609446",1
-405,54f3f66e498ed23c3202bddb,Makani (مكاني),Indian Restaurant,False,24.709891469283786,46.69130160947914, As Sulaymaniyah District حي السليمانية,True,273,7.4,"24.6989148,46.708173863609446",1
-406,54db92da498ea26cb154c73b,Maharaja ِEast by Vineet (مهراجا),Indian Restaurant,False,24.702265804134,46.70141805967693, As Sulaymaniyah District حي السليمانية,False,1440,8.2,"24.6989148,46.708173863609446",1
-407,4e9f218ab6340e3e34db1efb,Mashal Restaurant (مطعم مشعل),Indian Restaurant,False,24.694313,46.721274, As Sulaymaniyah District حي السليمانية,False,50,7.6,"24.6989148,46.708173863609446",1
-408,5bf2a1a460d11b002c8950cd,San Carlo Cicchetti,Italian Restaurant,False,24.70124724715316,46.705258240459614, As Sulaymaniyah District حي السليمانية,False,2465,8.8,"24.6989148,46.708173863609446",1
-409,4c6ef9fbfa49a1cd0298a1e3,l'Olimpo,Italian Restaurant,False,24.70485980576948,46.70629689930344, As Sulaymaniyah District حي السليمانية,False,292,8.0,"24.6989148,46.708173863609446",1
-410,4daac6b34b22f071eabf428f,LOlivo (شجرة الزيتون),Italian Restaurant,False,24.712553,46.69848, As Sulaymaniyah District حي السليمانية,True,83,8.4,"24.6989148,46.708173863609446",1
-411,58d2c9544f218a176b447b5e,Lamis (لميس),Middle Eastern Restaurant,False,24.700163407669567,46.7025163714013, As Sulaymaniyah District حي السليمانية,True,1123,8.1,"24.6989148,46.708173863609446",1
-412,5548f0ef498e836279e61f3b,Spices Village (قرية البهارات),North Indian Restaurant,False,24.70212715224617,46.691759758546716, As Sulaymaniyah District حي السليمانية,False,6,7.0,"24.6989148,46.708173863609446",1
-413,50a1524ce4b0f56d62944aed,Zalal Restaurant (مطاعم الزلال),Pakistani Restaurant,False,24.710206158383155,46.69241573416228, As Sulaymaniyah District حي السليمانية,False,29,6.7,"24.6989148,46.708173863609446",1
-414,5310f62a498e06c8d7ce5629,مطعم المأكولات الروسية Russian Restaurant,Russian Restaurant,False,24.68241189459695,46.70360631508645, As Sulaymaniyah District حي السليمانية,False,0,7.8,"24.6989148,46.708173863609446",1
-415,5a1a9f1ddab4b138e5a6d17e,Crust Corner (ركن كرست),Restaurant,False,24.700746503367142,46.702084494818074, As Sulaymaniyah District حي السليمانية,True,111,8.8,"24.6989148,46.708173863609446",1
-416,5bba0777135b39002c8cac3f,Shrimplus (شريمبلس),Seafood Restaurant,False,24.706908,46.708078, As Sulaymaniyah District حي السليمانية,False,9,7.4,"24.6989148,46.708173863609446",1
-417,566c1dc4498e954be84432ed,Bahreah (بحرية),Seafood Restaurant,False,24.681672279048595,46.70042053013906, As Sulaymaniyah District حي السليمانية,False,29,7.7,"24.6989148,46.708173863609446",1
-418,5ba27ce2471d6e00396d32a3,Shrimp Shack (شرمبشاك),Seafood Restaurant,False,24.692082742915357,46.70139424993632, As Sulaymaniyah District حي السليمانية,False,126,7.9,"24.6989148,46.708173863609446",1
-419,5dd575e27ef83f0008185fcb,vegan restaurant Samona Yard,Vegetarian / Vegan Restaurant,False,24.678033,46.70516, As Sulaymaniyah District حي السليمانية,False,0,7.8,"24.6989148,46.708173863609446",1
-420,5cb95712f870fd002c28c207,Wabi Sabi,Vegetarian / Vegan Restaurant,False,24.700325,46.702265, As Sulaymaniyah District حي السليمانية,False,56,8.7,"24.6989148,46.708173863609446",1
-421,58e4abc12b04f841c71c7bcb,SHiRO (شيرو),Sushi Restaurant,False,24.769179646293594,46.66511422928823, Al Ghadir District حي الغدير,True,1170,8.9,"24.7717442,46.654636302380695",0
-422,5a6ca96e75eee465cce6af65,Tokyo,Japanese Restaurant,False,24.76682317059366,46.65952288708557, Al Ghadir District حي الغدير,True,1554,9.2,"24.7717442,46.654636302380695",0
-423,5c50ab427d8497002cbe4bcf,Baytoti (بيتوتي),Chinese Restaurant,False,24.78533090509933,46.660471919778004, Al Ghadir District حي الغدير,False,201,8.1,"24.7717442,46.654636302380695",0
-424,4e6a5492a809290267f633c6,Sushi Yoshi (سوشي يوشي),Sushi Restaurant,False,24.78103895443191,46.662676609244464, Al Ghadir District حي الغدير,False,1061,7.9,"24.7717442,46.654636302380695",0
-425,57b76a25498e35396bce7f16,Lavender Restaurant (مطعم لافندر),French Restaurant,False,24.783685445680014,46.66131953264738, Al Ghadir District حي الغدير,False,155,5.9,"24.7717442,46.654636302380695",0
-426,54e4cdef498ebc55e4bc3d49,Gluten Free (خالي من الجلوتين),Gluten-free Restaurant,False,24.778485534376397,46.66272530998605, Al Ghadir District حي الغدير,False,21,7.4,"24.7717442,46.654636302380695",0
-427,53039124498ebaedcd5581dc,sea slim gluten free,Gluten-free Restaurant,False,24.778479,46.66272100000001, Al Ghadir District حي الغدير,False,3,7.8,"24.7717442,46.654636302380695",0
-428,5abe5693bd897e291de0f1ac,Amaly (آمالي),Indian Restaurant,False,24.76666356223523,46.659732086486336, Al Ghadir District حي الغدير,False,1115,8.1,"24.7717442,46.654636302380695",0
-429,5c06a927f5e9d7002c4c61ba,Delice Restaurant & Lounge,Italian Restaurant,False,24.77561690251025,46.66540734805071, Al Ghadir District حي الغدير,False,122,8.3,"24.7717442,46.654636302380695",0
-430,4ecbd1a093adb4bd1b56c555,Manoosha (منؤشة),Mediterranean Restaurant,False,24.778139361558328,46.66391844298212, Al Ghadir District حي الغدير,False,166,8.1,"24.7717442,46.654636302380695",0
-431,595a1bc34febd5782b13a131,Margherita (مارغريتا),Italian Restaurant,False,24.767077,46.659568, Al Ghadir District حي الغدير,True,68,7.2,"24.7717442,46.654636302380695",0
-432,5a7b487725fb7b6cc4e25450,Mexikakitchen (مكسيكا كيتشن),Mexican Restaurant,False,24.76944503709499,46.665212780636814, Al Ghadir District حي الغدير,False,136,8.0,"24.7717442,46.654636302380695",0
-433,531e16bd498efd001f4e1e60,Fire Grill (فاير جريل),Mexican Restaurant,False,24.78288625805117,46.66159640881176, Al Ghadir District حي الغدير,True,556,8.4,"24.7717442,46.654636302380695",0
-434,5467a1cd498e62d4c6ac119d,Zaatar w Zeit (زعتر و زيت),Middle Eastern Restaurant,False,24.78281375347513,46.66167416846389, Al Ghadir District حي الغدير,True,2756,9.0,"24.7717442,46.654636302380695",0
-435,592728a4dab4b1481e159e7a,Ocean Basket (أوشن باسكت),Seafood Restaurant,False,24.78292815169692,46.66146968046484, Al Ghadir District حي الغدير,False,6,7.2,"24.7717442,46.654636302380695",0
-436,595a1b2973fe251e47ebb762,Topkapi (طوبكابي),Turkish Restaurant,False,24.76726230839584,46.659950708407486, Al Ghadir District حي الغدير,False,170,6.6,"24.7717442,46.654636302380695",0
-437,59e6722810345b3bda35aa38,Kyokusen Sushi Boutique (كيوكوسين سوشي بوتيك),Japanese Restaurant,False,24.75073313093123,46.61314536453997, Hittin District حي حطين,True,939,8.4,"24.7609724,46.60218912073967",0
-438,59016ea2ff1902109c540c32,Toki Restaurant (توكي),Asian Restaurant,False,24.75446129813923,46.60962799983885, Hittin District حي حطين,True,924,8.2,"24.7609724,46.60218912073967",0
-439,5aac12e0531593779d9f4450,Le Grenier à Pain (لو غرونييه ابان),French Restaurant,False,24.754278122523232,46.6105368709233, Hittin District حي حطين,True,1423,8.7,"24.7609724,46.60218912073967",0
-440,568aece8498e50cbb2bbcad6,Madeleine (مادلين),French Restaurant,False,24.75086183407134,46.613152557211286, Hittin District حي حطين,False,323,7.8,"24.7609724,46.60218912073967",0
-441,5bb79db93731ee002cc835cc,Sum+Things,Restaurant,False,24.749973,46.613906, Hittin District حي حطين,False,1490,8.7,"24.7609724,46.60218912073967",0
-442,5c12af0946e1b6002c9c21e6,Abu Jbara,Falafel Restaurant,False,24.76039785609698,46.59969682028032, Hittin District حي حطين,False,34,7.6,"24.7609724,46.60218912073967",0
-443,55d7aacd498e863604e0b22f,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75353754195869,46.58420807814157, Hittin District حي حطين,False,145,8.4,"24.7609724,46.60218912073967",0
-444,51100922e4b0873bd55a05c5,McDonald's,Fast Food Restaurant,False,24.75353461093148,46.60942718548229, Hittin District حي حطين,True,311,8.3,"24.7609724,46.60218912073967",0
-445,5d1cf8e0442332002fe1a0ec,LE DORMA,French Restaurant,False,24.752975,46.625521, Hittin District حي حطين,False,7,5.5,"24.7609724,46.60218912073967",0
-446,571273b0498e7956d8f4d08e,Le D'or Cafe & Lounge (لي د'ور كافيه & لاونج),French Restaurant,False,24.753226260603558,46.611953837793635, Hittin District حي حطين,False,3605,8.4,"24.7609724,46.60218912073967",0
-447,5b2b2fb090d1ed0039bbaace,The Sixth District (ذا سكيث ديستريكت),French Restaurant,False,24.751079421300755,46.61209344863892, Hittin District حي حطين,True,130,7.3,"24.7609724,46.60218912073967",0
-448,5a132a17a9e4026f28c49a7d,Greeki,Greek Restaurant,False,24.755481,46.60872, Hittin District حي حطين,False,1,7.8,"24.7609724,46.60218912073967",0
-449,5c31d58c419a9e002c54c2cd,شقة شباب المستقبل,Halal Restaurant,False,24.768859,46.582196, Hittin District حي حطين,False,2,7.8,"24.7609724,46.60218912073967",0
-450,59ad8af2f0ca95663be664ac,Farzi Café,Indian Restaurant,False,24.754458267134194,46.58593197542899, Hittin District حي حطين,False,1566,8.3,"24.7609724,46.60218912073967",0
-451,5e3322885bb3b00007b7bbd7,Scalini (سكاليني),Italian Restaurant,False,24.760209,46.605154, Hittin District حي حطين,True,315,8.2,"24.7609724,46.60218912073967",0
-452,5901e4eceacf4521f0e6539b,Cipriani (شيبرياني),Italian Restaurant,False,24.756741550228103,46.607654924375495, Hittin District حي حطين,False,1932,8.4,"24.7609724,46.60218912073967",0
-453,5c6485a6d807ee002c7e59c9,95 Kabab,Kebab Restaurant,False,24.772279,46.597705, Hittin District حي حطين,False,1,7.8,"24.7609724,46.60218912073967",0
-454,5ee39abad0fd6e4dd5fe0648,AVAK,Mediterranean Restaurant,False,24.767327,46.621756, Hittin District حي حطين,False,2,7.8,"24.7609724,46.60218912073967",0
-455,5bdf581e6bdee6002c6373aa,شاهي جنب ابو وليد,Mediterranean Restaurant,False,24.766865,46.613011, Hittin District حي حطين,False,0,7.8,"24.7609724,46.60218912073967",0
-456,51fd7fc8498ebd46bbe9ec4a,Fire Grill (فاير جريل),Mexican Restaurant,False,24.753255535620998,46.610334424806716, Hittin District حي حطين,True,653,8.1,"24.7609724,46.60218912073967",0
-457,56f518e6498e0c68f1c6eb7a,Burj Al Hamam Bistro (برج الحمام),Lebanese Restaurant,False,24.754571699640238,46.610274973358116, Hittin District حي حطين,False,875,8.3,"24.7609724,46.60218912073967",0
-458,568dbdf2498e6b03d0289860,Zaatar w Zeit (زعتر و زيت),Middle Eastern Restaurant,False,24.75055328551828,46.61282300949097, Hittin District حي حطين,False,635,8.4,"24.7609724,46.60218912073967",0
-459,5c0a8711bcbf7a00395ae735,Nando's Rubeen Plaza,Portuguese Restaurant,False,24.7530421,46.6253442, Hittin District حي حطين,True,4,6.1,"24.7609724,46.60218912073967",0
-460,58034a5ad67c1420ae9f1f28,Shrimp Shack (شرمبشاك),Seafood Restaurant,False,24.752899208515394,46.58419277022889, Hittin District حي حطين,True,563,8.2,"24.7609724,46.60218912073967",0
-461,5e07c16f9939a900071d8c20,El Lechazo Restaurant,Spanish Restaurant,False,24.765234,46.602448, Hittin District حي حطين,False,2,7.5,"24.7609724,46.60218912073967",0
-462,56d8b63fcd10848eda838d02,Sultan's Steakhouse (سلطانز ستيك هاوس),Turkish Restaurant,False,24.750108400658984,46.6141502178356, Hittin District حي حطين,False,3080,8.8,"24.7609724,46.60218912073967",0
-463,5da6200c83e976000829fdf6,Riyadh Season موسم الرياض,Fondue Restaurant,False,24.648424,46.70943, Al Murabba District حي المربع,False,19,7.8,"24.66220335,46.70920480249076",1
-464,5da608c94dc7c200089583e6,Caviar Kaspia Pop-Up (Riyadh Season 2019),Seafood Restaurant,False,24.648447,46.70942, Al Murabba District حي المربع,False,11,6.8,"24.66220335,46.70920480249076",1
-465,5dc45c67abd6c10008f7fb1d,Tetou,French Restaurant,False,24.649152,46.708817, Al Murabba District حي المربع,False,11,5.2,"24.66220335,46.70920480249076",1
-466,5da5f73cba241d0008649c36,Dirty French - Riyadh,French Restaurant,False,24.649686,46.710432, Al Murabba District حي المربع,False,128,6.0,"24.66220335,46.70920480249076",1
-467,5e136c7af6428c000863603b,Avra,Greek Restaurant,False,24.649004,46.709156, Al Murabba District حي المربع,False,22,7.7,"24.66220335,46.70920480249076",1
-468,5dd80cab3c398200079aea10,Billionaire Riyadh,Italian Restaurant,False,24.647118,46.710298, Al Murabba District حي المربع,False,1,8.0,"24.66220335,46.70920480249076",1
-469,52117e7d11d25c859a3c8f94,فوال بابصيل,Arepa Restaurant,False,24.650325775146484,46.70635223388672, Al Murabba District حي المربع,False,7,7.8,"24.66220335,46.70920480249076",1
-470,59a7133959fe5c0af14e6d79,Quetta Grill,Pakistani Restaurant,False,24.678799,46.708576, Al Murabba District حي المربع,False,4,7.8,"24.66220335,46.70920480249076",1
-471,575d833c498e51d08ddf9fa4,Pak House,Pakistani Restaurant,False,24.66369988692183,46.70553532152212, Al Murabba District حي المربع,False,33,5.8,"24.66220335,46.70920480249076",1
-472,5e7208f046a4ad00082aa872,Food Palace Restaurant,Pakistani Restaurant,False,24.663743,46.705457, Al Murabba District حي المربع,False,0,7.8,"24.66220335,46.70920480249076",1
-473,4d53c1eebbbf37040d383878,Al-Hamra Restaurant (مطعم الرحاب),Asian Restaurant,False,24.66892574201534,46.70898943083943, Al Murabba District حي المربع,False,48,7.7,"24.66220335,46.70920480249076",1
-474,5be71312610f04002cf5d0df,Fawal Abo Zaid (فوال أبو زيد),Restaurant,False,24.667328,46.707067, Al Murabba District حي المربع,False,2,7.8,"24.66220335,46.70920480249076",1
-475,5a924a3fd41bb75e48e43cd1,شعبيات ابو زيد,Restaurant,False,24.667713657548266,46.70683206095271, Al Murabba District حي المربع,False,77,8.8,"24.66220335,46.70920480249076",1
-476,5ddd6c62fec4240008f2da99,White Rabbit,Russian Restaurant,False,24.648623,46.709179, Al Murabba District حي المربع,False,2,7.8,"24.66220335,46.70920480249076",1
-477,5de3ed78616eb4000833c0f3,Scott’s Resturant,Seafood Restaurant,False,24.648255,46.709124, Al Murabba District حي المربع,False,2,7.6,"24.66220335,46.70920480249076",1
-478,5378aacb498ee24fa7fcdef1,"مطعم المندي "" سريع سريع """,Southern / Soul Food Restaurant,False,24.657575566447573,46.70584289725208, Al Murabba District حي المربع,False,1,7.8,"24.66220335,46.70920480249076",1
-479,51790f83e4b0994566dfcd89,Vigi Market,Vegetarian / Vegan Restaurant,False,24.650545,46.709488, Al Murabba District حي المربع,False,0,7.8,"24.66220335,46.70920480249076",1
-480,57236241498e7db35c691b92,Saravana Bhavan,South Indian Restaurant,False,24.663358460136852,46.70445792250268, Al Murabba District حي المربع,True,472,9.0,"24.66220335,46.70920480249076",1
+0,58709bd92520ae35b5fe1dd3,السرير الي اكل فيه,Afghan Restaurant,False,24.590692999999998,46.638974,Zahrat al Badiah,False,0,7.8,"24.59795765,46.64831865202828",1
+1,50b11bdae4b0f66121ca1294,غدير الشام,Middle Eastern Restaurant,False,24.600447996435896,46.649279605225,Zahrat al Badiah,False,5,6.6,"24.59795765,46.64831865202828",1
+2,5749fefc498e87674ec37615,ارض الحمام,African Restaurant,False,24.596567,46.63737800000001,Zahrat al Badiah,False,9,6.9,"24.59795765,46.64831865202828",1
+3,582a1bf87448d2404b5c72b1,منؤشة,Belgian Restaurant,False,24.584936,46.617816999999995,Zahrat al Badiah,False,5,6.2,"24.59795765,46.64831865202828",1
+4,5e0281907223790008d529d7,FitHouse,Comfort Food Restaurant,False,24.581754999999998,46.63215200000001,Zahrat al Badiah,False,2,7.8,"24.59795765,46.64831865202828",1
+5,4fcddfdbe4b032142f70f9f4,مطاعم مشخول,Seafood Restaurant,False,24.587567559502286,46.622777821296395,Zahrat al Badiah,False,30,7.0,"24.59795765,46.64831865202828",1
+6,5da7714b374b2700074f8e77,BONNE SANTE CAFA,Dutch Restaurant,False,24.588242,46.636933,Zahrat al Badiah,False,2,7.8,"24.59795765,46.64831865202828",1
+7,5e347d4b0a924d0008d30741,حديقة أمي هيا,Dutch Restaurant,False,24.595576,46.6311,Zahrat al Badiah,False,2,7.8,"24.59795765,46.64831865202828",1
+8,5d4fab8fd16e2000086ea76b,ملحمه,Halal Restaurant,False,24.579882,46.60982,Zahrat al Badiah,False,0,7.8,"24.59795765,46.64831865202828",1
+9,5925caa31ffed711df142865,Feresca Pasta (باستا فيريسكا),Italian Restaurant,False,24.59825099030512,46.645782193458366,Zahrat al Badiah,False,60,8.2,"24.59795765,46.64831865202828",1
+10,5900b6afdb1d813ad8c1b5ac,بخاري نورة,Kebab Restaurant,False,24.604782999999998,46.656033,Zahrat al Badiah,False,0,7.8,"24.59795765,46.64831865202828",1
+11,4ee669680aaf893951ae8067,بيت الفطيرة الدمشقية,Arepa Restaurant,False,24.593106197747932,46.631792118863856,Zahrat al Badiah,False,18,7.3,"24.59795765,46.64831865202828",1
+12,53c5a8b1498e6403bd3faffe,مطاعم اماسي الديوان,Mediterranean Restaurant,False,24.578226,46.607929999999996,Zahrat al Badiah,False,5,7.8,"24.59795765,46.64831865202828",1
+13,50338ca2e4b0412b1014a962,شواية الخليج,Middle Eastern Restaurant,False,24.59617201717113,46.636471476795435,Zahrat al Badiah,False,97,9.0,"24.59795765,46.64831865202828",1
+14,56338190498e966fc2990860,الخليج ستور,Swiss Restaurant,False,24.592512,46.653775,Zahrat al Badiah,False,1,7.8,"24.59795765,46.64831865202828",1
+15,524dadd4498e4919c03dfadf,مطعم غصن الرمان,Middle Eastern Restaurant,False,24.579276882256163,46.78279204476034,Al Aziziyah,False,3,7.8,"24.58942265,46.77363440285736",1
+16,5161b716e4b053ab7ec9fe0c,مطعم شروق المدينه البخاري,Afghan Restaurant,False,24.584982999999998,46.779253999999995,Al Aziziyah,False,5,7.8,"24.58942265,46.77363440285736",1
+17,57759dcd498e3c4f7263f3a5,بادية الزمرد للبخاري,Afghan Restaurant,False,24.588335999999998,46.764393,Al Aziziyah,False,5,7.8,"24.58942265,46.77363440285736",1
+18,5965bad62bf9a95ff7f9888c,الفوال اللي جنب المكتب,African Restaurant,False,24.594137,46.746727,Al Aziziyah,False,0,7.8,"24.58942265,46.77363440285736",1
+19,520e02b211d2a24192b3e027,مطاعم ومطابخ ديرتي,Caribbean Restaurant,False,24.59556203661309,46.775665929069525,Al Aziziyah,False,0,7.8,"24.58942265,46.77363440285736",1
+20,51b3f593498e028dc793d4a4,فلافل الحارة,Falafel Restaurant,False,24.5804094285637,46.78181281508839,Al Aziziyah,False,13,8.4,"24.58942265,46.77363440285736",1
+21,4ef3e3c29adf60f83a1add44,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.585803448889266,46.77857408372506,Al Aziziyah,True,94,7.5,"24.58942265,46.77363440285736",1
+22,5e382fa03fdab20008109e58,تسالي علي,Halal Restaurant,False,24.58789800000001,46.782222,Al Aziziyah,False,0,7.8,"24.58942265,46.77363440285736",1
+23,57b4c29dcd107b8bb2c352a6,مطعم ومشاوي الرافدين,Kebab Restaurant,False,24.586833,46.777958,Al Aziziyah,False,0,7.8,"24.58942265,46.77363440285736",1
+24,5d30c4b71938c700083bcb06,مطاعم حديقة لبنان للمشاوي الطازجة,Kebab Restaurant,False,24.602044,46.761932,Al Aziziyah,False,3,7.8,"24.58942265,46.77363440285736",1
+25,5867c1184988da05ede19442,مطاعم روافد بغداد,Kebab Restaurant,False,24.569924,46.770544,Al Aziziyah,False,13,8.0,"24.58942265,46.77363440285736",1
+26,5776ef03498e9b4c2da8a7e4,مطعم فروج العافية,Kebab Restaurant,False,24.585191000000002,46.771771,Al Aziziyah,False,11,8.0,"24.58942265,46.77363440285736",1
+27,50885641e4b05e0a946f4423,الفطيرة الدمشقية,Arepa Restaurant,False,24.59056483259285,46.776143177134045,Al Aziziyah,False,4,7.8,"24.58942265,46.77363440285736",1
+28,57f2b7d8498e96a429ceff0f,مطبق تلال غوار,Theme Restaurant,False,24.586772,46.78035,Al Aziziyah,False,0,7.8,"24.58942265,46.77363440285736",1
+29,50e31ba4e4b01580b75bf071,مطعم خندلة,Turkish Restaurant,False,24.586298056381803,46.78189886215309,Al Aziziyah,False,13,8.4,"24.58942265,46.77363440285736",1
+30,568fb7ea498e7bcf9edae514,Marmara Istanbul Restaurant,Turkish Restaurant,False,24.569081305040026,46.753872969574566,Al Aziziyah,False,3,7.8,"24.58942265,46.77363440285736",1
+31,520bd7fa11d2caaabfcd265e,بوفية الإطلال | تشباتي ومطبق,Afghan Restaurant,False,24.766670738617943,46.8065757428205,Al Nahdhah,False,8,7.5,"24.75879795,46.81326803253911",1
+32,531cd656498ed5c01f22a76a,فوال مدري شسمه,Afghan Restaurant,False,24.776664,46.823397,Al Nahdhah,False,1,7.8,"24.75879795,46.81326803253911",1
+33,4f355790e4b0aa70b34f62d3,Al-Tazaj (الطازج),Fast Food Restaurant,False,24.749733271515,46.817535820498584,Al Nahdhah,False,91,7.7,"24.75879795,46.81326803253911",1
+34,507e4b94e4b0fd19feb96e5f,صب واي,Cuban Restaurant,False,24.768348577387428,46.83151577860029,Al Nahdhah,False,3,7.8,"24.75879795,46.81326803253911",1
+35,5ae3605e89ad46002495ddc0,لقيمات اجدادنا,Dumpling Restaurant,False,24.761485999999998,46.798218,Al Nahdhah,False,2,7.8,"24.75879795,46.81326803253911",1
+36,5ac5a757ca18ea0e44897ef5,فلافل ثمار,Falafel Restaurant,False,24.754182,46.816788,Al Nahdhah,False,9,8.0,"24.75879795,46.81326803253911",1
+37,4fc51c65e4b0093f0b50b624,فلافل ابو عدنان,Falafel Restaurant,False,24.771088847118893,46.813388628761814,Al Nahdhah,False,97,8.5,"24.75879795,46.81326803253911",1
+38,56ba30cd498e8546c990cc05,Falafel Pie (فطيرة الفلافل),Falafel Restaurant,False,24.75253242004043,46.78373252615914,Al Nahdhah,False,26,8.1,"24.75879795,46.81326803253911",1
+39,4eadb128b634339687da55a0,McDonald's ماكدونالدز,Fast Food Restaurant,False,24.76177608636694,46.79905009810307,Al Nahdhah,True,159,7.6,"24.75879795,46.81326803253911",1
+40,53e07080498e04277b6fe845,Galaxy restaurant,Indian Restaurant,False,24.77148824267859,46.81487679468279,Al Nahdhah,False,3,7.8,"24.75879795,46.81326803253911",1
+41,535a6ba4498e7c5784655477,spice (سبايس),Indian Restaurant,False,24.762562967486648,46.799916020624856,Al Nahdhah,True,23,6.3,"24.75879795,46.81326803253911",1
+42,57f13f49498e15fd39adb6fd,La Casa Pasta,Italian Restaurant,False,24.753953020630533,46.82410984377756,Al Nahdhah,False,12,8.0,"24.75879795,46.81326803253911",1
+43,5e23606f378da20008e0cd5a,Ennabi Grill (المشوي العنابي),Kebab Restaurant,False,24.762666,46.810154,Al Nahdhah,False,5,6.7,"24.75879795,46.81326803253911",1
+44,5cdc8b2e75eee4002c98d1d2,حاشي باشا,Kebab Restaurant,False,24.769182999999998,46.81055300000001,Al Nahdhah,False,0,7.8,"24.75879795,46.81326803253911",1
+45,58adcbb9e7f1cf56f9adb5e2,GRILLY (جريلي),Kebab Restaurant,False,24.764339,46.802556,Al Nahdhah,False,2,7.8,"24.75879795,46.81326803253911",1
+46,4f4d2842e4b052b87a7865e4,مطعم الصياد,Mediterranean Restaurant,False,24.76486884699543,46.80927809977523,Al Nahdhah,False,3,7.8,"24.75879795,46.81326803253911",1
+47,521e331311d2d794fd53f24e,Diet Center (دايت سنتر),Vegetarian / Vegan Restaurant,False,24.75147,46.820052000000004,Al Nahdhah,False,2,7.8,"24.75879795,46.81326803253911",1
+48,55eabec9498e451003e3e7fb,بخاري بركة الشباب,Afghan Restaurant,False,24.658459399999998,46.744422899999996,Al Malaz,False,2,7.8,"24.6641208,46.73369757161316",1
+49,4f9d1786e4b044503b610d12,مطعم الركن البخاري,Asian Restaurant,False,24.660218231825148,46.735757197080325,Al Malaz,False,31,8.0,"24.6641208,46.73369757161316",1
+50,5d216a63ac5dfc002fa4e29c,فلافل نقاء,Dutch Restaurant,False,24.669754,46.73842,Al Malaz,False,0,7.8,"24.6641208,46.73369757161316",1
+51,5d56a50313ed880008129e91,مكان ألماس RESTAURANT ALMAS,Dutch Restaurant,False,24.678145,46.727765999999995,Al Malaz,False,1,7.8,"24.6641208,46.73369757161316",1
+52,4bb05bd4f964a5206b423ce3,فلافل عرفه,Falafel Restaurant,False,24.655357058365997,46.74416437472593,Al Malaz,False,318,8.4,"24.6641208,46.73369757161316",1
+53,5c1725e54c9be6002cb36b6a,فووول تاااااوه,Halal Restaurant,False,24.666731,46.721022,Al Malaz,False,1,7.8,"24.6641208,46.73369757161316",1
+54,4f060350e5facc333eab5596,Indian Corner (الركن الهندي),Indian Restaurant,False,24.67135575187931,46.73421885041415,Al Malaz,True,154,7.9,"24.6641208,46.73369757161316",1
+55,5df72ddeecb0ba000855f8b5,مطعم المصباح الدمشقي,Kebab Restaurant,False,24.66054,46.738115,Al Malaz,False,0,7.8,"24.6641208,46.73369757161316",1
+56,5144a8cae4b0a40e3cc36e61,الأحمدي للحوم,Mediterranean Restaurant,False,24.668824977268386,46.73249138722346,Al Malaz,False,1,7.8,"24.6641208,46.73369757161316",1
+57,57c95e97498e1f8717fa7462,Alahmadi Grilles (الأحمدي للمشويات والمعجنات),Mediterranean Restaurant,False,24.668625,46.732353,Al Malaz,False,5,7.8,"24.6641208,46.73369757161316",1
+58,50c8542ae4b0d1a95fe77ac3,Tako Hut,Mexican Restaurant,False,24.65997993015801,46.71824500077418,Al Malaz,False,0,7.8,"24.6641208,46.73369757161316",1
+59,5e5ea37103634e00088efa4f,Fast Food Restraunt,Pakistani Restaurant,False,24.671774,46.730238,Al Malaz,False,0,7.8,"24.6641208,46.73369757161316",1
+60,4fbe0b7be4b0c7c8fc1a03cb,المطاعم البحرية,Seafood Restaurant,False,24.67255068575951,46.740521227731286,Al Malaz,False,29,7.6,"24.6641208,46.73369757161316",1
+61,57041063498e7bb04d1b54ad,The Diner,Sri Lankan Restaurant,False,24.671151119608044,46.73068794283913,Al Malaz,False,8,7.7,"24.6641208,46.73369757161316",1
+62,57063273cd103cd2d28c138d,The Diner Restaurant,Sri Lankan Restaurant,False,24.671387,46.730675,Al Malaz,False,1,7.8,"24.6641208,46.73369757161316",1
+63,54bff62f498e78d9c54c6394,الخضرجي يلي بيوصل عالبيت 😁,Vegetarian / Vegan Restaurant,False,24.66999435424805,46.73151397705078,Al Malaz,False,1,7.8,"24.6641208,46.73369757161316",1
+64,5be25c18135b39002cce7e7a,بوفيه ركن صبري,Afghan Restaurant,False,24.782916,46.625836,Al Aqeeq,False,0,7.8,"24.7798792,46.6268087019194",0
+65,5cf54cb7b9b37b002c190987,The Cheesecake Factory,American Restaurant,False,24.755442000000002,46.629806,Al Aqeeq,False,586,9.3,"24.7798792,46.6268087019194",0
+66,5a4015c5a4b51b6378b0b9ab,P.F. Chang's (بي إف تشانغز),Chinese Restaurant,False,24.755442000000002,46.629806,Al Aqeeq,False,363,8.7,"24.7798792,46.6268087019194",0
+67,5cf1ee0ae65d0c002cd0753c,Chunk Social,Restaurant,False,24.75616528569097,46.6288948059082,Al Aqeeq,True,70,8.7,"24.7798792,46.6268087019194",0
+68,590f5b7fc824ae79c8fc8363,Operation Falafel (أوبريشن فلافل),Falafel Restaurant,False,24.75224864719993,46.62495821564122,Al Aqeeq,False,1668,8.9,"24.7798792,46.6268087019194",0
+69,560ec9a4498e239b1a73573f,ملحمة البحر المتوسط,Halal Restaurant,False,24.778942108154297,46.62887573242188,Al Aqeeq,False,0,7.8,"24.7798792,46.6268087019194",0
+70,5e52176b0932670007b34a59,بوفية الدوام,Halal Restaurant,False,24.79147,46.631349,Al Aqeeq,False,0,7.8,"24.7798792,46.6268087019194",0
+71,5dae183be55508000813c19e,End,Indian Restaurant,False,24.78585,46.633173,Al Aqeeq,False,3,7.8,"24.7798792,46.6268087019194",0
+72,58823f6351d19e79a10cf2ae,فلفل أخضر,Indian Restaurant,False,24.781999999999996,46.628567,Al Aqeeq,False,6,7.8,"24.7798792,46.6268087019194",0
+73,5c31d5b11f8ed6002c2b8ecb,Kumar (كومار),Indian Restaurant,False,24.755912,46.629303,Al Aqeeq,True,1927,8.7,"24.7798792,46.6268087019194",0
+74,56cba5abcd10270c6ba9768f,Zafran Indian Bistro (زافران),Indian Restaurant,False,24.75281249633192,46.625240897318534,Al Aqeeq,True,552,7.0,"24.7798792,46.6268087019194",0
+75,5debb5bc4341c6000854200a,Pasta & Risotto,Italian Restaurant,False,24.785375,46.634356,Al Aqeeq,False,2,8.4,"24.7798792,46.6268087019194",0
+76,5c33632d8ad62e002cd6c989,MELENZANÉ (ملنزاني),Italian Restaurant,False,24.75623356556251,46.62920100855281,Al Aqeeq,False,816,8.3,"24.7798792,46.6268087019194",0
+77,58bf10da7d0f6d4037cd097d,Pastaria,Italian Restaurant,False,24.78962341187078,46.62097001788729,Al Aqeeq,False,508,9.0,"24.7798792,46.6268087019194",0
+78,58da9b57a37d723799393f91,Texas De Brazil (تكساس دي برازيل),Brazilian Restaurant,False,24.752640859164014,46.62536444498024,Al Aqeeq,True,602,7.2,"24.7798792,46.6268087019194",0
+79,4fe0a7c9e4b02144342f6617,مطعم ماما ريمان,Mediterranean Restaurant,False,24.778257999999997,46.628867,Al Aqeeq,False,6,5.9,"24.7798792,46.6268087019194",0
+80,5cd0add481a0ea002cb25b34,Ritage Garden (ريتاج قاردين),Mediterranean Restaurant,False,24.755716550710112,46.630979802033615,Al Aqeeq,False,109,6.2,"24.7798792,46.6268087019194",0
+81,59d7be345d891b5884122c13,Tortilla,Mexican Restaurant,False,24.75435,46.629934999999996,Al Aqeeq,False,1,7.8,"24.7798792,46.6268087019194",0
+82,5b53975993bd63002c1d8906,‪Tortilla‬ (تورتيا),Mexican Restaurant,False,24.75696537032033,46.63031970921004,Al Aqeeq,False,20,6.1,"24.7798792,46.6268087019194",0
+83,584184f9de0cbc1db7790111,Fire Grill (فاير جريل),Mexican Restaurant,False,24.79635245236998,46.62898315216257,Al Aqeeq,True,176,8.8,"24.7798792,46.6268087019194",0
+84,5ab18be0d552c73bc456a6c4,Fire Grill (فاير جريل),Mexican Restaurant,False,24.75725145993513,46.62918345862564,Al Aqeeq,True,29,8.4,"24.7798792,46.6268087019194",0
+85,507c645ce4b0697bf5706cf4,مطعم الحمراء البخاري,Middle Eastern Restaurant,False,24.78082115213011,46.636772627187284,Al Aqeeq,True,1088,9.2,"24.7798792,46.6268087019194",0
+86,56b0f8a5498e22d232fcdeba,Nando's (ناندوز),Portuguese Restaurant,False,24.75290331038598,46.625450413332395,Al Aqeeq,True,1063,7.2,"24.7798792,46.6268087019194",0
+87,4da158b09aa4721e9071f919,Kudu (كودو),Fast Food Restaurant,False,24.78684212673268,46.63405539383268,Al Aqeeq,False,128,6.5,"24.7798792,46.6268087019194",0
+88,5d56ea503a559e0007bf64e5,Catch Of The Day,Seafood Restaurant,False,24.764101,46.624140999999995,Al Aqeeq,False,211,7.1,"24.7798792,46.6268087019194",0
+89,5a6a23f61499466d519b0825,Ghadwa Ashwa EXPRESS (غدوة عشوة اكسبريس),Theme Restaurant,False,24.76197180240489,46.625661909170866,Al Aqeeq,True,114,8.6,"24.7798792,46.6268087019194",0
+90,5cc3137d286fda0039b43bad,بر,Theme Restaurant,False,24.755953,46.629914,Al Aqeeq,False,5,6.4,"24.7798792,46.6268087019194",0
+91,539cac73498ef2194142e51f,استراحة تركي بن محمد,Theme Restaurant,False,24.781893277781915,46.61653764737605,Al Aqeeq,False,0,7.8,"24.7798792,46.6268087019194",0
+92,5bd897d5acb00b00394610d8,Big Chefs,Turkish Restaurant,False,24.75559960346732,46.6305651778601,Al Aqeeq,True,526,6.3,"24.7798792,46.6268087019194",0
+93,572370e4498e113c95a00ae3,Döner House (دونر هاوس),Doner Restaurant,False,24.795824233869066,46.629354800628136,Al Aqeeq,False,217,6.6,"24.7798792,46.6268087019194",0
+94,5d67bcdead15640008f1b0de,Buffalo,American Restaurant,False,24.755666,46.631598,Al Aqeeq,False,0,7.9,"24.7798792,46.6268087019194",0
+95,58a02c82288b6a52f5dda1b1,نور الرياض البخاري,Afghan Restaurant,False,24.739399652464204,46.644038693579596,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+96,5dc93e61d7386c0007ab53be,Ovvi Lounge & Restaurant,American Restaurant,False,24.726594,46.644039,Al Muhammadiyah,True,477,8.3,"24.731797649999997,46.64991017633719",0
+97,510a60b4e4b0fb795389ce90,One O One (ون اوْ ون),Fast Food Restaurant,False,24.723195804047283,46.65222649099481,Al Muhammadiyah,False,739,8.6,"24.731797649999997,46.64991017633719",0
+98,5b716f0e95a722002c9af8af,Masami Sushi (مسامي سوشي),Sushi Restaurant,False,24.723247,46.645711999999996,Al Muhammadiyah,False,453,8.1,"24.731797649999997,46.64991017633719",0
+99,520a84ca498ef0f4696218f5,Le Chateau (لو شاتّو),Chinese Restaurant,False,24.72639161774031,46.65246697629049,Al Muhammadiyah,False,3382,8.2,"24.731797649999997,46.64991017633719",0
+100,530a3dd311d2ee2f042c73f3,Rosters,Austrian Restaurant,False,24.73767471313477,46.65851211547852,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+101,56ec0cfe498e73779bbb7f10,PAUL (پول),French Restaurant,False,24.73598583490297,46.64728136284227,Al Muhammadiyah,False,1039,8.5,"24.731797649999997,46.64991017633719",0
+102,5dd175309688f200082619ee,Black Spoon,Restaurant,False,24.731699,46.649522999999995,Al Muhammadiyah,False,111,6.4,"24.731797649999997,46.64991017633719",0
+103,526e246511d2fa12163d97fd,Diet Center (دايت سنتر),Restaurant,False,24.72938339421411,46.635052265952865,Al Muhammadiyah,True,5,5.9,"24.731797649999997,46.64991017633719",0
+104,517119f2e4b0e7bbf562f1fd,SMKTNA (سمكتنا),Seafood Restaurant,False,24.721837388840733,46.64925132544811,Al Muhammadiyah,False,29,7.4,"24.731797649999997,46.64991017633719",0
+105,5ae7cf7e89ad460024edf6a0,Gontran Cherrier,French Restaurant,False,24.73172785125989,46.64794921875,Al Muhammadiyah,False,187,6.7,"24.731797649999997,46.64991017633719",0
+106,58419abc528930609d2efcfc,Ôplaisir (أوبليزير),French Restaurant,False,24.73936693748291,46.64650541819064,Al Muhammadiyah,True,1382,8.8,"24.731797649999997,46.64991017633719",0
+107,5cfdba7279f6c7002cd1ba70,OKTO,Greek Restaurant,False,24.731870999999998,46.648323,Al Muhammadiyah,False,180,7.7,"24.731797649999997,46.64991017633719",0
+108,5e3ac2e0ba5bc40008be8fe1,شباك بيروت,Halal Restaurant,False,24.743339000000002,46.658358,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+109,54fd801c498eb43825b55f3a,New York Fries,American Restaurant,False,24.743190750657767,46.65865811108611,Al Muhammadiyah,False,15,5.9,"24.731797649999997,46.64991017633719",0
+110,5c05745735d3fc002ca427fd,RUHI Indian Restaurant,Indian Restaurant,False,24.731588000000002,46.649378999999996,Al Muhammadiyah,True,225,7.6,"24.731797649999997,46.64991017633719",0
+111,59a2864f1108ba0bf279b245,Asha's (آشاز),Indian Restaurant,False,24.743762,46.658268,Al Muhammadiyah,False,31,6.8,"24.731797649999997,46.64991017633719",0
+112,53caf27c498e5a7d7af8c239,Armin (آرمين),Mediterranean Restaurant,False,24.738258802136418,46.642634298167714,Al Muhammadiyah,True,2366,8.3,"24.731797649999997,46.64991017633719",0
+113,5d336ffe898bc70008b4a987,Em Sherif Café (أم شريف),Lebanese Restaurant,False,24.731416018830966,46.649343967437744,Al Muhammadiyah,False,752,8.6,"24.731797649999997,46.64991017633719",0
+114,5825dc90e9e6fe0327ba5620,Famille Mary فاميلي ماري,Molecular Gastronomy Restaurant,False,24.736002,46.647298,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+115,5ae7d0e8d4cc98002cdfdf05,Catch 22,Restaurant,False,24.731407,46.64855,Al Muhammadiyah,False,1176,7.4,"24.731797649999997,46.64991017633719",0
+116,5d03edf1f05ca8002dcc5010,Le Vert,Restaurant,False,24.73216,46.648319,Al Muhammadiyah,True,526,8.2,"24.731797649999997,46.64991017633719",0
+117,5159d577e889ef4d69e3fa30,From Nature,Restaurant,False,24.74422973863232,46.65800213813782,Al Muhammadiyah,True,3,7.8,"24.731797649999997,46.64991017633719",0
+118,5d381529c46dcb0008343fc5,Riyad Mall,Sri Lankan Restaurant,False,24.742729999999998,46.657989,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+119,5ae9fdd5ca18ea002cd6d06f,Antica Armany,Theme Restaurant,False,24.73786,46.658359999999995,Al Muhammadiyah,False,0,7.8,"24.731797649999997,46.64991017633719",0
+120,537dcacc498edfe993fe84d9,Lamat Remas Bukarari (مطعم لمعة ريماس البخاري),Afghan Restaurant,False,24.786429892615715,46.74755409672179,Ghirnatah,False,10,7.3,"24.7919157,46.74432949210845",0
+121,5ac680a14a1cc011c912469b,بيت الحمام,African Restaurant,False,24.74489800000001,46.775760999999996,Ghirnatah,False,1,7.8,"24.7919157,46.74432949210845",0
+122,506ee4ffe4b0dd0f47acd139,بخاري ومضغوط الخيام,Middle Eastern Restaurant,False,24.795938,46.74276,Ghirnatah,False,6,6.5,"24.7919157,46.74432949210845",0
+123,57fc1c19498e064f77f60978,Texas Roadhouse (تكساس رودهاوس),American Restaurant,False,24.77875881440021,46.73424983573365,Ghirnatah,False,509,8.4,"24.7919157,46.74432949210845",0
+124,57fad9fc498e90a7831c4525,The Cheesecake Factory (ذي تشيزكيك فاكتوري),American Restaurant,False,24.778321909340573,46.73438228062045,Ghirnatah,False,3099,9.1,"24.7919157,46.74432949210845",0
+125,4d98c87b744f3704d7dff757,Steak House (ستيك هاوس),American Restaurant,False,24.780583821666042,46.73059579536338,Ghirnatah,True,383,7.9,"24.7919157,46.74432949210845",0
+126,57fadac2498eb0c4e8552c33,P. F. Chang's,Chinese Restaurant,False,24.77862656269991,46.73441773031028,Ghirnatah,False,1192,8.8,"24.7919157,46.74432949210845",0
+127,50a53cb0e4b0c2165f43aaf8,Almajles Alkhaliji (المجلس الخليجي),Middle Eastern Restaurant,False,24.783285,46.746542,Ghirnatah,True,1256,7.7,"24.7919157,46.74432949210845",0
+128,4f6cd94fe4b03b3f38c9e98e,مأكولات رام | Ram,Cajun / Creole Restaurant,False,24.797113757103357,46.74195817345576,Ghirnatah,False,15,7.2,"24.7919157,46.74432949210845",0
+129,516538d2e4b038351341f64d,Les Bernaches,Eastern European Restaurant,False,24.78654208991981,46.73093343407197,Ghirnatah,False,2,7.8,"24.7919157,46.74432949210845",0
+130,58a44d479c954835cced139e,Hawa beirut,Eastern European Restaurant,False,24.788833,46.754265999999994,Ghirnatah,False,2,7.8,"24.7919157,46.74432949210845",0
+131,4e9fd83582310652a7fb4181,HASHEM (هاشم),Falafel Restaurant,False,24.766164010247607,46.76023951675303,Ghirnatah,False,232,7.6,"24.7919157,46.74432949210845",0
+132,506a9744e4b05499f5d3309d,Falafel Themar (فلافل ثمار),Falafel Restaurant,False,24.798641988331383,46.741193694843425,Ghirnatah,False,186,8.5,"24.7919157,46.74432949210845",0
+133,4e738a8cb993272e5236e274,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75319439514577,46.769590210321205,Ghirnatah,True,275,7.6,"24.7919157,46.74432949210845",0
+134,4bbb9ef4e5b0d13ab9496e7c,McDonald's,Fast Food Restaurant,False,24.799803915126272,46.740897204359406,Ghirnatah,True,281,7.8,"24.7919157,46.74432949210845",0
+135,5c331ae261f070002cfbb914,PUAL,French Restaurant,False,24.786832,46.727569,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+136,5262ca8711d269bc8b5c07ad,Le Prince لو برانس,French Restaurant,False,24.798012923920993,46.742043170153465,Ghirnatah,False,2,7.8,"24.7919157,46.74432949210845",0
+137,505f4d92e4b0afdc79e48cf7,France express,French Restaurant,False,24.78151636304956,46.74022993850414,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+138,562b36a2498e90702bd9ddd0,Eric Kayser (ايريك قيصر),French Restaurant,False,24.782936,46.729797,Ghirnatah,False,615,7.8,"24.7919157,46.74432949210845",0
+139,5cb225672be425002c630c24,محاصيل القصيم,Halal Restaurant,False,24.804172,46.75145300000001,Ghirnatah,False,1,7.8,"24.7919157,46.74432949210845",0
+140,5b4b58521953f3002cdcaa61,Nani (ناني),Indian Restaurant,False,24.80377965366014,46.749988216076076,Ghirnatah,False,156,7.5,"24.7919157,46.74432949210845",0
+141,5d1a625c6d22da002fc39f49,مطاعم فوانيس بغداد,Kebab Restaurant,False,24.812452,46.770449,Ghirnatah,False,1,7.8,"24.7919157,46.74432949210845",0
+142,535bfae6498e59e05a904f3d,مشويات نعيم الرافدين || BBQ Naim Al-Rafidain,Middle Eastern Restaurant,False,24.80467421739749,46.75204635693746,Ghirnatah,False,33,6.7,"24.7919157,46.74432949210845",0
+143,4ebc0c0877c8d9bd1bcb8c99,اكلات شعبية,Arepa Restaurant,False,24.79486042492348,46.75731185720797,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+144,58dbf2a90319b84bcb52c16b,Alforn Alrifi (الفرن الريفي),Mediterranean Restaurant,False,24.796112,46.742424,Ghirnatah,False,9,8.3,"24.7919157,46.74432949210845",0
+145,4fa64462e4b0217538ad0996,Tako Hut (تاكو هت),Mexican Restaurant,False,24.78129791759516,46.73052742999068,Ghirnatah,False,5,6.0,"24.7919157,46.74432949210845",0
+146,5819076912d23675fda3791a,Fire Grill (فاير جريل),Mexican Restaurant,False,24.815245142186733,46.77725392378871,Ghirnatah,True,106,8.3,"24.7919157,46.74432949210845",0
+147,4e41bd8218a8627fce3e4bb9,Shawaiat Al Khalij (شواية الخليج),Middle Eastern Restaurant,False,24.753585743031543,46.76950831575136,Ghirnatah,False,246,8.9,"24.7919157,46.74432949210845",0
+148,54245388498e8e9b84d8f651,مطعم باكستاني,Pakistani Restaurant,False,24.79860100928009,46.741325424788286,Ghirnatah,False,1,7.8,"24.7919157,46.74432949210845",0
+149,5dfce194227f9b0008cf0f8c,Nando’s (ناندوز),Portuguese Restaurant,False,24.781576,46.730557,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+150,5e3b0c32ead05300088a489a,Catch Of The Day,Seafood Restaurant,False,24.77775,46.732971,Ghirnatah,False,15,7.3,"24.7919157,46.74432949210845",0
+151,4f3d68ace4b02d5ef8aae12a,المطاعم البحرية,Seafood Restaurant,False,24.763014944392616,46.76230482344202,Ghirnatah,False,10,6.9,"24.7919157,46.74432949210845",0
+152,5bf2d0752bf29b002d7964ff,taste sugar,Swiss Restaurant,False,24.789334,46.740766,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+153,58053886d67c2c9fa44c8420,جدو علي,Theme Restaurant,False,24.802948,46.760171,Ghirnatah,False,1,7.8,"24.7919157,46.74432949210845",0
+154,5bcd7769e65d0c003929f7ef,Rosemary (اكليل الجبل),Theme Restaurant,False,24.786579999999997,46.727051,Ghirnatah,False,0,7.8,"24.7919157,46.74432949210845",0
+155,5ed1eff025ffd500081a115b,Mamma Noura (ماما نوره),Middle Eastern Restaurant,False,24.809322,46.76334600000001,Ghirnatah,False,2,7.8,"24.7919157,46.74432949210845",0
+156,50ceb03ae4b0bc9a6404c5c2,فوال أبو نعمان,Afghan Restaurant,False,24.738494962311343,46.667527774268805,King Fahd,False,54,7.2,"24.740602850000002,46.67036378467072",1
+157,50597af1e4b05af93ee41710,نعمان للفول,African Restaurant,False,24.738315128621092,46.667518615722656,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+158,5bfb5f0a2b9844002cf54340,فوال سوداني,African Restaurant,False,24.736411,46.675503000000006,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+159,5da4f2a43f963800085bc0c4,فوال النعمان,Cuban Restaurant,False,24.738146,46.680411,King Fahd,False,1,7.8,"24.740602850000002,46.67036378467072",1
+160,5df73a8eee0c6b00086e84da,منارة عدن,Comfort Food Restaurant,False,24.748165,46.678898,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+161,4f3eb3d8e4b05870169889f9,Sinabad,Middle Eastern Restaurant,False,24.74555658986548,46.67880771434887,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+162,5d79e2f6cd95ad000871260f,شباتي مع كرك,Dutch Restaurant,False,24.738587,46.667743,King Fahd,False,9,6.8,"24.740602850000002,46.67036378467072",1
+163,5b65ebc1492814002c2ea8a1,Muunni’s,Dutch Restaurant,False,24.745437,46.660502,King Fahd,False,2,7.8,"24.740602850000002,46.67036378467072",1
+164,51a3b9da498e5f4013fe1060,Themar Falafel (فلافل ثمار),Falafel Restaurant,False,24.740108,46.671284,King Fahd,False,323,7.8,"24.740602850000002,46.67036378467072",1
+165,51656059e4b0bc6385c9f2f6,PAUL (پول),French Restaurant,False,24.74197704179739,46.6806713465145,King Fahd,False,773,8.2,"24.740602850000002,46.67036378467072",1
+166,4e39b2eed4c046ee86bd2b18,KFC,Fast Food Restaurant,False,24.73252751038537,46.673923244816294,King Fahd,False,97,7.1,"24.740602850000002,46.67036378467072",1
+167,590757cff8cbd41891a639d9,Pretzel Maker,German Restaurant,False,24.74538900000001,46.660416999999995,King Fahd,False,9,8.1,"24.740602850000002,46.67036378467072",1
+168,579e5f07498ec9229785288d,Pretzel Maker,German Restaurant,False,24.742463,46.679808,King Fahd,False,10,8.1,"24.740602850000002,46.67036378467072",1
+169,53b146a6498e617c3f251d8b,Diet Center | The Shop,Gluten-free Restaurant,False,24.74518375152596,46.66749039364337,King Fahd,False,1,7.8,"24.740602850000002,46.67036378467072",1
+170,599067afd807ee5ed1d40bd0,Gyro Flame,Greek Restaurant,False,24.739886,46.682204999999996,King Fahd,False,7,7.6,"24.740602850000002,46.67036378467072",1
+171,57b2f677498eaecf68592d0b,مشويات زهور الشام,Kebab Restaurant,False,24.745961586907267,46.67958034440737,King Fahd,False,56,7.8,"24.740602850000002,46.67036378467072",1
+172,55018877498e099604143659,Tanjiah Restaurant (مطعم طنجية),Moroccan Restaurant,False,24.75226925207921,46.67471946505271,King Fahd,True,393,7.1,"24.740602850000002,46.67036378467072",1
+173,5e0ba17212a8d00008194cc7,Mexika (مكسيكا),Mexican Restaurant,False,24.742897,46.679118,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+174,542d8f6f498e2182c16befa1,Marhaba Restaurant,Pakistani Restaurant,False,24.73380851745605,46.678138732910156,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+175,5c1f6ffa41b6c9002509563b,وادي تهامة للأكلات الشعبية,Southern / Soul Food Restaurant,False,24.738692999999998,46.667956,King Fahd,False,0,7.8,"24.740602850000002,46.67036378467072",1
+176,5063f150e4b0eb86c6e365b6,فوال ابونعمان,Afghan Restaurant,False,24.81851735325901,46.64267961505827,Al Yasmin,False,55,6.8,"24.8227909,46.63976191406831",1
+177,5e19da376a47eb00089010a0,كشري ستيشن Koshari Station,African Restaurant,False,24.822241,46.649669,Al Yasmin,False,1,7.8,"24.8227909,46.63976191406831",1
+178,563260d1498e40d020b5d872,Steak House (ستيك هاوس),American Restaurant,False,24.824292827342838,46.65724052308649,Al Yasmin,True,680,8.3,"24.8227909,46.63976191406831",1
+179,5de4bcd2e7d91d00081c580d,FISHFACE,Japanese Restaurant,False,24.822110000000002,46.65000300000001,Al Yasmin,False,11,8.7,"24.8227909,46.63976191406831",1
+180,590366f2396de02ff8859814,Spectra Restaurant,Comfort Food Restaurant,False,24.820321,46.643283000000004,Al Yasmin,False,7,5.2,"24.8227909,46.63976191406831",1
+181,5bec4a4bb9ac3816766c1b74,Lugaimat Tuf,Dumpling Restaurant,False,24.824885000000002,46.656620000000004,Al Yasmin,False,15,8.3,"24.8227909,46.63976191406831",1
+182,5e536de1b03c400008e5ae84,Richoux Restaurant,English Restaurant,False,24.816879,46.665884999999996,Al Yasmin,False,21,8.8,"24.8227909,46.63976191406831",1
+183,5d66e6e67c763a000863baa3,ماكدونالدز,Fast Food Restaurant,False,24.81601400000001,46.6371,Al Yasmin,False,41,8.3,"24.8227909,46.63976191406831",1
+184,56d0c5edcd10c28c0eecf8d9,Maharaja Palace (قصر المهراجا),Indian Restaurant,False,24.8138802285388,46.63196480619304,Al Yasmin,False,212,7.0,"24.8227909,46.63976191406831",1
+185,59c15e420d173f674fb78f3a,لاكارافيلا اكسبرس,Italian Restaurant,False,24.822374,46.650022,Al Yasmin,False,8,7.9,"24.8227909,46.63976191406831",1
+186,567a7192498e1977069252b3,Piatto (بياتو),Italian Restaurant,False,24.82422243569737,46.657304482765376,Al Yasmin,True,866,8.4,"24.8227909,46.63976191406831",1
+187,5803c34338fa540b8626b65d,مطعم مبشور الشام للمشويات و الفطائر,Kebab Restaurant,False,24.818721368784193,46.64300675255407,Al Yasmin,False,6,7.8,"24.8227909,46.63976191406831",1
+188,5bf5b5c0da7080002cf51b4b,Alennabi Grill (المشوي العنابي),Middle Eastern Restaurant,False,24.81499321313744,46.634597892801075,Al Yasmin,False,419,8.7,"24.8227909,46.63976191406831",1
+189,5aea278c2632ec002c2a3981,مطعم ليمونة,Kebab Restaurant,False,24.84863294123477,46.667250910762995,Al Yasmin,False,26,7.8,"24.8227909,46.63976191406831",1
+190,570c08b7cd101d6e9be9c53b,On Fire (اون فاير),Kebab Restaurant,False,24.823933513056048,46.656710230736465,Al Yasmin,True,245,8.4,"24.8227909,46.63976191406831",1
+191,5a8608ee5d891b280b7e89cc,Kebab Time (وقت الكباب),Kebab Restaurant,False,24.82213886179089,46.64991672024493,Al Yasmin,True,55,8.4,"24.8227909,46.63976191406831",1
+192,52f64bd3498e068492cd921c,مخبز تميس,Arepa Restaurant,False,24.817075281864053,46.63337476096172,Al Yasmin,False,2,7.8,"24.8227909,46.63976191406831",1
+193,5d99cb1904fb0b0007f30859,كاتم,Mediterranean Restaurant,False,24.825169,46.657088,Al Yasmin,False,1,7.8,"24.8227909,46.63976191406831",1
+194,5ccd84bbf00a70002cbf06bb,FireGrill,Mexican Restaurant,False,24.817489000000002,46.664774,Al Yasmin,True,13,8.3,"24.8227909,46.63976191406831",1
+195,567a7250498e37140c462167,Fire Grill (فاير جريل),Mexican Restaurant,False,24.82486249209435,46.65609240531922,Al Yasmin,True,374,8.7,"24.8227909,46.63976191406831",1
+196,5790a03f498e651432a0e66a,مطعم ضيافة الرياض,Pakistani Restaurant,False,24.834463,46.65505,Al Yasmin,False,3,7.8,"24.8227909,46.63976191406831",1
+197,5c9e62e595d986002c80ce6a,بسطة الحارة,Pakistani Restaurant,False,24.818579999999997,46.656024,Al Yasmin,False,1,7.8,"24.8227909,46.63976191406831",1
+198,58bf0109000bef1274a522ba,Zouq Mughal (ذوق مغل) (ذوق مغل),Pakistani Restaurant,False,24.818578220147682,46.643124445318826,Al Yasmin,False,18,5.7,"24.8227909,46.63976191406831",1
+199,5b6334a046e1b6002cb95fbe,Eat Smart,Restaurant,False,24.830824900086213,46.637839133668066,Al Yasmin,False,104,8.5,"24.8227909,46.63976191406831",1
+200,5277be2d11d268b840aa729d,oceanx,Seafood Restaurant,False,24.82670285496539,46.660072803497314,Al Yasmin,False,6,6.9,"24.8227909,46.63976191406831",1
+201,54625938498e09ae246ed7b1,Shrimplus (شريمبلس),Seafood Restaurant,False,24.81818500697403,46.642295207500105,Al Yasmin,False,1111,8.5,"24.8227909,46.63976191406831",1
+202,5369469e498ee122760361d1,Noor Alhanaa Restaurants (مطاعم نور الهناء),Turkish Restaurant,False,24.803936885119768,46.65179136933445,Al Yasmin,False,139,7.5,"24.8227909,46.63976191406831",1
+203,5c896e9dd4cc98002ca47cba,الفطيرة الدمشقية,Doner Restaurant,False,24.821883,46.654259,Al Yasmin,False,14,8.4,"24.8227909,46.63976191406831",1
+204,5dc58fb4ed7e4e0007c09a56,محل ولد عمي,Vegetarian / Vegan Restaurant,False,24.828473000000002,46.651218,Al Yasmin,False,0,7.8,"24.8227909,46.63976191406831",1
+205,5601b8fe498ec57fdadb9a7b,مطاعم ركن الوليمة,Middle Eastern Restaurant,False,24.792909079394303,46.628336638468674,Al Malga,False,27,7.2,"24.800734900000002,46.60070282369142",1
+206,5e88d960dadf2500089b94e6,مطبخ بيتنا,Bangladeshi Restaurant,False,24.808273,46.605127,Al Malga,False,0,7.8,"24.800734900000002,46.60070282369142",1
+207,5361d94b498e40a31baf14ca,فوال الملقا - مقابل موبايلي,Belgian Restaurant,False,24.81836400000001,46.608717,Al Malga,False,2,7.8,"24.800734900000002,46.60070282369142",1
+208,5ceda08d3731ee002b0ddf00,The Table (ذي تيبل),Comfort Food Restaurant,False,24.805390215595803,46.61041044187161,Al Malga,False,455,8.7,"24.800734900000002,46.60070282369142",1
+209,5bee3036a4ba7c002c4f72e5,بوفية احمد,Comfort Food Restaurant,False,24.774616,46.618826,Al Malga,False,0,7.8,"24.800734900000002,46.60070282369142",1
+210,5e830c8934e8520008680568,شركة عبدالله الجربوع وابنائه,Dutch Restaurant,False,24.795251,46.626718,Al Malga,False,0,7.8,"24.800734900000002,46.60070282369142",1
+211,5e29f54febe2870007ce133e,قف مي فايف,Eastern European Restaurant,False,24.818434,46.595853999999996,Al Malga,False,0,7.8,"24.800734900000002,46.60070282369142",1
+212,53d6cccc498e02947a2f0c1a,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.801982136636358,46.604291811509704,Al Malga,False,331,8.1,"24.800734900000002,46.60070282369142",1
+213,5a84241782a7501a94b83551,Lenôtre,French Restaurant,False,24.807778,46.617252,Al Malga,False,2,7.8,"24.800734900000002,46.60070282369142",1
+214,579d0612498ee0d5784bffcb,La Casa Pasta (كازا باستا),Italian Restaurant,False,24.80193689980104,46.604087330409406,Al Malga,False,67,8.1,"24.800734900000002,46.60070282369142",1
+215,5a8733d27247501bc12a6cfe,دي لوسو Di Lusso,Italian Restaurant,False,24.807247285968838,46.61465658631525,Al Malga,False,505,7.8,"24.800734900000002,46.60070282369142",1
+216,5a930880fe3740171f68c404,DDR مطعم لذة المأكل,Middle Eastern Restaurant,False,24.807403579949746,46.616179501988704,Al Malga,True,198,8.3,"24.800734900000002,46.60070282369142",1
+217,5d571db1c0e1a400080d67e6,Red Box,Restaurant,False,24.771132,46.620619,Al Malga,False,30,8.0,"24.800734900000002,46.60070282369142",1
+218,5d3dc6be5c2b8900077fc541,Low calories,Restaurant,False,24.771196,46.620693,Al Malga,False,76,9.1,"24.800734900000002,46.60070282369142",1
+219,57c9e871498ece347babe008,دار الفطيرة,Restaurant,False,24.80741966410946,46.60170337770015,Al Malga,False,127,8.7,"24.800734900000002,46.60070282369142",1
+220,5c1a6df5ecb3ed0025686dbc,32 Grimp (٣٢ قرمب),Seafood Restaurant,False,24.80449143797443,46.607954569606626,Al Malga,False,1279,8.6,"24.800734900000002,46.60070282369142",1
+221,5e3994020e15b00007edd32b,Shrimp Anatomy (شرمب اناتومي),Seafood Restaurant,False,24.806135,46.611854,Al Malga,False,41,8.5,"24.800734900000002,46.60070282369142",1
+222,55377bae498e8bc1e408d3b3,Shake It (شيك ات),Fast Food Restaurant,False,24.80772350732925,46.615936697402184,Al Malga,False,108,7.9,"24.800734900000002,46.60070282369142",1
+223,5c765e60121384002c923de7,Fitway,Theme Restaurant,False,24.78571205711544,46.61318690152709,Al Malga,False,104,8.5,"24.800734900000002,46.60070282369142",1
+224,58ad7b964988da4c80579eee,Tent Breeze Restaurant,Turkish Restaurant,False,24.812879161429585,46.5994991893614,Al Malga,False,16,6.7,"24.800734900000002,46.60070282369142",1
+225,5b40b23e4420d8002c2aa2fe,Beyzade,Turkish Restaurant,False,24.807214291975125,46.614547661070716,Al Malga,False,215,7.5,"24.800734900000002,46.60070282369142",1
+226,5812ad0938fa8d6824adf962,Vegetarian,Vegetarian / Vegan Restaurant,False,24.799242,46.621365000000004,Al Malga,False,0,7.8,"24.800734900000002,46.60070282369142",1
+227,506eae40e4b0719dc8f92798,Bokhari Corner Resturant (مطعم الركن البخاري),Afghan Restaurant,False,24.741798,46.751977000000004,King Faisal,False,116,8.4,"24.76040125,46.77602699636495",1
+228,51900478498e4aa8d9bb0ac2,Ziafa al Riyadh Restaurant | ضيافة الرياض,Asian Restaurant,False,24.765173251639066,46.78636020766571,King Faisal,False,7,7.2,"24.76040125,46.77602699636495",1
+229,53b85fdb498e531e3fa48c0a,Almento Taste (مذاق المنتو),Dumpling Restaurant,False,24.742129867902584,46.752329533290386,King Faisal,False,23,6.7,"24.76040125,46.77602699636495",1
+230,5e2c76e6e2a61200080f9a17,بوفيه التسمم,Dutch Restaurant,False,24.768589000000002,46.792409,King Faisal,False,0,7.8,"24.76040125,46.77602699636495",1
+231,50af5c5fe4b09d9e06d66674,الفخار التركي,Eastern European Restaurant,False,24.75229300941666,46.76866552680777,King Faisal,False,15,5.2,"24.76040125,46.77602699636495",1
+232,55696857498e26c0489724f2,بوفيه  للأكلات المصرية,Falafel Restaurant,False,24.765016501647228,46.78636812137594,King Faisal,False,10,5.9,"24.76040125,46.77602699636495",1
+233,5099d973e4b071145aac05ba,فلافل ابو عدنان,Falafel Restaurant,False,24.76800964707109,46.78263437970596,King Faisal,False,46,8.1,"24.76040125,46.77602699636495",1
+234,55d8fafd498ed9c37d1651a6,مطعم رز بخاري وبرياني,Fondue Restaurant,False,24.76525,46.786456,King Faisal,False,3,7.8,"24.76040125,46.77602699636495",1
+235,580f8bbf38fa28f22ed9a4f0,PAUL (پول),French Restaurant,False,24.773692980565855,46.77703806207631,King Faisal,False,408,8.8,"24.76040125,46.77602699636495",1
+236,5c123d89ba57b4002c10382f,مضغوط تهامة,Halal Restaurant,False,24.759025,46.777178,King Faisal,False,0,7.8,"24.76040125,46.77602699636495",1
+237,51a3b2a0498e3fa35bbd7725,Garden Restaurant (مطعم الحديقة),Indian Chinese Restaurant,False,24.770702000775646,46.76649636894661,King Faisal,False,56,6.7,"24.76040125,46.77602699636495",1
+238,51df4154498ee64c6453c827,مطاعم اطلالة الشام للمشويات,Kebab Restaurant,False,24.752774363746056,46.769632203371216,King Faisal,False,6,7.1,"24.76040125,46.77602699636495",1
+239,5417037b498ec442f7c99de9,مطابخ ومطاعم ريدان,Arepa Restaurant,False,24.745948791503906,46.79826736450195,King Faisal,False,2,7.8,"24.76040125,46.77602699636495",1
+240,4f0c86d2e4b0baf830f4628e,Mama Noura (ماما نورة),Middle Eastern Restaurant,False,24.76850457901073,46.761596162968786,King Faisal,False,1585,9.2,"24.76040125,46.77602699636495",1
+241,58eb9555e0adac258f576f98,|| منتج الطبيعة || عسل مانوكا | أغذية عضوية,Molecular Gastronomy Restaurant,False,24.766942999999998,46.789691999999995,King Faisal,False,0,7.8,"24.76040125,46.77602699636495",1
+242,52b47cb7498ec4eced0e4663,فوال بيض لحسة,African Restaurant,False,24.70876121520996,46.67977523803711,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+243,5a7b5cff1987ec57511bd9d3,حمام عبده,Ethiopian Restaurant,False,24.687711,46.681791,Al Olaya,False,5,6.6,"24.69216205,46.686588958007334",2
+244,55af1c4f498e1576ac9784d0,فوال نزومي,African Restaurant,False,24.683920238987465,46.67317231143322,Al Olaya,False,2,7.8,"24.69216205,46.686588958007334",2
+245,4bcc31a7b6c49c74e64b9391,Chili's (تشيليز),Tex-Mex Restaurant,False,24.703645112508315,46.70111487425382,Al Olaya,False,1409,7.6,"24.69216205,46.686588958007334",2
+246,4b8d3a23f964a52088ee32e3,Tokyo (طوكيو),Japanese Restaurant,False,24.718337842604022,46.686787605285645,Al Olaya,True,4747,9.0,"24.69216205,46.686588958007334",2
+247,5c12a1de04d1ae002c5178e7,Baozi (باوزي),Japanese Restaurant,False,24.711443412661282,46.671274045245205,Al Olaya,True,712,8.1,"24.69216205,46.686588958007334",2
+248,5e41997177455a0008d60f91,Nobu,Japanese Restaurant,False,24.706068,46.675534000000006,Al Olaya,False,72,8.1,"24.69216205,46.686588958007334",2
+249,528e563c498ece6d9c13cfb5,Kampai (كمباي),Japanese Restaurant,False,24.70401646814694,46.70218872799922,Al Olaya,False,3160,8.4,"24.69216205,46.686588958007334",2
+250,54ddfd40498ee2dde59dcb94,AGUS (أقوس),Asian Restaurant,False,24.704188516336988,46.70241897549443,Al Olaya,False,911,8.4,"24.69216205,46.686588958007334",2
+251,54b01117498e18b8bcee3f74,Mee SO HUNGRY (مي سو هنجري),Sushi Restaurant,False,24.68956773450216,46.673462759711825,Al Olaya,False,624,8.0,"24.69216205,46.686588958007334",2
+252,5c0d391246e1b6002cc28dfa,JAWICO (جاويكو),Indonesian Restaurant,False,24.716904,46.68323,Al Olaya,False,47,8.0,"24.69216205,46.686588958007334",2
+253,5389bf23498ed108270e7f87,Yokari (يوكاري),Japanese Restaurant,False,24.69766964320837,46.68333748419162,Al Olaya,True,1385,8.7,"24.69216205,46.686588958007334",2
+254,561543d2498ed5eb8ba562d1,HUALAN (هوالان),Chinese Restaurant,False,24.697309,46.683927000000004,Al Olaya,True,900,8.6,"24.69216205,46.686588958007334",2
+255,549bb6ed498ed40946f51ae7,مطعم ماأحد يعرفه الا انا,Australian Restaurant,False,24.706792999999998,46.679399,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+256,530f3ea3498ed31f1688e007,Andy,Belgian Restaurant,False,24.70951271057129,46.67512512207031,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+257,56a05303498e553a5ca1ae48,sayora,Belgian Restaurant,False,24.691444,46.679769,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+258,59746750a92d9809bb7d5220,Al Kofia Restaurant (مطعم الكوفية),Middle Eastern Restaurant,False,24.700520312395643,46.69302985096924,Al Olaya,False,583,7.8,"24.69216205,46.686588958007334",2
+259,5016a895e4b00c72b7dcc429,Nialiyha Nuakemsis,Cajun / Creole Restaurant,False,24.687084,46.683761,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+260,566b57e0498eba26c12c47ec,charlie's,Cuban Restaurant,False,24.691549,46.679743,Al Olaya,False,1,7.8,"24.69216205,46.686588958007334",2
+261,52bf2df0498eb50bbb45809b,Resta Vista,Caribbean Restaurant,False,24.69007682800293,46.69062042236328,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+262,500c8d0ee4b02b2a7fe00cd1,Jamaica Joint,Caribbean Restaurant,False,24.691648,46.679794,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+263,5e4ef18a4d7cf8000814f80d,ريف لبنان,Caucasian Restaurant,False,24.699247,46.690976,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+264,5b3b9b7fca18ea002c3c53ed,Lovers Unite Coffee,Comfort Food Restaurant,False,24.700625,46.678529,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+265,507662c0e4b0d31633065fd4,Yilmaz Restaurant (مطاعم يلمز),Middle Eastern Restaurant,False,24.685262952609328,46.68971248979664,Al Olaya,False,13,5.6,"24.69216205,46.686588958007334",2
+266,5e1cb1064892170009dc6890,مطعم فخار,Dutch Restaurant,False,24.686286,46.68095200000001,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+267,5a150629b546182d6460d399,El Tempo Restaurant,Eastern European Restaurant,False,24.708765,46.678000000000004,Al Olaya,False,1,7.8,"24.69216205,46.686588958007334",2
+268,58d9ed9afda3d8151845a414,البوفية الفخمة,Eastern European Restaurant,False,24.704314,46.681576,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+269,4db599fc81543d71da5b8e83,Lusin (لوسين),Eastern European Restaurant,False,24.697488,46.683696999999995,Al Olaya,True,5387,9.2,"24.69216205,46.686588958007334",2
+270,51c796cd498e0ac964e6628e,Cafeteria,Eastern European Restaurant,False,24.71049289618794,46.674398370126845,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+271,5079bcf6e4b0602b62ba45cc,Teatro تياترو,Italian Restaurant,False,24.687322895166393,46.68742362637364,Al Olaya,False,58,5.3,"24.69216205,46.686588958007334",2
+272,582de1771094cb749f6a192d,Cilicia (سيليسيا),Eastern European Restaurant,False,24.702755679593874,46.6771212296387,Al Olaya,True,1167,7.3,"24.69216205,46.686588958007334",2
+273,52f9dbf8498ec1f2b0d17360,Tahil (تاهل),Middle Eastern Restaurant,False,24.70675514224037,46.67704015731115,Al Olaya,False,470,5.8,"24.69216205,46.686588958007334",2
+274,533bb23a498e94f7b2c94f87,مطعم فندق كورال,English Restaurant,False,24.706791,46.68745300000001,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+275,5a95a6cc054e295239d9091d,McDonald's,Fast Food Restaurant,False,24.688525521058025,46.6741029546429,Al Olaya,False,86,8.5,"24.69216205,46.686588958007334",2
+276,50eaae09e4b05e344c66cdde,Al-Qalzam القلزم,Seafood Restaurant,False,24.708009948022085,46.66408927890493,Al Olaya,False,198,6.2,"24.69216205,46.686588958007334",2
+277,535ce8db498edcf9a4e8641d,L'entrecote Café De Paris,French Restaurant,False,24.708094,46.6686,Al Olaya,False,6,7.8,"24.69216205,46.686588958007334",2
+278,597620d835811b1c189f9f01,Lenôtre لينوتر,French Restaurant,False,24.679968,46.687546999999995,Al Olaya,False,14,8.6,"24.69216205,46.686588958007334",2
+279,4de687327d8b53987c634f39,Le Relais de l'Entrecôte (لوروليه دو لانتغيكوت),French Restaurant,False,24.70415176806517,46.702318048952506,Al Olaya,False,3214,8.5,"24.69216205,46.686588958007334",2
+280,4b82e734f964a52022ec30e3,The Globe (البلورة),French Restaurant,False,24.690227584112435,46.685050572807064,Al Olaya,False,481,7.8,"24.69216205,46.686588958007334",2
+281,4cd190ef7b685481edc9c7f8,Lenôtre (لونوتر),French Restaurant,False,24.692998621929828,46.6951345023905,Al Olaya,False,163,8.4,"24.69216205,46.686588958007334",2
+282,5511b13d498e1e2d8edac72a,Auntie Anne's,German Restaurant,False,24.69013,46.686768,Al Olaya,False,2,7.8,"24.69216205,46.686588958007334",2
+283,56c86027498e3d0be65adab9,Kamps (كامبس),German Restaurant,False,24.688303,46.68336400000001,Al Olaya,False,734,7.8,"24.69216205,46.686588958007334",2
+284,5219a68511d22d0e9399807f,بيت الفطيرة الدمشقية,Gluten-free Restaurant,False,24.675081,46.694544,Al Olaya,False,1,7.8,"24.69216205,46.686588958007334",2
+285,58654fb68ee5601f863b8eda,Azure,Greek Restaurant,False,24.698451140312013,46.682398833576784,Al Olaya,False,66,7.3,"24.69216205,46.686588958007334",2
+286,56350d07498e7a764eaa5eda,مطعم روابي الإسكان,Halal Restaurant,False,24.679314,46.690102,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+287,52c8473c11d239e131d74bd4,Makani (مكاني),Indian Restaurant,False,24.68730334872036,46.68132662773132,Al Olaya,True,416,7.9,"24.69216205,46.686588958007334",2
+288,4c13709ca5eb76b0dce6bfb7,Shezan,Indian Restaurant,False,24.68735815429021,46.68608898548521,Al Olaya,False,665,8.0,"24.69216205,46.686588958007334",2
+289,5e60d8472cdec700090c750d,Mamo Michelangelo,Italian Restaurant,False,24.68975,46.684222,Al Olaya,False,11,8.4,"24.69216205,46.686588958007334",2
+290,5681ce8a498e7ab273192ddd,Eataly (إيتالي),Italian Restaurant,False,24.70409492686067,46.702825682942134,Al Olaya,True,2440,8.8,"24.69216205,46.686588958007334",2
+291,4bdc6e743904a593bf254e9e,Roma Restaurant (مطعم روما),Italian Restaurant,False,24.70341380088512,46.68175724705878,Al Olaya,False,1746,8.7,"24.69216205,46.686588958007334",2
+292,4b825ddff964a5208bd030e3,Nino (نينو),Italian Restaurant,False,24.69795625474334,46.686928870511466,Al Olaya,False,2935,8.4,"24.69216205,46.686588958007334",2
+293,566de7a8498eb66b02ba00bc,tawu-h,Kosher Restaurant,False,24.691451,46.679645,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+294,5674964c498e85cb254ed94c,atnak,Jewish Restaurant,False,24.691571,46.679798999999996,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+295,566884b9498e6d8066d028aa,monyeka,Jewish Restaurant,False,24.691469,46.679747,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+296,56688522498e2d042e44f582,dogus an,Kosher Restaurant,False,24.69148,46.679718,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+297,4fc53020e4b02c5563537cf9,يامال الشام الضباب,Arepa Restaurant,False,24.69013967059072,46.69973264019249,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+298,566b5790498ef67909165e40,komas,Arepa Restaurant,False,24.691585999999997,46.679817,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+299,53b08723498eb839def0ed2b,Pampa Grill (بامبا قريل),Argentinian Restaurant,False,24.696019023957966,46.68361236556439,Al Olaya,False,288,7.6,"24.69216205,46.686588958007334",2
+300,566b572d498ef6790915969c,wanat ngal,Latin American Restaurant,False,24.691445,46.679719,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+301,566b584f498e7d638d66f59c,bev fost,Empanada Restaurant,False,24.691478,46.679742,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+302,4cf68ff9dc40a35d67b04854,Il Terrazzo,Brazilian Restaurant,False,24.68988491784798,46.684403268338706,Al Olaya,False,287,7.4,"24.69216205,46.686588958007334",2
+303,4bb324ee42959c74f790212c,Assaraya Turkish Restaurant (مطعم السرايا التركي),Turkish Restaurant,False,24.692935338040005,46.6952105662488,Al Olaya,False,817,7.0,"24.69216205,46.686588958007334",2
+304,50b10a19e4b004e6d2ec4344,Al-Mayas Beirut (المياس بيروت),Middle Eastern Restaurant,False,24.68705767983613,46.68162032995772,Al Olaya,True,2534,7.8,"24.69216205,46.686588958007334",2
+305,56674814498e06cfb4c37800,oyal an,Moroccan Restaurant,False,24.691326,46.679724,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+306,52b21077498e2142de8998e9,RestuRanttii,Mediterranean Restaurant,False,24.69007873535156,46.69061660766602,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+307,57e823bd498e0aaf3aceaca9,tacos mexicanos,Mexican Restaurant,False,24.69146700000001,46.679716,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+308,56674603498e5d488012bab0,gukod lang,Mexican Restaurant,False,24.691423999999998,46.679728999999995,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+309,595a25fc35d3fc2a96333008,FireGrill,Mexican Restaurant,False,24.690013326790663,46.6862028837204,Al Olaya,True,25,8.2,"24.69216205,46.686588958007334",2
+310,58d7d9c092ca4c5b4f843659,Rojina Restaurant & Cafe (روجينا كافيه),Middle Eastern Restaurant,False,24.675439,46.673676,Al Olaya,False,696,8.9,"24.69216205,46.686588958007334",2
+311,5c2079f618d43b002c06e8ba,Goodies,Lebanese Restaurant,False,24.70224902558629,46.698423845345246,Al Olaya,False,811,8.4,"24.69216205,46.686588958007334",2
+312,566743a5498e06aab98f2a61,tege,Modern European Restaurant,False,24.691584,46.679787,Al Olaya,False,1,7.8,"24.69216205,46.686588958007334",2
+313,56674327498e323a856eeb83,palabwanay,Molecular Gastronomy Restaurant,False,24.691475,46.679715,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+314,52fc994f498ec066f9764bfb,إيدبل أرينجمنتس خصم خاص لعملاء البنك السعودي للاستثمار اصيل كافئ نفسك,Molecular Gastronomy Restaurant,False,24.69165562539667,46.692005059040305,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+315,56622102498e7d1d090d1d97,kemvolar,Molecular Gastronomy Restaurant,False,24.691573,46.679733,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+316,56544fdc498ecdb84efc1277,مطعم قرية البهارات ( لاثاني ),Pakistani Restaurant,False,24.701920769440907,46.67828894778403,Al Olaya,False,5,6.3,"24.69216205,46.686588958007334",2
+317,4c87ffd57223b1f792ff27a8,La Sani (لاثاني),Pakistani Restaurant,False,24.70507657104682,46.677717999898825,Al Olaya,False,28,6.6,"24.69216205,46.686588958007334",2
+318,4dac932da86e771ea750f558,Marhaba Restaurant,Pakistani Restaurant,False,24.68268049537012,46.688754268414094,Al Olaya,False,105,7.9,"24.69216205,46.686588958007334",2
+319,5c0a86fd81635b002cf0885a,Nando's Tahlia Street Riyadh,Portuguese Restaurant,False,24.6993842,46.689618100000004,Al Olaya,True,3,7.8,"24.69216205,46.686588958007334",2
+320,566220b2498e897cbc594d0c,tufakekero,Portuguese Restaurant,False,24.691417,46.679638,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+321,56621d93498ea7ab9bee6484,tsuk-tsak,Russian Restaurant,False,24.691532000000002,46.679676,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+322,56621c58498e2afbda18786d,nagoblatch,Scandinavian Restaurant,False,24.691502,46.679735,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+323,4ce9055ab997548104fdff44,Golden Lobster (مطعم الربيان الذهبي),Seafood Restaurant,False,24.704611789138198,46.67846331045978,Al Olaya,False,239,7.6,"24.69216205,46.686588958007334",2
+324,50919ff9e4b033509df53ce4,Fayroz Gardn,Southern / Soul Food Restaurant,False,24.682494316467608,46.69734064232091,Al Olaya,False,1,7.8,"24.69216205,46.686588958007334",2
+325,56621a73498e7d1d090138d2,julkegsnadash,Southern / Soul Food Restaurant,False,24.691388,46.679607,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+326,53dbc6bc498edd0694c1deaf,le grano,Spanish Restaurant,False,24.705847,46.677517,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+327,509bc48be4b00d566f68b497,مطعم تيتارو,Spanish Restaurant,False,24.687518058135772,46.68742002561135,Al Olaya,False,4,7.8,"24.69216205,46.686588958007334",2
+328,5d0f81dbab763600234d37b2,Mazagan Soft Cafe,Spanish Restaurant,False,24.698262,46.688373,Al Olaya,False,18,7.0,"24.69216205,46.686588958007334",2
+329,56621970498ef0856dc1ec91,anamsna,Sri Lankan Restaurant,False,24.691446900068026,46.67986884454246,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+330,4f12f3d7e4b0865b091d65cd,Dandany دندني,Swiss Restaurant,False,24.69532585144043,46.68068313598633,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+331,56621a09498e79f35c70b4b8,yufaks,Swiss Restaurant,False,24.69151,46.679577,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+332,5661fd23498ec6e76e3ae382,bugnaw,Swiss Restaurant,False,24.691309,46.679706,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+333,5ef20c29631a0a00085e722f,Sushih سوشيه,Theme Restaurant,False,24.69246,46.683881,Al Olaya,False,6,7.8,"24.69216205,46.686588958007334",2
+334,5bf1c3623149b9002c9cf28b,توب كابي,Theme Restaurant,False,24.694518,46.679699,Al Olaya,False,2,7.8,"24.69216205,46.686588958007334",2
+335,52e952ec498e5d6b092d85cb,topkapi (طوب كابي),Turkish Restaurant,False,24.69446321690793,46.67966365814208,Al Olaya,False,1077,7.6,"24.69216205,46.686588958007334",2
+336,4ea55d26dab47252712308f5,Köşebaşı (كوشي باشي),Turkish Restaurant,False,24.701026412199425,46.6942073490178,Al Olaya,False,1028,7.2,"24.69216205,46.686588958007334",2
+337,5661fc0c498e7d4e465cd130,lamoy,Ukrainian Restaurant,False,24.691283,46.679681,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+338,56e9133b498ed7cad75ce093,vr2,Vegetarian / Vegan Restaurant,False,24.70920015690198,46.672714904931276,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+339,5661fce6498e347f6d9f15f8,utan law/oy,Vegetarian / Vegan Restaurant,False,24.69127000000001,46.679685,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+340,5158a0cfe4b0e5f97c3e78d7,Alfkhani,Vegetarian / Vegan Restaurant,False,24.69988822937012,46.68613052368164,Al Olaya,False,0,7.8,"24.69216205,46.686588958007334",2
+341,4f186dece4b01bd097d5f56a,Abou Shakra,African Restaurant,False,24.76233842676888,46.672078315220354,Almuruj,False,1,7.8,"24.758710649999998,46.661198204891505",1
+342,5d51ba41d0288900087c2ea7,Pondo,American Restaurant,False,24.742213,46.649347,Almuruj,False,141,8.1,"24.758710649999998,46.661198204891505",1
+343,5a7d82a0f0ca9538ac850ece,Sushi Centro,Sushi Restaurant,False,24.75606837912307,46.65333902863959,Almuruj,False,24,6.0,"24.758710649999998,46.661198204891505",1
+344,57271153498e7dbf7603502f,OPEN Barista Bistro,Restaurant,False,24.76457057521629,46.65694800679154,Almuruj,False,10,6.5,"24.758710649999998,46.661198204891505",1
+345,5cfe80bf60d11b002c291527,أكلات حارتنا - للمأكولات الأردنية,Comfort Food Restaurant,False,24.757899,46.674013,Almuruj,False,1,7.8,"24.758710649999998,46.661198204891505",1
+346,5a200b0442d8c23429e922f2,Manto & Yaghmesh,Dumpling Restaurant,False,24.756126000000002,46.657191999999995,Almuruj,False,1,7.8,"24.758710649999998,46.661198204891505",1
+347,50a46a83e4b0a46f90fc1e98,Falafel Themar (فلافل ثمار),Falafel Restaurant,False,24.756364973662986,46.65758495003155,Almuruj,False,331,8.9,"24.758710649999998,46.661198204891505",1
+348,4bbc78f3e5b0d13af5406f7c,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75487843833387,46.65487985766761,Almuruj,True,184,7.5,"24.758710649999998,46.661198204891505",1
+349,505d9ba4e4b0084c407a6dff,Zad Al-moheet (زاد المحيط),Seafood Restaurant,False,24.75685883510001,46.66573498997501,Almuruj,False,26,7.7,"24.758710649999998,46.661198204891505",1
+350,4fa989a2e4b04afbc0ecc0f3,Indian Summer (الصيف الهندي),Indian Restaurant,False,24.76370031819529,46.67121821809926,Almuruj,False,253,6.5,"24.758710649999998,46.661198204891505",1
+351,57af466e498e10cab5266062,حديقة المقبلات,Kebab Restaurant,False,24.756403,46.657906,Almuruj,False,0,7.8,"24.758710649999998,46.661198204891505",1
+352,517f7871498e3e6e6d290082,سلة الفطائر,Arepa Restaurant,False,24.757551335749632,46.66208960379139,Almuruj,False,13,6.5,"24.758710649999998,46.661198204891505",1
+353,5cd341b23c858d002caf4277,EAT UP (ايت اب),Restaurant,False,24.741870000000002,46.64850300000001,Almuruj,True,751,8.8,"24.758710649999998,46.661198204891505",1
+354,583c8b29424f937971fe2716,أسماك دلة,Seafood Restaurant,False,24.75710616878128,46.66615299126667,Almuruj,False,108,9.1,"24.758710649999998,46.661198204891505",1
+355,4fbf6232e4b05f6d3632cef5,مركز مزاد الاسماك,Seafood Restaurant,False,24.756114031948552,46.663469279576816,Almuruj,False,65,7.8,"24.758710649999998,46.661198204891505",1
+356,514c290ee4b02dcabcd68023,اصداف الجزر للاسماك,Seafood Restaurant,False,24.756964963652763,46.665907167042,Almuruj,False,211,8.9,"24.758710649999998,46.661198204891505",1
+357,5d98cbfeaa006a0008a885ef,حلويات بلو لاين,Sri Lankan Restaurant,False,24.752627,46.664688,Almuruj,False,0,7.8,"24.758710649999998,46.661198204891505",1
+358,5024310fe4b0953b3d7d8db3,سفرة السلطان,Turkish Restaurant,False,24.75659629948473,46.6584857038844,Almuruj,False,67,7.4,"24.758710649999998,46.661198204891505",1
+359,50d5bf47e4b021b282a64e2c,T.G.I. Friday's,American Restaurant,False,24.807839468620273,46.665737240492994,Al Rabiea,False,869,7.6,"24.797262699999997,46.66386796457978",0
+360,570a9f57498e2c6e7b0b1e4f,Chili's (تشيليز),American Restaurant,False,24.809332944265194,46.66831501186555,Al Rabiea,False,395,7.5,"24.797262699999997,46.66386796457978",0
+361,5a5de4130457b76a1a0cb48e,Fuddruckers,American Restaurant,False,24.80565128086669,46.66016355699361,Al Rabiea,False,256,7.0,"24.797262699999997,46.66386796457978",0
+362,5c41db11b9b37b002c2d4bb3,Maison Global (ميزون جلوبال),Modern European Restaurant,False,24.793559896496202,46.65614228150663,Al Rabiea,True,783,8.2,"24.797262699999997,46.66386796457978",0
+363,5989f1581543c7318ec78cb3,Bistro Chino,Chinese Restaurant,False,24.79341947136781,46.656221327156544,Al Rabiea,False,590,7.8,"24.797262699999997,46.66386796457978",0
+364,5b7046e7a423620039de52fc,KIMONO (كيمونو),Japanese Restaurant,False,24.793430262635212,46.65429304799849,Al Rabiea,True,477,8.7,"24.797262699999997,46.66386796457978",0
+365,58d91d86102f4722b76d822a,Sushi Art (سوشي ارت),Sushi Restaurant,False,24.7929403,46.6561789,Al Rabiea,True,248,6.7,"24.797262699999997,46.66386796457978",0
+366,5c3f3ed06f0aa2002ce2bb1f,ME SO HUNGRY,Sushi Restaurant,False,24.793547790864988,46.65399491786957,Al Rabiea,True,106,8.3,"24.797262699999997,46.66386796457978",0
+367,5afebff4d69ed00039a36507,Shrimp Shack,Seafood Restaurant,False,24.79361070289789,46.65519537722229,Al Rabiea,True,334,8.4,"24.797262699999997,46.66386796457978",0
+368,5cf96a4bbfc6d0002cad6eb3,Momo,Dumpling Restaurant,False,24.793748,46.65473,Al Rabiea,False,4,7.8,"24.797262699999997,46.66386796457978",0
+369,57107d1f498eac8ccb437d3a,Lavash Corner (لافاش كورنر),Eastern European Restaurant,False,24.78940087063464,46.65888542115858,Al Rabiea,True,1923,7.9,"24.797262699999997,46.66386796457978",0
+370,5648b2c8498ec6f3a4d62743,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.79422531801133,46.65553808800805,Al Rabiea,False,391,8.4,"24.797262699999997,46.66386796457978",0
+371,5cd198c38fb09e002cb97796,Biryani Express,Indian Restaurant,False,24.793171,46.653514,Al Rabiea,True,186,6.9,"24.797262699999997,46.66386796457978",0
+372,59046610a423622127fb1669,Tortilla,Mexican Restaurant,False,24.79338840590104,46.65626436019702,Al Rabiea,True,81,6.9,"24.797262699999997,46.66386796457978",0
+373,5e08a42479bfb60008b7c62b,32 Grimp (٣٢ قرمب),Seafood Restaurant,False,24.795153,46.6552,Al Rabiea,False,72,9.2,"24.797262699999997,46.66386796457978",0
+374,5c9d4715c97f28002c15da9a,شرمبشاك,Seafood Restaurant,False,24.793656,46.655151000000004,Al Rabiea,False,5,7.3,"24.797262699999997,46.66386796457978",0
+375,5c4f462b35d3fc002ca02e50,Fish Pan,Seafood Restaurant,False,24.804875,46.660872,Al Rabiea,False,12,8.1,"24.797262699999997,46.66386796457978",0
+376,5d63b631a94f4a000712d6aa,كبابجي محمود,Turkish Restaurant,False,24.788526,46.658584999999995,Al Rabiea,False,48,7.1,"24.797262699999997,46.66386796457978",0
+377,4b865e39f964a520968731e3,T.G.I. Friday's (فرايديز),American Restaurant,False,24.70495866655266,46.66452563441796,Al-Ma'athar Al-Shimali,False,943,7.7,"24.69216205,46.66616924924594",0
+378,5baf6dfbf2554e0039075183,OKKU,Japanese Restaurant,False,24.69552015820787,46.68187049704994,Al-Ma'athar Al-Shimali,False,794,7.7,"24.69216205,46.66616924924594",0
+379,5899f189abb86a671b602731,Sushi Counter (سوشي كاونتر),Sushi Restaurant,False,24.69261918526595,46.66942181809683,Al-Ma'athar Al-Shimali,False,148,6.8,"24.69216205,46.66616924924594",0
+380,4c601b8490b2c9b6d7013c22,Trader Vic's (ترايدر ڤيكس),Caribbean Restaurant,False,24.69228523818889,46.67144976814965,Al-Ma'athar Al-Shimali,False,617,6.9,"24.69216205,46.66616924924594",0
+381,598772e72ebb34734fa473a0,Lavash (لافاش),Eastern European Restaurant,False,24.69344956838572,46.67726223771469,Al-Ma'athar Al-Shimali,True,2590,8.9,"24.69216205,46.66616924924594",0
+382,575c8b98498e3d47d4bc73c5,Mayrig (مايريك),Mediterranean Restaurant,False,24.69418517486353,46.67904188786154,Al-Ma'athar Al-Shimali,True,977,7.6,"24.69216205,46.66616924924594",0
+383,4dc18bcd8877c00d6adb3383,KFC,Fast Food Restaurant,False,24.70457022638839,46.66481644900382,Al-Ma'athar Al-Shimali,False,47,6.7,"24.69216205,46.66616924924594",0
+384,5229eb2411d2b271a1f9125c,Piatto (بياتو),Italian Restaurant,False,24.69122977367031,46.669610192752465,Al-Ma'athar Al-Shimali,True,998,8.2,"24.69216205,46.66616924924594",0
+385,558c0226498eaf19f67aeec9,Arepas (أريباس),Arepa Restaurant,False,24.67616965336207,46.67684865292383,Al-Ma'athar Al-Shimali,True,144,7.7,"24.69216205,46.66616924924594",0
+386,5ca3360bf709c100397964ea,FireGrill,Mexican Restaurant,False,24.692010999999997,46.669938,Al-Ma'athar Al-Shimali,True,3,7.8,"24.69216205,46.66616924924594",0
+387,4fb53a6be4b0a0f95a2e91ce,Tako Hut (تاكو هت),Mexican Restaurant,False,24.69201937838993,46.67037606700922,Al-Ma'athar Al-Shimali,False,2,7.8,"24.69216205,46.66616924924594",0
+388,54678216498e2e08a232a6ff,ghanache,Modern European Restaurant,False,24.693025,46.67682,Al-Ma'athar Al-Shimali,False,0,7.8,"24.69216205,46.66616924924594",0
+389,5c98c0829cadd9002c774081,2 EAT,Restaurant,False,24.691767957422105,46.67367696762085,Al-Ma'athar Al-Shimali,True,1071,8.5,"24.69216205,46.66616924924594",0
+390,56833693498e1753ae2dfd72,The Mansion Lounge (ذا مانشن),Restaurant,False,24.694107426500192,46.67764663696289,Al-Ma'athar Al-Shimali,True,1838,8.0,"24.69216205,46.66616924924594",0
+391,4f3a6d4fe4b07324284dbf8d,مطعم فروج الكروان,Turkish Restaurant,False,24.69406302044849,46.678437278589975,Al-Ma'athar Al-Shimali,False,434,7.9,"24.69216205,46.66616924924594",0
+392,5144432be4b0b3bb9e7648df,"TSC ""Signature"" (تي أس سي سيجنتشر)",American Restaurant,False,24.70220012738368,46.69202955176285,As Sulaymaniyah,True,2615,8.3,"24.6989148,46.708173863609446",1
+393,5c2661761c0b34002c11318c,Nozomi To Go,Japanese Restaurant,False,24.703158,46.714387,As Sulaymaniyah,False,8,7.0,"24.6989148,46.708173863609446",1
+394,53f4ac57498e3bd97f602bb3,Nozomi (نوزومي),Japanese Restaurant,False,24.70011099663059,46.70470691010298,As Sulaymaniyah,True,6356,9.3,"24.6989148,46.708173863609446",1
+395,4fbf89b6e4b02e98a8f57194,Jollibee,Filipino Restaurant,False,24.69140403620195,46.708574956030866,As Sulaymaniyah,False,137,7.9,"24.6989148,46.708173863609446",1
+396,57ac0038498eb0c3629caf26,Sushi Art (سوشي آرت),Sushi Restaurant,False,24.7033096777476,46.69830916823978,As Sulaymaniyah,True,334,7.3,"24.6989148,46.708173863609446",1
+397,4bd5c0df637ba5931cedf670,Sushi Yoshi (سوشي يوشي),Sushi Restaurant,False,24.704802262438715,46.70627989986146,As Sulaymaniyah,False,1240,8.0,"24.6989148,46.708173863609446",1
+398,513dce36e4b0a2c59edb37c3,@Kitchen ,Eastern European Restaurant,False,24.70996681605245,46.693174970247746,As Sulaymaniyah,False,1,7.8,"24.6989148,46.708173863609446",1
+399,4c6efe78b3ce224b3c7a6fc6,Abu Jbara (ابو جبارة),Falafel Restaurant,False,24.708493518346692,46.69852927579393,As Sulaymaniyah,False,1017,8.7,"24.6989148,46.708173863609446",1
+400,4c0e96c1c6cf76b028fb8051,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.69677537887368,46.70366529545628,As Sulaymaniyah,True,373,8.1,"24.6989148,46.708173863609446",1
+401,4e14f8ac62844b405cacbc16,French Corner (الركن الفرنسي),French Restaurant,False,24.692848757267853,46.70187334726859,As Sulaymaniyah,False,104,6.9,"24.6989148,46.708173863609446",1
+402,5463278f498e931a13dc0a2d,Aunti Anne's,German Restaurant,False,24.68931535026465,46.70266735783845,As Sulaymaniyah,False,0,7.8,"24.6989148,46.708173863609446",1
+403,4edde40261af8a14ba6d0dfb,Tony Patterson & Hanno's Farewell Lunch,German Restaurant,False,24.680347213584906,46.707060319410466,As Sulaymaniyah,False,2,7.8,"24.6989148,46.708173863609446",1
+404,4f855d89e4b0e90cd45e4550,مطعم خان,Gluten-free Restaurant,False,24.706744,46.69061,As Sulaymaniyah,False,0,7.8,"24.6989148,46.708173863609446",1
+405,54f3f66e498ed23c3202bddb,Makani (مكاني),Indian Restaurant,False,24.709891469283786,46.69130160947914,As Sulaymaniyah,True,273,7.4,"24.6989148,46.708173863609446",1
+406,54db92da498ea26cb154c73b,Maharaja ِEast by Vineet (مهراجا),Indian Restaurant,False,24.702265804134,46.70141805967693,As Sulaymaniyah,False,1440,8.2,"24.6989148,46.708173863609446",1
+407,4e9f218ab6340e3e34db1efb,Mashal Restaurant (مطعم مشعل),Indian Restaurant,False,24.694313,46.721274,As Sulaymaniyah,False,50,7.6,"24.6989148,46.708173863609446",1
+408,5bf2a1a460d11b002c8950cd,San Carlo Cicchetti,Italian Restaurant,False,24.70124724715316,46.705258240459614,As Sulaymaniyah,False,2465,8.8,"24.6989148,46.708173863609446",1
+409,4c6ef9fbfa49a1cd0298a1e3,l'Olimpo,Italian Restaurant,False,24.70485980576948,46.70629689930344,As Sulaymaniyah,False,292,8.0,"24.6989148,46.708173863609446",1
+410,4daac6b34b22f071eabf428f,LOlivo (شجرة الزيتون),Italian Restaurant,False,24.712553,46.698479999999996,As Sulaymaniyah,True,83,8.4,"24.6989148,46.708173863609446",1
+411,58d2c9544f218a176b447b5e,Lamis (لميس),Middle Eastern Restaurant,False,24.700163407669567,46.7025163714013,As Sulaymaniyah,True,1123,8.1,"24.6989148,46.708173863609446",1
+412,5548f0ef498e836279e61f3b,Spices Village (قرية البهارات),North Indian Restaurant,False,24.70212715224617,46.691759758546716,As Sulaymaniyah,False,6,7.0,"24.6989148,46.708173863609446",1
+413,50a1524ce4b0f56d62944aed,Zalal Restaurant (مطاعم الزلال),Pakistani Restaurant,False,24.710206158383155,46.69241573416228,As Sulaymaniyah,False,29,6.7,"24.6989148,46.708173863609446",1
+414,5310f62a498e06c8d7ce5629,مطعم المأكولات الروسية Russian Restaurant,Russian Restaurant,False,24.68241189459695,46.70360631508645,As Sulaymaniyah,False,0,7.8,"24.6989148,46.708173863609446",1
+415,5a1a9f1ddab4b138e5a6d17e,Crust Corner (ركن كرست),Restaurant,False,24.700746503367142,46.702084494818074,As Sulaymaniyah,True,111,8.8,"24.6989148,46.708173863609446",1
+416,5bba0777135b39002c8cac3f,Shrimplus (شريمبلس),Seafood Restaurant,False,24.706908,46.708078,As Sulaymaniyah,False,9,7.4,"24.6989148,46.708173863609446",1
+417,566c1dc4498e954be84432ed,Bahreah (بحرية),Seafood Restaurant,False,24.681672279048595,46.70042053013906,As Sulaymaniyah,False,29,7.7,"24.6989148,46.708173863609446",1
+418,5ba27ce2471d6e00396d32a3,Shrimp Shack (شرمبشاك),Seafood Restaurant,False,24.692082742915357,46.70139424993632,As Sulaymaniyah,False,126,7.9,"24.6989148,46.708173863609446",1
+419,5dd575e27ef83f0008185fcb,vegan restaurant Samona Yard,Vegetarian / Vegan Restaurant,False,24.678033,46.70516,As Sulaymaniyah,False,0,7.8,"24.6989148,46.708173863609446",1
+420,5cb95712f870fd002c28c207,Wabi Sabi,Vegetarian / Vegan Restaurant,False,24.700325,46.702265000000004,As Sulaymaniyah,False,56,8.7,"24.6989148,46.708173863609446",1
+421,58e4abc12b04f841c71c7bcb,SHiRO (شيرو),Sushi Restaurant,False,24.769179646293594,46.66511422928823,Al Ghadir,True,1170,8.9,"24.7717442,46.654636302380695",0
+422,5a6ca96e75eee465cce6af65,Tokyo,Japanese Restaurant,False,24.76682317059366,46.65952288708557,Al Ghadir,True,1554,9.2,"24.7717442,46.654636302380695",0
+423,5c50ab427d8497002cbe4bcf,Baytoti (بيتوتي),Chinese Restaurant,False,24.78533090509933,46.660471919778004,Al Ghadir,False,201,8.1,"24.7717442,46.654636302380695",0
+424,4e6a5492a809290267f633c6,Sushi Yoshi (سوشي يوشي),Sushi Restaurant,False,24.78103895443191,46.662676609244464,Al Ghadir,False,1061,7.9,"24.7717442,46.654636302380695",0
+425,57b76a25498e35396bce7f16,Lavender Restaurant (مطعم لافندر),French Restaurant,False,24.783685445680014,46.66131953264738,Al Ghadir,False,155,5.9,"24.7717442,46.654636302380695",0
+426,54e4cdef498ebc55e4bc3d49,Gluten Free (خالي من الجلوتين),Gluten-free Restaurant,False,24.778485534376397,46.66272530998605,Al Ghadir,False,21,7.4,"24.7717442,46.654636302380695",0
+427,53039124498ebaedcd5581dc,sea slim gluten free,Gluten-free Restaurant,False,24.778479,46.66272100000001,Al Ghadir,False,3,7.8,"24.7717442,46.654636302380695",0
+428,5abe5693bd897e291de0f1ac,Amaly (آمالي),Indian Restaurant,False,24.76666356223523,46.659732086486336,Al Ghadir,False,1115,8.1,"24.7717442,46.654636302380695",0
+429,5c06a927f5e9d7002c4c61ba,Delice Restaurant & Lounge,Italian Restaurant,False,24.77561690251025,46.66540734805071,Al Ghadir,False,122,8.3,"24.7717442,46.654636302380695",0
+430,4ecbd1a093adb4bd1b56c555,Manoosha (منؤشة),Mediterranean Restaurant,False,24.778139361558328,46.66391844298212,Al Ghadir,False,166,8.1,"24.7717442,46.654636302380695",0
+431,595a1bc34febd5782b13a131,Margherita (مارغريتا),Italian Restaurant,False,24.767077,46.659568,Al Ghadir,True,68,7.2,"24.7717442,46.654636302380695",0
+432,5a7b487725fb7b6cc4e25450,Mexikakitchen (مكسيكا كيتشن),Mexican Restaurant,False,24.76944503709499,46.665212780636814,Al Ghadir,False,136,8.0,"24.7717442,46.654636302380695",0
+433,531e16bd498efd001f4e1e60,Fire Grill (فاير جريل),Mexican Restaurant,False,24.78288625805117,46.66159640881176,Al Ghadir,True,556,8.4,"24.7717442,46.654636302380695",0
+434,5467a1cd498e62d4c6ac119d,Zaatar w Zeit (زعتر و زيت),Middle Eastern Restaurant,False,24.78281375347513,46.66167416846389,Al Ghadir,True,2756,9.0,"24.7717442,46.654636302380695",0
+435,592728a4dab4b1481e159e7a,Ocean Basket (أوشن باسكت),Seafood Restaurant,False,24.78292815169692,46.66146968046484,Al Ghadir,False,6,7.2,"24.7717442,46.654636302380695",0
+436,595a1b2973fe251e47ebb762,Topkapi (طوبكابي),Turkish Restaurant,False,24.76726230839584,46.659950708407486,Al Ghadir,False,170,6.6,"24.7717442,46.654636302380695",0
+437,59e6722810345b3bda35aa38,Kyokusen Sushi Boutique (كيوكوسين سوشي بوتيك),Japanese Restaurant,False,24.75073313093123,46.61314536453997,Hittin,True,939,8.4,"24.7609724,46.60218912073967",0
+438,59016ea2ff1902109c540c32,Toki Restaurant (توكي),Asian Restaurant,False,24.75446129813923,46.60962799983885,Hittin,True,924,8.2,"24.7609724,46.60218912073967",0
+439,5aac12e0531593779d9f4450,Le Grenier à Pain (لو غرونييه ابان),French Restaurant,False,24.754278122523232,46.6105368709233,Hittin,True,1423,8.7,"24.7609724,46.60218912073967",0
+440,568aece8498e50cbb2bbcad6,Madeleine (مادلين),French Restaurant,False,24.75086183407134,46.613152557211286,Hittin,False,323,7.8,"24.7609724,46.60218912073967",0
+441,5bb79db93731ee002cc835cc,Sum+Things,Restaurant,False,24.749973,46.613906,Hittin,False,1490,8.7,"24.7609724,46.60218912073967",0
+442,5c12af0946e1b6002c9c21e6,Abu Jbara,Falafel Restaurant,False,24.76039785609698,46.59969682028032,Hittin,False,34,7.6,"24.7609724,46.60218912073967",0
+443,55d7aacd498e863604e0b22f,McDonald's (ماكدونالدز),Fast Food Restaurant,False,24.75353754195869,46.58420807814157,Hittin,False,145,8.4,"24.7609724,46.60218912073967",0
+444,51100922e4b0873bd55a05c5,McDonald's,Fast Food Restaurant,False,24.75353461093148,46.60942718548229,Hittin,True,311,8.3,"24.7609724,46.60218912073967",0
+445,5d1cf8e0442332002fe1a0ec,LE DORMA,French Restaurant,False,24.752975,46.625521,Hittin,False,7,5.5,"24.7609724,46.60218912073967",0
+446,571273b0498e7956d8f4d08e,Le D'or Cafe & Lounge (لي د'ور كافيه & لاونج),French Restaurant,False,24.753226260603558,46.611953837793635,Hittin,False,3605,8.4,"24.7609724,46.60218912073967",0
+447,5b2b2fb090d1ed0039bbaace,The Sixth District (ذا سكيث ديستريكت),French Restaurant,False,24.751079421300755,46.61209344863892,Hittin,True,130,7.3,"24.7609724,46.60218912073967",0
+448,5a132a17a9e4026f28c49a7d,Greeki,Greek Restaurant,False,24.755481,46.60872,Hittin,False,1,7.8,"24.7609724,46.60218912073967",0
+449,5c31d58c419a9e002c54c2cd,شقة شباب المستقبل,Halal Restaurant,False,24.768859,46.582196,Hittin,False,2,7.8,"24.7609724,46.60218912073967",0
+450,59ad8af2f0ca95663be664ac,Farzi Café,Indian Restaurant,False,24.754458267134194,46.58593197542899,Hittin,False,1566,8.3,"24.7609724,46.60218912073967",0
+451,5e3322885bb3b00007b7bbd7,Scalini (سكاليني),Italian Restaurant,False,24.760209,46.605154,Hittin,True,315,8.2,"24.7609724,46.60218912073967",0
+452,5901e4eceacf4521f0e6539b,Cipriani (شيبرياني),Italian Restaurant,False,24.756741550228103,46.607654924375495,Hittin,False,1932,8.4,"24.7609724,46.60218912073967",0
+453,5c6485a6d807ee002c7e59c9,95 Kabab,Kebab Restaurant,False,24.772279,46.597705,Hittin,False,1,7.8,"24.7609724,46.60218912073967",0
+454,5ee39abad0fd6e4dd5fe0648,AVAK,Mediterranean Restaurant,False,24.767326999999998,46.621756,Hittin,False,2,7.8,"24.7609724,46.60218912073967",0
+455,5bdf581e6bdee6002c6373aa,شاهي جنب ابو وليد,Mediterranean Restaurant,False,24.766865,46.613011,Hittin,False,0,7.8,"24.7609724,46.60218912073967",0
+456,51fd7fc8498ebd46bbe9ec4a,Fire Grill (فاير جريل),Mexican Restaurant,False,24.753255535620998,46.610334424806716,Hittin,True,653,8.1,"24.7609724,46.60218912073967",0
+457,56f518e6498e0c68f1c6eb7a,Burj Al Hamam Bistro (برج الحمام),Lebanese Restaurant,False,24.754571699640238,46.610274973358116,Hittin,False,875,8.3,"24.7609724,46.60218912073967",0
+458,568dbdf2498e6b03d0289860,Zaatar w Zeit (زعتر و زيت),Middle Eastern Restaurant,False,24.75055328551828,46.61282300949097,Hittin,False,635,8.4,"24.7609724,46.60218912073967",0
+459,5c0a8711bcbf7a00395ae735,Nando's Rubeen Plaza,Portuguese Restaurant,False,24.753042100000002,46.6253442,Hittin,True,4,6.1,"24.7609724,46.60218912073967",0
+460,58034a5ad67c1420ae9f1f28,Shrimp Shack (شرمبشاك),Seafood Restaurant,False,24.752899208515394,46.58419277022889,Hittin,True,563,8.2,"24.7609724,46.60218912073967",0
+461,5e07c16f9939a900071d8c20,El Lechazo Restaurant,Spanish Restaurant,False,24.765234,46.602447999999995,Hittin,False,2,7.5,"24.7609724,46.60218912073967",0
+462,56d8b63fcd10848eda838d02,Sultan's Steakhouse (سلطانز ستيك هاوس),Turkish Restaurant,False,24.750108400658984,46.6141502178356,Hittin,False,3080,8.8,"24.7609724,46.60218912073967",0
+463,5da6200c83e976000829fdf6,Riyadh Season موسم الرياض,Fondue Restaurant,False,24.648424,46.70943,Al Murabba,False,19,7.8,"24.66220335,46.70920480249076",1
+464,5da608c94dc7c200089583e6,Caviar Kaspia Pop-Up (Riyadh Season 2019),Seafood Restaurant,False,24.648447,46.70942,Al Murabba,False,11,6.8,"24.66220335,46.70920480249076",1
+465,5dc45c67abd6c10008f7fb1d,Tetou,French Restaurant,False,24.649151999999997,46.708816999999996,Al Murabba,False,11,5.2,"24.66220335,46.70920480249076",1
+466,5da5f73cba241d0008649c36,Dirty French - Riyadh,French Restaurant,False,24.649686,46.710432,Al Murabba,False,128,6.0,"24.66220335,46.70920480249076",1
+467,5e136c7af6428c000863603b,Avra,Greek Restaurant,False,24.649004,46.709156,Al Murabba,False,22,7.7,"24.66220335,46.70920480249076",1
+468,5dd80cab3c398200079aea10,Billionaire Riyadh,Italian Restaurant,False,24.647118,46.710298,Al Murabba,False,1,8.0,"24.66220335,46.70920480249076",1
+469,52117e7d11d25c859a3c8f94,فوال بابصيل,Arepa Restaurant,False,24.650325775146484,46.70635223388672,Al Murabba,False,7,7.8,"24.66220335,46.70920480249076",1
+470,59a7133959fe5c0af14e6d79,Quetta Grill,Pakistani Restaurant,False,24.678798999999998,46.708576,Al Murabba,False,4,7.8,"24.66220335,46.70920480249076",1
+471,575d833c498e51d08ddf9fa4,Pak House,Pakistani Restaurant,False,24.66369988692183,46.70553532152212,Al Murabba,False,33,5.8,"24.66220335,46.70920480249076",1
+472,5e7208f046a4ad00082aa872,Food Palace Restaurant,Pakistani Restaurant,False,24.663743,46.705457,Al Murabba,False,0,7.8,"24.66220335,46.70920480249076",1
+473,4d53c1eebbbf37040d383878,Al-Hamra Restaurant (مطعم الرحاب),Asian Restaurant,False,24.66892574201534,46.70898943083943,Al Murabba,False,48,7.7,"24.66220335,46.70920480249076",1
+474,5be71312610f04002cf5d0df,Fawal Abo Zaid (فوال أبو زيد),Restaurant,False,24.667328,46.707066999999995,Al Murabba,False,2,7.8,"24.66220335,46.70920480249076",1
+475,5a924a3fd41bb75e48e43cd1,شعبيات ابو زيد,Restaurant,False,24.667713657548266,46.70683206095271,Al Murabba,False,77,8.8,"24.66220335,46.70920480249076",1
+476,5ddd6c62fec4240008f2da99,White Rabbit,Russian Restaurant,False,24.648623,46.709179,Al Murabba,False,2,7.8,"24.66220335,46.70920480249076",1
+477,5de3ed78616eb4000833c0f3,Scott’s Resturant,Seafood Restaurant,False,24.648255,46.709123999999996,Al Murabba,False,2,7.6,"24.66220335,46.70920480249076",1
+478,5378aacb498ee24fa7fcdef1,"مطعم المندي "" سريع سريع """,Southern / Soul Food Restaurant,False,24.65757556644757,46.70584289725208,Al Murabba,False,1,7.8,"24.66220335,46.70920480249076",1
+479,51790f83e4b0994566dfcd89,Vigi Market,Vegetarian / Vegan Restaurant,False,24.650545,46.709488,Al Murabba,False,0,7.8,"24.66220335,46.70920480249076",1
+480,57236241498e7db35c691b92,Saravana Bhavan,South Indian Restaurant,False,24.663358460136852,46.70445792250268,Al Murabba,True,472,9.0,"24.66220335,46.70920480249076",1
